@@ -67,7 +67,6 @@
 - [monniya/hexo-theme-new-vno](https://github.com/monniya/hexo-theme-new-vno) - The new Vno theme ported to Hexo http://monniya.com
 - [WongMinHo/hexo-theme-miho](https://github.com/WongMinHo/hexo-theme-miho) - 🍺一款单栏响应式的hexo主题, A single column response for hexo . https://blog.minhow.com
 - [Longlongyu/hexo-theme-Cxo](https://github.com/Longlongyu/hexo-theme-Cxo) - A cool ，simple & beautiful theme for Hexo. :mushroom:
-- [lucyyaya/wanyan](https://github.com/lucyyaya/wanyan) - graduation project
 
 ## Clojure 
 
@@ -395,7 +394,6 @@
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [nexmo-community/nexmo-verify-nuxt](https://github.com/nexmo-community/nexmo-verify-nuxt) - A basic Nuxt/SSR application that allows users to login using SMS and phone verification
 - [Yoshino-UI/yoshion-docs](https://github.com/Yoshino-UI/yoshion-docs) - 一个用yoshino组件构建的组件库文档
-- [styletron/styletron](https://github.com/styletron/styletron) - :zap: Toolkit for component-oriented styling
 - [ruanyf/es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
 - [ShanaMaid/vue-163-music](https://github.com/ShanaMaid/vue-163-music) - 【停止维护】网易云音乐web版，支持PC端常用功能，localStorage保存播放列表
 - [nodejs/readable-stream](https://github.com/nodejs/readable-stream) - Node-core streams for userland
@@ -433,6 +431,8 @@
 
 ## Others 
 
+- [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业
+- [getActivity/EmojiPackage](https://github.com/getActivity/EmojiPackage) - 表情包资源合集，张张都是经典
 - [loverajoel/jstips](https://github.com/loverajoel/jstips) - This is about useful JS tips!
 - [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 每周为您推荐国内外前端领域最新的优秀文章以及行业进展
 - [alexkaratarakis/gitattributes](https://github.com/alexkaratarakis/gitattributes) - A collection of useful .gitattributes templates
@@ -525,6 +525,7 @@
 
 ## Python 
 
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [xjh22222228/awesome-web-editor](https://github.com/xjh22222228/awesome-web-editor) - 🔨  Open source WEB editor summary
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
@@ -605,6 +606,8 @@
 
 ## TypeScript 
 
+- [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
+- [sorrycc/esbuild-webpack-plugin](https://github.com/sorrycc/esbuild-webpack-plugin) - Use esbuild as minifier for webpack.
 - [monstar-lab-oss/nestjs-starter-rest-api](https://github.com/monstar-lab-oss/nestjs-starter-rest-api) - NestJS Starter Kit. Monolithic Backend. REST API.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [CatsMiaow/node-nestjs-structure](https://github.com/CatsMiaow/node-nestjs-structure) - Node.js framework NestJS project structure
@@ -801,6 +804,7 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
+- [styletron/styletron](https://github.com/styletron/styletron) - :zap: Toolkit for component-oriented styling
 
 ## Vue 
 
