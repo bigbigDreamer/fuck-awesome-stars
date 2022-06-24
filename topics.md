@@ -50,6 +50,7 @@
 - [english](#english)
 - [es6](#es6)
 - [eslint](#eslint)
+- [ethereum](#ethereum)
 - [express](#express)
 - [firefox](#firefox)
 - [flutter](#flutter)
@@ -192,6 +193,7 @@
 
 ## api 
 
+- [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js) - Ethereum JavaScript API
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [innocces/taro-hooks](https://github.com/innocces/taro-hooks) - 为 Taro 而设计的 Hooks Library https://taro-hooks-innocces.vercel.app
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
@@ -269,7 +271,7 @@
 
 ## bot 
 
-- [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-Platform Chatbot Framework Made With Love
+- [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-platform chatbot framework made with love
 - [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
 
 ## c 
@@ -416,7 +418,7 @@
 
 ## discord 
 
-- [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-Platform Chatbot Framework Made With Love
+- [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-platform chatbot framework made with love
 
 ## django 
 
@@ -507,6 +509,10 @@
 - [umijs/fabric](https://github.com/umijs/fabric) - 💪严格但是不严苛的编码规范
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
+
+## ethereum 
+
+- [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js) - Ethereum JavaScript API
 
 ## express 
 
@@ -754,6 +760,7 @@
 
 ## javascript 
 
+- [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js) - Ethereum JavaScript API
 - [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
@@ -1770,7 +1777,7 @@
 
 ## telegram 
 
-- [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-Platform Chatbot Framework Made With Love
+- [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-platform chatbot framework made with love
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 
 ## tensorflow 
@@ -1804,6 +1811,8 @@
 
 ## typescript 
 
+- [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
+- [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js) - Ethereum JavaScript API
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
 - [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
