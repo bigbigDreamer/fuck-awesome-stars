@@ -64,6 +64,7 @@
 - [github-api](#github-api)
 - [go](#go)
 - [golang](#golang)
+- [good-first-issue](#good-first-issue)
 - [google](#google)
 - [graphql](#graphql)
 - [hackathon](#hackathon)
@@ -632,6 +633,10 @@
 - [zu1k/nali](https://github.com/zu1k/nali) - 一个查询IP地理信息和CDN服务提供商的离线终端工具.An offline tool for querying IP geographic information and CDN provider.
 - [labring/sealos](https://github.com/labring/sealos) - kubernetes-kernel-based cloud os! Let's sealos run kubernetes:v1.24.0
 - [go-pay/gopay](https://github.com/go-pay/gopay) - 微信、支付宝、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】
+
+## good-first-issue 
+
+- [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 
 ## google 
 
@@ -1206,6 +1211,7 @@
 
 ## others 
 
+- [antfu/taze](https://github.com/antfu/taze) - 🥦 A modern cli tool that keeps your deps fresh
 - [HCLonely/hexo-bilibili-bangumi](https://github.com/HCLonely/hexo-bilibili-bangumi) - hexo 番剧页面插件，可选数据源：Bilibili, Bangumi
 - [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业
 - [sorrycc/esbuild-webpack-plugin](https://github.com/sorrycc/esbuild-webpack-plugin) - Use esbuild as minifier for webpack.
