@@ -1086,6 +1086,7 @@
 
 ## node 
 
+- [liaoliaots/nestjs-redis](https://github.com/liaoliaots/nestjs-redis) - Redis(ioredis) module for Nest framework (node.js).
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
 - [CatsMiaow/node-nestjs-structure](https://github.com/CatsMiaow/node-nestjs-structure) - Node.js framework NestJS project structure
@@ -1111,6 +1112,7 @@
 
 ## nodejs 
 
+- [liaoliaots/nestjs-redis](https://github.com/liaoliaots/nestjs-redis) - Redis(ioredis) module for Nest framework (node.js).
 - [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
@@ -1817,6 +1819,7 @@
 
 ## typescript 
 
+- [liaoliaots/nestjs-redis](https://github.com/liaoliaots/nestjs-redis) - Redis(ioredis) module for Nest framework (node.js).
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js) - Ethereum JavaScript API
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
