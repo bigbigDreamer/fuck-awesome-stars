@@ -283,6 +283,7 @@
 
 - [syhyz1990/baiduyun](https://github.com/syhyz1990/baiduyun) - 油猴脚本 - 一个免费开源的网盘下载助手
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [kas-elvirov/gloc](https://github.com/kas-elvirov/gloc) - :calendar: Browser extension: counts lines of code on GitHub
 - [justjavac/the-front-end-knowledge-you-may-not-know](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know) - :innocent: 你可能不知道的前端知识点
 
@@ -1371,7 +1372,7 @@
 - [sorrycc/awesome-tools](https://github.com/sorrycc/awesome-tools) - Awesome tools I used.
 - [webp-sh/webp_server_go](https://github.com/webp-sh/webp_server_go) - Go version of WebP Server. A tool that will serve your JPG/PNGs as WebP format with compression, on-the-fly.
 - [microsoft/monaco-editor-samples](https://github.com/microsoft/monaco-editor-samples) - Moved to https://github.com/microsoft/monaco-editor
-- [yisar/fre](https://github.com/yisar/fre) - :ghost: Tiny Footprint Concurrent UI library for Fiber.
+- [frejs/fre](https://github.com/frejs/fre) - :ghost: Tiny Footprint Concurrent UI library for Fiber.
 - [TypeFox/monaco-languageclient](https://github.com/TypeFox/monaco-languageclient) - NPM module to connect Monaco editor with language servers
 - [microsoft/monaco-editor-webpack-plugin](https://github.com/microsoft/monaco-editor-webpack-plugin) - Moved to https://github.com/microsoft/monaco-editor
 - [Aaaaash/blog](https://github.com/Aaaaash/blog) - ✍️不定期断更
