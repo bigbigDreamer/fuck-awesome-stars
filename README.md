@@ -85,7 +85,7 @@
 - [labring/sealos](https://github.com/labring/sealos) - kubernetes-kernel-based cloud os! Let's sealos run kubernetes and applications.
 - [go-pay/gopay](https://github.com/go-pay/gopay) - 微信、支付宝、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control tool for teams. Public demo: https://demo.bytebase.com. SQL 审核查询平台
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control tool for teams. Public demo: https://demo.bytebase.com
 - [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
 - [webp-sh/webp_server_go](https://github.com/webp-sh/webp_server_go) - Go version of WebP Server. A tool that will serve your JPG/PNGs as WebP format with compression, on-the-fly.
 - [StackExchange/blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
@@ -611,6 +611,7 @@
 
 ## TypeScript 
 
+- [TypeStrong/ts-expect](https://github.com/TypeStrong/ts-expect) - Checks TypeScript types match expected values
 - [styleguidist/react-docgen-typescript](https://github.com/styleguidist/react-docgen-typescript) - A simple parser for react properties defined in typescript instead of propTypes.
 - [liaoliaots/nestjs-redis](https://github.com/liaoliaots/nestjs-redis) - Redis(ioredis) module for Nest framework (node.js).
 - [antfu/taze](https://github.com/antfu/taze) - 🥦 A modern cli tool that keeps your deps fresh
