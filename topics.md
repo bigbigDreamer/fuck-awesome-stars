@@ -110,6 +110,7 @@
 - [php](#php)
 - [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
+- [powershell](#powershell)
 - [programming](#programming)
 - [publishing](#publishing)
 - [pwa](#pwa)
@@ -644,7 +645,7 @@
 
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [zu1k/nali](https://github.com/zu1k/nali) - 一个查询IP地理信息和CDN服务提供商的离线终端工具.An offline tool for querying IP geographic information and CDN provider.
-- [labring/sealos](https://github.com/labring/sealos) - kubernetes-kernel-based cloud os! Let's sealos run kubernetes and applications.
+- [labring/sealos](https://github.com/labring/sealos) - kubernetes-kernel-based cloud os! Let's sealos run kubernetes:v1.24.2!
 - [go-pay/gopay](https://github.com/go-pay/gopay) - 微信、支付宝、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】
 
 ## good-first-issue 
@@ -778,6 +779,7 @@
 
 ## javascript 
 
+- [pshihn/workly](https://github.com/pshihn/workly) - A really simple way to move a function or class to a web worker. 🏋️‍♀️→ 😄
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
 - [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js) - Ethereum JavaScript API
 - [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
@@ -962,7 +964,7 @@
 
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [labring/sealos](https://github.com/labring/sealos) - kubernetes-kernel-based cloud os! Let's sealos run kubernetes and applications.
+- [labring/sealos](https://github.com/labring/sealos) - kubernetes-kernel-based cloud os! Let's sealos run kubernetes:v1.24.2!
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 
@@ -1105,6 +1107,7 @@
 
 ## node 
 
+- [esbuild-kit/esno](https://github.com/esbuild-kit/esno) - Alias to `tsx`
 - [liaoliaots/nestjs-redis](https://github.com/liaoliaots/nestjs-redis) - Redis(ioredis) module for Nest framework (node.js).
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
@@ -1233,6 +1236,8 @@
 
 ## others 
 
+- [Qexo/Qexo](https://github.com/Qexo/Qexo) - A Quick, Powerful and Pretty Online Manager for Hexo.
+- [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [sudongyuer/javascript-mental-models](https://github.com/sudongyuer/javascript-mental-models) - 💘 帮助你建立良好的JavaScript心智模型
 - [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites. http://browsersync.io
 - [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
@@ -1524,6 +1529,10 @@
 - [notadd/notadd](https://github.com/notadd/notadd) - A microservice development architecture based on nest.js. —— 基于 Nest.js 的微服务开发架构。
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control tool for teams. Public demo: https://demo.bytebase.com
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
+
+## powershell 
+
+- [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 
 ## programming 
 
@@ -1852,6 +1861,8 @@
 
 ## typescript 
 
+- [esbuild-kit/esno](https://github.com/esbuild-kit/esno) - Alias to `tsx`
+- [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes.
 - [stipsan/scroll-into-view-if-needed](https://github.com/stipsan/scroll-into-view-if-needed) - Element.scrollIntoView ponyfills for things like "if-needed" and "smooth"
 - [TypeStrong/ts-expect](https://github.com/TypeStrong/ts-expect) - Checks TypeScript types match expected values
 - [liaoliaots/nestjs-redis](https://github.com/liaoliaots/nestjs-redis) - Redis(ioredis) module for Nest framework (node.js).
@@ -2046,6 +2057,7 @@
 
 ## windows 
 
+- [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [moxystudio/node-cross-spawn](https://github.com/moxystudio/node-cross-spawn) - A cross platform solution to node's spawn and spawnSync
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
