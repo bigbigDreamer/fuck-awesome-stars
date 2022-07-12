@@ -13,6 +13,7 @@
 - [CoffeeScript](#coffeescript)
 - [Go](#go)
 - [HTML](#html)
+- [Handlebars](#handlebars)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -109,6 +110,10 @@
 - [expressjs/expressjs.com](https://github.com/expressjs/expressjs.com) - 
 - [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
 - [liuxing/node-blog](https://github.com/liuxing/node-blog) - :rocket:《Node.js从入门到上线》A blog build with Koa2.
+
+## Handlebars 
+
+- [rustlang-cn/rusty-book](https://github.com/rustlang-cn/rusty-book) - A curated list of recipes and repos that can be used to build your rusty projects. Rusty Book = Cookbook + Awesome Rust！
 
 ## Java 
 
@@ -637,6 +642,9 @@
 
 ## TypeScript 
 
+- [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
+- [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [mentaljam/rollup-plugin-swc](https://github.com/mentaljam/rollup-plugin-swc) - Rollup plugin to compile bundles with the SWC.
 - [esbuild-kit/esno](https://github.com/esbuild-kit/esno) - Alias to `tsx`
 - [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes.
