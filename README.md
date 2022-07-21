@@ -91,7 +91,7 @@
 - [labring/sealos](https://github.com/labring/sealos) - sealos is a multi-tenant kubernetes distribution. You can use sealos to easily build a public or a private cloud. It is simple, flexible and powerful!
 - [go-pay/gopay](https://github.com/go-pay/gopay) - 微信、支付宝、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control tool for teams. Public demo: https://demo.bytebase.com
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams. Public demo: https://demo.bytebase.com
 - [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
 - [webp-sh/webp_server_go](https://github.com/webp-sh/webp_server_go) - Go version of WebP Server. A tool that will serve your JPG/PNGs as WebP format with compression, on-the-fly.
 - [StackExchange/blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
@@ -680,7 +680,7 @@
 - [sorrycc/esbuild-webpack-plugin](https://github.com/sorrycc/esbuild-webpack-plugin) - Use esbuild as minifier for webpack.
 - [monstar-lab-oss/nestjs-starter-rest-api](https://github.com/monstar-lab-oss/nestjs-starter-rest-api) - NestJS Starter Kit. Monolithic Backend. REST API.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
-- [CatsMiaow/node-nestjs-structure](https://github.com/CatsMiaow/node-nestjs-structure) - Node.js framework NestJS project structure
+- [CatsMiaow/nestjs-project-structure](https://github.com/CatsMiaow/nestjs-project-structure) - Node.js framework NestJS project structure
 - [kentloog/nestjs-sequelize-typescript](https://github.com/kentloog/nestjs-sequelize-typescript) - Nest + sequelize-typescript + JWT + Jest + Swagger
 - [typestack/class-transformer](https://github.com/typestack/class-transformer) - Decorator-based transformation, serialization, and deserialization between objects and classes.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。Roadmap https://github.
@@ -796,7 +796,7 @@
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕜 Modern Timeline Component for React
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
-- [BetaSu/big-react](https://github.com/BetaSu/big-react) - 与React18源码最接近的极简实现
+- [BetaSu/big-react](https://github.com/BetaSu/big-react) - 跟着我，从0实现React18
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers
 - [notadd/notadd](https://github.com/notadd/notadd) - A microservice development architecture based on nest.js. —— 基于 Nest.js 的微服务开发架构。
