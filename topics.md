@@ -798,6 +798,8 @@
 
 ## javascript 
 
+- [Donaldcwl/browser-image-compression](https://github.com/Donaldcwl/browser-image-compression) - Javascript module to be run in the web browser for image compression.
+- [fengyuanchen/compressorjs](https://github.com/fengyuanchen/compressorjs) - JavaScript image compressor.
 - [feross/queue-microtask](https://github.com/feross/queue-microtask) - fast, tiny `queueMicrotask` shim for modern engines
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
@@ -1089,7 +1091,7 @@
 
 - [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Essential UI blocks for building mobile web apps.
 - [JoeyBling/hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) - 一个简洁优雅的hexo主题 A simple and elegant theme for hexo.
-- [youzan/vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
+- [vant-ui/vant](https://github.com/vant-ui/vant) - Lightweight Mobile UI Components built on Vue
 
 ## mongodb 
 
@@ -1274,6 +1276,9 @@
 
 ## others 
 
+- [zikaari/webext-bridge](https://github.com/zikaari/webext-bridge) - Messaging in Web Extensions made super easy. Out of the box.
+- [clubxdev/bob-plugin-deeplx](https://github.com/clubxdev/bob-plugin-deeplx) - Bob DeepL 插件
+- [whatwg/loader](https://github.com/whatwg/loader) - Loader Standard
 - [mgcrea/node-xlsx](https://github.com/mgcrea/node-xlsx) - NodeJS excel file parser & builder
 - [ksylor/ohshitgit](https://github.com/ksylor/ohshitgit) - The official home of Oh Shit, Git!?!
 - [TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10 Activation Toolkit get digital license, the best open source Win 10 activator in GitHub. GitHub 上最棒的开源 Win10 数字权利（数字许可证）激活工具！
@@ -2042,7 +2047,7 @@
 - [vuejs/vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
 - [caiya/vue-neditor-wrap](https://github.com/caiya/vue-neditor-wrap) - 基于vue和neditor的双向绑定组件，使用vue-cli3的项目可以直接使用
 - [iview/iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
-- [youzan/vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
+- [vant-ui/vant](https://github.com/vant-ui/vant) - Lightweight Mobile UI Components built on Vue
 - [surmon-china/vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) - @quilljs editor component for @vuejs
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - uni-app 是使用 Vue 语法开发小程序、H5、App的统一框架
