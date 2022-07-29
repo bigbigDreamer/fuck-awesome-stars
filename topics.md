@@ -188,6 +188,7 @@
 
 ## angular 
 
+- [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2022)
 - [any86/any-touch](https://github.com/any86/any-touch) - :wave: Touch gesture library, 1kb~5kb, compatible with PC / mobile
@@ -454,6 +455,7 @@
 
 ## documentation 
 
+- [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
 - [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
@@ -784,6 +786,7 @@
 
 ## ios 
 
+- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [getActivity/EmojiPackage](https://github.com/getActivity/EmojiPackage) - 表情包资源合集，张张都是经典
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [didi/Hummer](https://github.com/didi/Hummer) - 一套移动端高性能高可用的动态化跨端开发框架
@@ -803,6 +806,8 @@
 
 ## javascript 
 
+- [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [tinymce/tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
 - [Donaldcwl/browser-image-compression](https://github.com/Donaldcwl/browser-image-compression) - Javascript module to be run in the web browser for image compression.
 - [fengyuanchen/compressorjs](https://github.com/fengyuanchen/compressorjs) - JavaScript image compressor.
@@ -1049,6 +1054,7 @@
 
 ## macos 
 
+- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台翻译和 OCR 软件。
 - [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool
 - [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
@@ -1071,6 +1077,7 @@
 
 ## markdown 
 
+- [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [shuding/nextra](https://github.com/shuding/nextra) - The Next.js Static Site Generator
@@ -1181,6 +1188,7 @@
 
 ## nodejs 
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [feross/queue-microtask](https://github.com/feross/queue-microtask) - fast, tiny `queueMicrotask` shim for modern engines
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
@@ -1263,6 +1271,7 @@
 
 ## npm 
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
 - [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (June 2022)
@@ -1287,6 +1296,11 @@
 
 ## others 
 
+- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
+- [stipsan/compute-scroll-into-view](https://github.com/stipsan/compute-scroll-into-view) - Utility for calculating what should be scrolled, how it's scrolled is up to you
+- [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff) - A javascript text differencing implementation.
+- [cezary/react-diff](https://github.com/cezary/react-diff) - Given two inputs, highlights the differences
+- [Guts/mkdocs-rss-plugin](https://github.com/Guts/mkdocs-rss-plugin) - MkDocs plugin to generate a RSS feeds for created and updated pages, using git log and YAML frontmatter (page.meta).
 - [privatenumber/ts-runtime-comparison](https://github.com/privatenumber/ts-runtime-comparison) - Comparison of TypeScript runtimes
 - [mhausenblas/mkdocs-deploy-gh-pages](https://github.com/mhausenblas/mkdocs-deploy-gh-pages) - GitHub Action to deploy an MkDocs site to GitHub Pages
 - [zikaari/webext-bridge](https://github.com/zikaari/webext-bridge) - Messaging in Web Extensions made super easy. Out of the box.
@@ -1614,6 +1628,7 @@
 
 ## python 
 
+- [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal) - a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image
 - [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
@@ -1635,6 +1650,8 @@
 
 ## react 
 
+- [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [shuding/nextra](https://github.com/shuding/nextra) - The Next.js Static Site Generator
 - [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️
@@ -1937,6 +1954,8 @@
 
 ## typescript 
 
+- [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [danielroe/magic-regexp](https://github.com/danielroe/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative
 - [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx) - ⚡️ TypeScript Execute (tsx): Node.js enhanced with esbuild to run TypeScript & ESM
 - [TypeStrong/fork-ts-checker-webpack-plugin](https://github.com/TypeStrong/fork-ts-checker-webpack-plugin) - Webpack plugin that runs typescript type checker on a separate process.
@@ -2031,6 +2050,7 @@
 
 ## vue 
 
+- [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 - [TypeStrong/fork-ts-checker-webpack-plugin](https://github.com/TypeStrong/fork-ts-checker-webpack-plugin) - Webpack plugin that runs typescript type checker on a separate process.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [purocean/yn](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.j
