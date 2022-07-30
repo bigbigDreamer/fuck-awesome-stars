@@ -1296,6 +1296,8 @@
 
 ## others 
 
+- [GoogleChromeLabs/import-from-worker](https://github.com/GoogleChromeLabs/import-from-worker) - It’s like import(), but runs the module in a worker.
+- [bigbigDreamer/weekly](https://github.com/bigbigDreamer/weekly) - weekly blog
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [stipsan/compute-scroll-into-view](https://github.com/stipsan/compute-scroll-into-view) - Utility for calculating what should be scrolled, how it's scrolled is up to you
 - [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff) - A javascript text differencing implementation.
