@@ -265,7 +265,7 @@
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
-- [renatorib/react-powerplug](https://github.com/renatorib/react-powerplug) - :electric_plug: [Discontinued] Renderless Containers
+- [renatorib/react-powerplug](https://github.com/renatorib/react-powerplug) - :electric_plug: [Unmaintained] Renderless Containers
 - [matthewp/react-robot](https://github.com/matthewp/react-robot) - Robot plugin for React
 - [matzkoh/prettier-plugin-packagejson](https://github.com/matzkoh/prettier-plugin-packagejson) - Prettier plugin for package.json
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
@@ -420,7 +420,7 @@
 - [bencodezen/vue-enterprise-boilerplate](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
 - [Wscats/vue-awesome-mui](https://github.com/Wscats/vue-awesome-mui) - :trophy:Mui component for Vue.js(1.x ~ 2.x)
 - [bripkens/connect-history-api-fallback](https://github.com/bripkens/connect-history-api-fallback) - Fallback to index.html for applications that are using the HTML 5 history API
-- [vuejs/cn.vuejs.org](https://github.com/vuejs/cn.vuejs.org) - 🇨🇳 Chinese translation for vuejs.org
+- [vuejs/v2.cn.vuejs.org](https://github.com/vuejs/v2.cn.vuejs.org) - 🇨🇳 Chinese translation for vuejs.org
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [developit/unfetch](https://github.com/developit/unfetch) - 🐕 Bare minimum 500b fetch polyfill.
 - [ppoffice/hexo-theme-icarus](https://github.com/ppoffice/hexo-theme-icarus) - A simple, delicate, and modern theme for the static site generator Hexo.
@@ -691,6 +691,7 @@
 
 ## TypeScript 
 
+- [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [vadimdemedes/thememirror](https://github.com/vadimdemedes/thememirror) - 🦚 Beautiful themes for CodeMirror
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
