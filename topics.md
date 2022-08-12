@@ -229,6 +229,7 @@
 
 ## awesome 
 
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
 - [apvarun/awesome-bun](https://github.com/apvarun/awesome-bun) - ⚡️ A curated list of awesome things related to Bun
 - [rustlang-cn/rusty-book](https://github.com/rustlang-cn/rusty-book) - A curated list of recipes and repos that can be used to build your rusty projects. Rusty Book = Cookbook + Awesome Rust！
@@ -249,6 +250,7 @@
 
 ## awesome-list 
 
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [apvarun/awesome-bun](https://github.com/apvarun/awesome-bun) - ⚡️ A curated list of awesome things related to Bun
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -299,6 +301,7 @@
 
 ## chrome 
 
+- [QasimWani/LeetHub](https://github.com/QasimWani/LeetHub) - Automatically sync your leetcode solutions to your github account - top 5 trending GitHub repository
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [syhyz1990/baiduyun](https://github.com/syhyz1990/baiduyun) - 油猴脚本 - 一个免费开源的网盘下载助手
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -308,12 +311,14 @@
 
 ## chrome-extension 
 
+- [QasimWani/LeetHub](https://github.com/QasimWani/LeetHub) - Automatically sync your leetcode solutions to your github account - top 5 trending GitHub repository
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework
 - [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🍰 Browser extension that simplifies finding and subscribing RSS and RSSHub
 - [unbug/codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
 
 ## cli 
 
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx) - ⚡️ TypeScript Execute (tsx): Node.js enhanced with esbuild to run TypeScript & ESM
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
@@ -367,6 +372,7 @@
 
 ## css 
 
+- [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨  A web component for drawing patterns with CSS.
 - [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 每周为您推荐国内外前端领域最新的优秀文章以及行业进展
 - [30-seconds/30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - Short CSS code snippets for all your development needs
 - [ostranme/swagger-ui-themes](https://github.com/ostranme/swagger-ui-themes) - :boom: A collection of css themes to spice up your Swagger docs
@@ -643,6 +649,7 @@
 
 ## github 
 
+- [QasimWani/LeetHub](https://github.com/QasimWani/LeetHub) - Automatically sync your leetcode solutions to your github account - top 5 trending GitHub repository
 - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
 - [justjavac/auto-green](https://github.com/justjavac/auto-green) - 自动保持 GitHub 提交状态常绿 a commit every day, keep your girlfriend far away.
@@ -659,6 +666,7 @@
 
 ## github-api 
 
+- [QasimWani/LeetHub](https://github.com/QasimWani/LeetHub) - Automatically sync your leetcode solutions to your github account - top 5 trending GitHub repository
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
 - [justjavac/auto-green](https://github.com/justjavac/auto-green) - 自动保持 GitHub 提交状态常绿 a commit every day, keep your girlfriend far away.
@@ -815,7 +823,9 @@
 
 ## javascript 
 
+- [QasimWani/LeetHub](https://github.com/QasimWani/LeetHub) - Automatically sync your leetcode solutions to your github account - top 5 trending GitHub repository
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
+- [padloc/padloc](https://github.com/padloc/padloc) - A modern, open source password manager for individuals and teams.
 - [dsherret/ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
@@ -940,7 +950,6 @@
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [kujian/frontendDaily](https://github.com/kujian/frontendDaily) - 前端开发博客，分享互联网最精彩的前端技术，欢迎关注我微信公众号：前端开发博客，回复 1024，领取前端进阶资料包，回复 加群，与大神一起交流学习。
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
-- [muhammed/vue-interactive-paycard](https://github.com/muhammed/vue-interactive-paycard) - Credit card form with smooth and sweet micro-interactions
 - [SilurianYang/uni-app-tools](https://github.com/SilurianYang/uni-app-tools) - this is some uni-app toolset, more routing extensions
 - [yisainan/web-interview](https://github.com/yisainan/web-interview) - 我是「齐丶先丶森」，公众号「前端面试秘籍」作者，收集整理全网面试题及面试技巧，旨在帮助前端工程师们找到一份好工作！
 - [xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - TypeScript 入门教程
@@ -1320,12 +1329,17 @@
 
 ## others 
 
+- [pugjs/pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js
+- [mathisonian/svg-path-generator](https://github.com/mathisonian/svg-path-generator) - generate svg paths without memorizing the svg path spec / shortcodes http://www.w3.org/TR/SVG/paths.html
+- [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
+- [justjavac/chrome_password.rs](https://github.com/justjavac/chrome_password.rs) - Get username & password from Chrome.
+- [modern-js-dev/build-tool-inspector](https://github.com/modern-js-dev/build-tool-inspector) - Devtool for webpack.
+- [Brooooooklyn/Clipboard](https://github.com/Brooooooklyn/Clipboard) - Manipulate Clipboard in Node.js via native API.
 - [vadimdemedes/thememirror](https://github.com/vadimdemedes/thememirror) - 🦚 Beautiful themes for CodeMirror
 - [Tencent/wujie](https://github.com/Tencent/wujie) - 极致的微前端框架
 - [adriankumpf/teslamate](https://github.com/adriankumpf/teslamate) - A self-hosted data logger for your Tesla  🚘
 - [captainbrosset/inactive-css](https://github.com/captainbrosset/inactive-css) - A list of rules for when CSS properties have no effect
 - [node-inspector/node-inspector](https://github.com/node-inspector/node-inspector) - Node.js debugger based on Blink Developer Tools
-- [padloc/padloc](https://github.com/padloc/padloc) - A modern, open source password manager for individuals and teams.
 - [rosell-dk/webp-convert](https://github.com/rosell-dk/webp-convert) - Convert jpeg/png to webp with PHP (if at all possible)
 - [Jacksgong/webp-converter](https://github.com/Jacksgong/webp-converter) - Converter PNG/JPG to Webp and scan all changes
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -1663,6 +1677,7 @@
 
 ## pwa 
 
+- [padloc/padloc](https://github.com/padloc/padloc) - A modern, open source password manager for individuals and teams.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
@@ -1692,6 +1707,7 @@
 
 ## react 
 
+- [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2,300+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any De
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
@@ -2000,7 +2016,9 @@
 
 ## typescript 
 
+- [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2,300+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any De
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
+- [padloc/padloc](https://github.com/padloc/padloc) - A modern, open source password manager for individuals and teams.
 - [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - TypeScript API generator via Swagger scheme
 - [dsherret/ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
 - [ronami/HypeScript](https://github.com/ronami/HypeScript) - 🐬 A simplified implementation of TypeScript's type system written in TypeScript's type system
@@ -2122,7 +2140,6 @@
 - [coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview) - 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
 - [haizlin/fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
 - [kujian/frontendDaily](https://github.com/kujian/frontendDaily) - 前端开发博客，分享互联网最精彩的前端技术，欢迎关注我微信公众号：前端开发博客，回复 1024，领取前端进阶资料包，回复 加群，与大神一起交流学习。
-- [muhammed/vue-interactive-paycard](https://github.com/muhammed/vue-interactive-paycard) - Credit card form with smooth and sweet micro-interactions
 - [yisainan/web-interview](https://github.com/yisainan/web-interview) - 我是「齐丶先丶森」，公众号「前端面试秘籍」作者，收集整理全网面试题及面试技巧，旨在帮助前端工程师们找到一份好工作！
 - [Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
 - [yygmind/blog](https://github.com/yygmind/blog) - 我是木易杨，公众号「高级前端进阶」作者，跟着我每周重点攻克一个前端面试重难点。接下来让我带你走进高级前端的世界，在进阶的路上，共勉！
