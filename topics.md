@@ -662,6 +662,7 @@
 - [gee1k/uPic](https://github.com/gee1k/uPic) - 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
 - [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - :symbols: A collection of GitHub issue and pull request templates
 - [GitCredentialManager/git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
+- [Bytebase/Bytebase](https://github.com/Bytebase/Bytebase) - Safe database schema change and version control for DevOps teams. https://www.bytebase.com
 - [jlumbroso/react-github-login](https://github.com/jlumbroso/react-github-login) - :octocat: A React Component for GitHub Login
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
@@ -716,7 +717,7 @@
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [aidenybai/million](https://github.com/aidenybai/million) - Virtual DOM into the future! ✨🦁🚀✨
+- [aidenybai/million](https://github.com/aidenybai/million) - Virtual DOM into the future! 🔟🔼6️⃣
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
@@ -855,7 +856,7 @@
 - [loverajoel/jstips](https://github.com/loverajoel/jstips) - This is about useful JS tips!
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 每周为您推荐国内外前端领域最新的优秀文章以及行业进展
-- [aidenybai/million](https://github.com/aidenybai/million) - Virtual DOM into the future! ✨🦁🚀✨
+- [aidenybai/million](https://github.com/aidenybai/million) - Virtual DOM into the future! 🔟🔼6️⃣
 - [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
@@ -1333,6 +1334,8 @@
 
 ## others 
 
+- [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (258 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
+- [lukeed/tsm](https://github.com/lukeed/tsm) - TypeScript Module Loader
 - [pugjs/pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js
 - [mathisonian/svg-path-generator](https://github.com/mathisonian/svg-path-generator) - generate svg paths without memorizing the svg path spec / shortcodes http://www.w3.org/TR/SVG/paths.html
 - [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
@@ -1723,7 +1726,7 @@
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [neroneroffy/react-source-code-debug](https://github.com/neroneroffy/react-source-code-debug) - React 源码调试环境，源代码详细注释，跟随官方仓库进行更新
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2022)
-- [aidenybai/million](https://github.com/aidenybai/million) - Virtual DOM into the future! ✨🦁🚀✨
+- [aidenybai/million](https://github.com/aidenybai/million) - Virtual DOM into the future! 🔟🔼6️⃣
 - [ant-design/sunflower](https://github.com/ant-design/sunflower) - 🦹 Process components for antd4 & antd3 by alipay industry technology
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
