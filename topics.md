@@ -1335,6 +1335,8 @@
 
 ## others 
 
+- [conventional-commits/parser](https://github.com/conventional-commits/parser) - reference implementation of conventionalcommits.org spec
+- [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
 - [itorr/patina](https://github.com/itorr/patina) - 🤢「电子包浆」 图片做旧工具，赛博包浆虚拟器
 - [soyaine/JavaScript30](https://github.com/soyaine/JavaScript30) - 有关 @wesbos 的课程 JavaScript-30 的中文练习指南
 - [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (258 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
@@ -1619,7 +1621,7 @@
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [hifarer/vueditor](https://github.com/hifarer/vueditor) - A wysiwyg editor written in Vue.js and Vuex.js
 - [bripkens/connect-history-api-fallback](https://github.com/bripkens/connect-history-api-fallback) - Fallback to index.html for applications that are using the HTML 5 history API
-- [vuejs/v2.cn.vuejs.org](https://github.com/vuejs/v2.cn.vuejs.org) - 🇨🇳 Chinese translation for vuejs.org
+- [vuejs/v2.cn.vuejs.org](https://github.com/vuejs/v2.cn.vuejs.org) - 🇨🇳 Chinese translation for v2.vuejs.org
 - [ppoffice/hexo-theme-icarus](https://github.com/ppoffice/hexo-theme-icarus) - A simple, delicate, and modern theme for the static site generator Hexo.
 - [Longlongyu/hexo-theme-Cxo](https://github.com/Longlongyu/hexo-theme-Cxo) - A cool ，simple & beautiful theme for Hexo. :mushroom:
 - [runk/npm-proxy-cache](https://github.com/runk/npm-proxy-cache) - HTTP/HTTPS caching proxy for work with npm utility
