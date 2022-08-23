@@ -136,6 +136,8 @@
 
 ## JavaScript 
 
+- [slackhq/csp-html-webpack-plugin](https://github.com/slackhq/csp-html-webpack-plugin) - A plugin which, when combined with HTMLWebpackPlugin, adds CSP tags to the HTML output.
+- [mathiasbynens/he](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder written in JavaScript.
 - [gotwarlost/istanbul](https://github.com/gotwarlost/istanbul) - Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use ca
 - [termi/CSS.supports](https://github.com/termi/CSS.supports) - CSS.supports polyfill
 - [saucxs/watermark-dom](https://github.com/saucxs/watermark-dom) - watermark.js是基于DOM对象实现的BS系统的水印，确保系统保密性，安全性，降低数据泄密风险，简单轻量，支持多属性配置，动态计算水印，水印防被删（监听水印组件元素删除并重新添加，监听改变水印的属性并重新添加）。1、支持2种方式导入使用，2、水印插件-testTool（测试工具），3、内置3种全局API方法，等等。欢迎访问：
@@ -498,6 +500,7 @@
 
 ## Others 
 
+- [css-modules/css-modules](https://github.com/css-modules/css-modules) - Documentation about css-modules
 - [Twipped/InterviewThis](https://github.com/Twipped/InterviewThis) - An open source list of developer questions to ask prospective employers
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [cezary/react-diff](https://github.com/cezary/react-diff) - Given two inputs, highlights the differences
@@ -705,6 +708,7 @@
 
 ## TypeScript 
 
+- [kaimallea/isMobile](https://github.com/kaimallea/isMobile) - A simple JS library that detects mobile devices.
 - [novuhq/novu](https://github.com/novuhq/novu) - 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, conten
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [jamiebuilds/unstated-next](https://github.com/jamiebuilds/unstated-next) - 200 bytes to never think about React state management libraries ever again
