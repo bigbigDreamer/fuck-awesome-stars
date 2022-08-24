@@ -93,6 +93,7 @@
 
 ## Go 
 
+- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A light weight log and data visual analytic platform  for clickhouse.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [zu1k/nali](https://github.com/zu1k/nali) - 一个查询IP地理信息和CDN服务提供商的离线终端工具.An offline tool for querying IP geographic information and CDN provider.
@@ -136,6 +137,9 @@
 
 ## JavaScript 
 
+- [mixtur/webpack-spritesmith](https://github.com/mixtur/webpack-spritesmith) - Webpack plugin that converts set of images into a spritesheet and SASS/LESS/Stylus mixins
+- [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
+- [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
 - [slackhq/csp-html-webpack-plugin](https://github.com/slackhq/csp-html-webpack-plugin) - A plugin which, when combined with HTMLWebpackPlugin, adds CSP tags to the HTML output.
 - [mathiasbynens/he](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder written in JavaScript.
 - [gotwarlost/istanbul](https://github.com/gotwarlost/istanbul) - Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use ca
@@ -500,6 +504,7 @@
 
 ## Others 
 
+- [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers (实用性开发人员安全须知)
 - [css-modules/css-modules](https://github.com/css-modules/css-modules) - Documentation about css-modules
 - [Twipped/InterviewThis](https://github.com/Twipped/InterviewThis) - An open source list of developer questions to ask prospective employers
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
