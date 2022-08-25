@@ -1119,6 +1119,7 @@
 
 ## markdown 
 
+- [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [markdownlint/markdownlint](https://github.com/markdownlint/markdownlint) - Markdown lint tool
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
@@ -1348,6 +1349,7 @@
 
 ## others 
 
+- [wangdoc/es6-tutorial](https://github.com/wangdoc/es6-tutorial) - 一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。
 - [mixtur/webpack-spritesmith](https://github.com/mixtur/webpack-spritesmith) - Webpack plugin that converts set of images into a spritesheet and SASS/LESS/Stylus mixins
 - [kaimallea/isMobile](https://github.com/kaimallea/isMobile) - A simple JS library that detects mobile devices.
 - [css-modules/css-modules](https://github.com/css-modules/css-modules) - Documentation about css-modules
@@ -1669,6 +1671,7 @@
 
 ## package-manager 
 
+- [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 - [bower/bower](https://github.com/bower/bower) - A package manager for the web
@@ -1741,6 +1744,7 @@
 
 ## react 
 
+- [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [novuhq/novu](https://github.com/novuhq/novu) - 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, conten
 - [jamiebuilds/unstated-next](https://github.com/jamiebuilds/unstated-next) - 200 bytes to never think about React state management libraries ever again
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2,300+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any De
@@ -1970,6 +1974,7 @@
 
 ## shell 
 
+- [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
@@ -2159,6 +2164,7 @@
 
 ## vue 
 
+- [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 - [TypeStrong/fork-ts-checker-webpack-plugin](https://github.com/TypeStrong/fork-ts-checker-webpack-plugin) - Webpack plugin that runs typescript type checker on a separate process.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
