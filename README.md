@@ -119,7 +119,7 @@
 - [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - A badge generator service to count visitors of your markdown file.
 - [joeyguo/blog](https://github.com/joeyguo/blog) - joeyguo's blog  请 Watch 或 Star
 - [kujian/frontendDaily](https://github.com/kujian/frontendDaily) - 前端开发博客，分享互联网最精彩的前端技术，欢迎关注我微信公众号：前端开发博客，回复 1024，领取前端进阶资料包，回复 加群，与大神一起交流学习。
-- [TencentCloud/TIMSDK](https://github.com/TencentCloud/TIMSDK) - 腾讯云即时通信 IM 服务，国内下载镜像：
+- [TencentCloud/TIMSDK](https://github.com/TencentCloud/TIMSDK) - Instant Message Service of Tencent Cloud. Download Image for Chinese Mainland：
 - [bigbigDreamer/bigbigDreamer.github.io](https://github.com/bigbigDreamer/bigbigDreamer.github.io) - :revolving_hearts:My Blogs you can visit
 - [expressjs/expressjs.com](https://github.com/expressjs/expressjs.com) - 
 - [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
@@ -717,6 +717,7 @@
 
 ## TypeScript 
 
+- [babel/babel-polyfills](https://github.com/babel/babel-polyfills) - A set of Babel plugins that enable injecting different polyfills with different strategies in your compiled code.
 - [kaimallea/isMobile](https://github.com/kaimallea/isMobile) - A simple JS library that detects mobile devices.
 - [novuhq/novu](https://github.com/novuhq/novu) - 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, conten
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
