@@ -272,6 +272,7 @@
 
 ## babel 
 
+- [babel/babel-polyfills](https://github.com/babel/babel-polyfills) - A set of Babel plugins that enable injecting different polyfills with different strategies in your compiled code.
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [egoist/bili](https://github.com/egoist/bili) - Bili makes it easier to bundle JavaScript libraries.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
@@ -1609,7 +1610,7 @@
 - [hujiulong/blog](https://github.com/hujiulong/blog) - :open_book:
 - [webpack/loader-utils](https://github.com/webpack/loader-utils) - utils for webpack loaders
 - [microsoft/TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) - A starter template for TypeScript and React with a detailed README describing how to use the two together.
-- [TencentCloud/TIMSDK](https://github.com/TencentCloud/TIMSDK) - 腾讯云即时通信 IM 服务，国内下载镜像：
+- [TencentCloud/TIMSDK](https://github.com/TencentCloud/TIMSDK) - Instant Message Service of Tencent Cloud. Download Image for Chinese Mainland：
 - [mroderick/PubSubJS](https://github.com/mroderick/PubSubJS) - Dependency free publish/subscribe for JavaScript
 - [jackspirou/clientjs](https://github.com/jackspirou/clientjs) - Device information and digital fingerprinting written in pure JavaScript.
 - [video-react/video-react](https://github.com/video-react/video-react) - A web video player built for the HTML5 world using React library.
@@ -2109,6 +2110,7 @@
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [ts-essentials/ts-essentials](https://github.com/ts-essentials/ts-essentials) - All basic TypeScript types in one place 🤙
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
+- [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor) - wangEditor —— 开源 Web 富文本编辑器
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [sindresorhus/is](https://github.com/sindresorhus/is) - Type check values
