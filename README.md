@@ -137,6 +137,7 @@
 
 ## JavaScript 
 
+- [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [nfl/react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React
 - [depcheck/depcheck](https://github.com/depcheck/depcheck) - Check your npm module for unused dependencies
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
