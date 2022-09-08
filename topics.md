@@ -25,6 +25,7 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
+- [code](#code)
 - [code-review](#code-review)
 - [compiler](#compiler)
 - [config](#config)
@@ -344,6 +345,10 @@
 - [luoxue-victor/workflow](https://github.com/luoxue-victor/workflow) - 一个工作流平台
 - [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+
+## code 
+
+- [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 
 ## code-review 
 
@@ -842,6 +847,7 @@
 
 ## javascript 
 
+- [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [kciter/qart.js](https://github.com/kciter/qart.js) - Generate artistic QR code. 🎨
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
@@ -1136,6 +1142,7 @@
 
 ## markdown 
 
+- [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [markdownlint/markdownlint](https://github.com/markdownlint/markdownlint) - Markdown lint tool
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
@@ -1367,6 +1374,9 @@
 
 ## others 
 
+- [a1029563229/micro-front-template](https://github.com/a1029563229/micro-front-template) - 微前端架构模板
+- [SamVerschueren/listr](https://github.com/SamVerschueren/listr) - Terminal task list
+- [SamVerschueren/tsd](https://github.com/SamVerschueren/tsd) - Check TypeScript type definitions
 - [lzyzsd/JsBridge](https://github.com/lzyzsd/JsBridge) - android java and javascript bridge, inspired by wechat webview jsbridge
 - [Wulf/create-rust-app](https://github.com/Wulf/create-rust-app) - Set up a modern rust+react web app by running one command.
 - [komeiji-satori/Dress](https://github.com/komeiji-satori/Dress) - 好耶  是女装
@@ -1770,6 +1780,7 @@
 
 ## react 
 
+- [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [LeetCode-OpenSource/rxjs-hooks](https://github.com/LeetCode-OpenSource/rxjs-hooks) - React hooks for RxJS
 - [makegirlsmoe/makegirlsmoe_web](https://github.com/makegirlsmoe/makegirlsmoe_web) - Create Anime Characters with MakeGirlsMoe
 - [nfl/react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React
