@@ -738,6 +738,7 @@
 
 ## TypeScript 
 
+- [hand-dot/react-inspector](https://github.com/hand-dot/react-inspector) - Easily detect React components source code from Chrome!
 - [SamVerschueren/tsd](https://github.com/SamVerschueren/tsd) - Check TypeScript type definitions
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
