@@ -141,6 +141,7 @@
 
 ## JavaScript 
 
+- [kriasoft/isomorphic-style-loader](https://github.com/kriasoft/isomorphic-style-loader) - CSS style loader for Webpack that is optimized for isomorphic (universal) web apps.
 - [a1029563229/micro-front-template](https://github.com/a1029563229/micro-front-template) - 微前端架构模板
 - [SamVerschueren/listr](https://github.com/SamVerschueren/listr) - Terminal task list
 - [makegirlsmoe/makegirlsmoe_web](https://github.com/makegirlsmoe/makegirlsmoe_web) - Create Anime Characters with MakeGirlsMoe
@@ -738,6 +739,7 @@
 
 ## TypeScript 
 
+- [facebookincubator/memlab](https://github.com/facebookincubator/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
 - [hand-dot/react-inspector](https://github.com/hand-dot/react-inspector) - Easily detect React components source code from Chrome!
 - [SamVerschueren/tsd](https://github.com/SamVerschueren/tsd) - Check TypeScript type definitions
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
