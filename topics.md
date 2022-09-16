@@ -208,7 +208,7 @@
 - [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - TypeScript API generator via Swagger scheme
 - [metowolf/Meting](https://github.com/metowolf/Meting) - :cake: Wow, such a powerful music API framework
 - [metowolf/MetingJS](https://github.com/metowolf/MetingJS) - :cake: A powerful plugin connect APlayer and Meting
-- [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js) - Ethereum JavaScript API
+- [web3/web3.js](https://github.com/web3/web3.js) - Ethereum JavaScript API
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [innocces/taro-hooks](https://github.com/innocces/taro-hooks) - 为 Taro 而设计的 Hooks Library
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
@@ -575,7 +575,7 @@
 
 ## ethereum 
 
-- [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js) - Ethereum JavaScript API
+- [web3/web3.js](https://github.com/web3/web3.js) - Ethereum JavaScript API
 
 ## express 
 
@@ -875,7 +875,7 @@
 - [sudongyuer/javascript-mental-models](https://github.com/sudongyuer/javascript-mental-models) - 💘 帮助你建立良好的JavaScript心智模型
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
 - [liaoliaots/nestjs-redis](https://github.com/liaoliaots/nestjs-redis) - Redis(ioredis) module for Nest framework (node.js).
-- [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js) - Ethereum JavaScript API
+- [web3/web3.js](https://github.com/web3/web3.js) - Ethereum JavaScript API
 - [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
@@ -1377,6 +1377,7 @@
 
 ## others 
 
+- [webpack/tapable](https://github.com/webpack/tapable) - Just a little module for plugins.
 - [kriasoft/isomorphic-style-loader](https://github.com/kriasoft/isomorphic-style-loader) - CSS style loader for Webpack that is optimized for isomorphic (universal) web apps.
 - [a1029563229/micro-front-template](https://github.com/a1029563229/micro-front-template) - 微前端架构模板
 - [SamVerschueren/listr](https://github.com/SamVerschueren/listr) - Terminal task list
@@ -2131,7 +2132,7 @@
 - [TypeStrong/ts-expect](https://github.com/TypeStrong/ts-expect) - Checks TypeScript types match expected values
 - [liaoliaots/nestjs-redis](https://github.com/liaoliaots/nestjs-redis) - Redis(ioredis) module for Nest framework (node.js).
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
-- [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js) - Ethereum JavaScript API
+- [web3/web3.js](https://github.com/web3/web3.js) - Ethereum JavaScript API
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
 - [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
