@@ -111,6 +111,7 @@
 
 ## HTML 
 
+- [drrouen/NouBan-js](https://github.com/drrouen/NouBan-js) - 检测文本中是否含有豆瓣敏感词（JavaScript版本）。Nouban is an anti-censorship project aiming to record censored words in Douban, a Chinese social network platform. It is merely a glimpse of the situation in Chinese 'Inne
 - [bigbigDreamer/weekly](https://github.com/bigbigDreamer/weekly) - weekly blog
 - [Qexo/Qexo](https://github.com/Qexo/Qexo) - A Quick, Powerful and Pretty Online Manager for Hexo.
 - [WICG/import-maps](https://github.com/WICG/import-maps) - How to control the behavior of JavaScript imports
@@ -141,6 +142,8 @@
 
 ## JavaScript 
 
+- [scurker/currency.js](https://github.com/scurker/currency.js) - A javascript library for handling currencies
+- [toolgood/ToolGood.Words](https://github.com/toolgood/ToolGood.Words) - 一款高性能敏感词(非法词/脏字)检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。
 - [webpack/tapable](https://github.com/webpack/tapable) - Just a little module for plugins.
 - [kriasoft/isomorphic-style-loader](https://github.com/kriasoft/isomorphic-style-loader) - CSS style loader for Webpack that is optimized for isomorphic (universal) web apps.
 - [a1029563229/micro-front-template](https://github.com/a1029563229/micro-front-template) - 微前端架构模板
@@ -740,6 +743,7 @@
 
 ## TypeScript 
 
+- [ianschmitz/react-lazy-with-preload](https://github.com/ianschmitz/react-lazy-with-preload) - React.lazy() with preload support!
 - [facebookincubator/memlab](https://github.com/facebookincubator/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
 - [hand-dot/react-inspector](https://github.com/hand-dot/react-inspector) - Easily detect React components source code from Chrome!
 - [SamVerschueren/tsd](https://github.com/SamVerschueren/tsd) - Check TypeScript type definitions
@@ -876,7 +880,7 @@
 - [bigbigDreamer/dreamer](https://github.com/bigbigDreamer/dreamer) - For dreams
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [modern-js-dev/garfish](https://github.com/modern-js-dev/garfish) - A powerful micro front-end framework 🚚
-- [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
+- [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .   备用地址: https://rsuite.vercel.app/
 - [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 - [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) - A tiny (~400 B) & modern library for keybindings.
 - [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
