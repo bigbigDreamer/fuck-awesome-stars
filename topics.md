@@ -1183,7 +1183,7 @@
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Essential UI blocks for building mobile web apps.
 - [JoeyBling/hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) - 一个简洁优雅的hexo主题 A simple and elegant theme for hexo.
-- [vant-ui/vant](https://github.com/vant-ui/vant) - Lightweight Mobile UI Components built on Vue
+- [youzan/vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
 
 ## mongodb 
 
@@ -1843,7 +1843,7 @@
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [bigbigDreamer/dreamer](https://github.com/bigbigDreamer/dreamer) - For dreams
-- [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .   备用地址: https://rsuite.vercel.app/
+- [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [dvtng/react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app!
 - [imcuttle/mometa](https://github.com/imcuttle/mometa) - 🛠 [Beta] 面向研发的低代码元编程，代码可视编辑，辅助编码工具
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
@@ -1942,7 +1942,7 @@
 - [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework
-- [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .   备用地址: https://rsuite.vercel.app/
+- [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 - [umijs/hox](https://github.com/umijs/hox) - State sharing for React components.
@@ -2164,7 +2164,7 @@
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [ts-essentials/ts-essentials](https://github.com/ts-essentials/ts-essentials) - All basic TypeScript types in one place 🤙
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
-- [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .   备用地址: https://rsuite.vercel.app/
+- [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor) - wangEditor —— 开源 Web 富文本编辑器
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [sindresorhus/is](https://github.com/sindresorhus/is) - Type check values
@@ -2257,7 +2257,7 @@
 - [vuejs/vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
 - [caiya/vue-neditor-wrap](https://github.com/caiya/vue-neditor-wrap) - 基于vue和neditor的双向绑定组件，使用vue-cli3的项目可以直接使用
 - [iview/iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
-- [vant-ui/vant](https://github.com/vant-ui/vant) - Lightweight Mobile UI Components built on Vue
+- [youzan/vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
 - [surmon-china/vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) - @quilljs editor component for @vuejs(2)
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
