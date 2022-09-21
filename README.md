@@ -142,6 +142,10 @@
 
 ## JavaScript 
 
+- [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
+- [nodeca/pako](https://github.com/nodeca/pako) - high speed zlib port to javascript, works in browser & node.js
+- [sindresorhus/execa](https://github.com/sindresorhus/execa) - Process execution for humans
+- [ehmicky/cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide) - 📗 How to write cross-platform Node.js code
 - [unjs/consola](https://github.com/unjs/consola) - Elegant Console Logger for Node.js and Browser 🐨
 - [Subash/mkcert](https://github.com/Subash/mkcert) - Create self signed ssl certificates without OpenSSL.
 - [digitalbazaar/forge](https://github.com/digitalbazaar/forge) - A native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps
@@ -327,6 +331,7 @@
 - [npm/node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses)
 - [KieSun/all-of-frontend](https://github.com/KieSun/all-of-frontend) - 你想知道的前端内容都在这
 - [ant-design/antd-dayjs-webpack-plugin](https://github.com/ant-design/antd-dayjs-webpack-plugin) - ⏰ Day.js webpack plugin for Ant Design
+- [micro-zoe/micro-app](https://github.com/micro-zoe/micro-app) - A lightweight, efficient and powerful micro front-end framework. 一款轻量、高效、功能强大的微前端框架
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [bevacqua/dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
 - [mrdoob/stats.js](https://github.com/mrdoob/stats.js) - JavaScript Performance Monitor
@@ -751,6 +756,7 @@
 
 ## TypeScript 
 
+- [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [liuweiGL/vite-plugin-mkcert](https://github.com/liuweiGL/vite-plugin-mkcert) - Provide certificates for vite's https dev service.
 - [ianschmitz/react-lazy-with-preload](https://github.com/ianschmitz/react-lazy-with-preload) - React.lazy() with preload support!
 - [facebookincubator/memlab](https://github.com/facebookincubator/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
@@ -773,7 +779,7 @@
 - [lukeed/tsm](https://github.com/lukeed/tsm) - TypeScript Module Loader
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
-- [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
+- [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React and MJML
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2,300+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any De
 - [modern-js-dev/webpack-inspector](https://github.com/modern-js-dev/webpack-inspector) - Devtool for webpack.
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
@@ -939,7 +945,6 @@
 - [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕜 Modern Timeline Component for React
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [BetaSu/big-react](https://github.com/BetaSu/big-react) - 跟着我，从0实现React18
-- [micro-zoe/micro-app](https://github.com/micro-zoe/micro-app) - A lightweight, efficient and powerful micro front-end framework. 一款轻量、高效、功能强大的微前端框架
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers
 - [notadd/notadd](https://github.com/notadd/notadd) - A microservice development architecture based on nest.js. —— 基于 Nest.js 的微服务开发架构。
