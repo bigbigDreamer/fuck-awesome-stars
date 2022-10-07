@@ -1452,6 +1452,7 @@
 
 ## others 
 
+- [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
 - [lit/lit-element](https://github.com/lit/lit-element) - LEGACY REPO. This repository is for maintenance of the legacy LitElement library. The LitElement base class is now part of the Lit library, which is developed in the lit monorepo.
 - [sindresorhus/clean-stack](https://github.com/sindresorhus/clean-stack) - Clean up error stack traces
 - [unjs/giget](https://github.com/unjs/giget) - ✨ Download templates and git repositories with pleasure!
