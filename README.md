@@ -141,6 +141,7 @@
 
 ## JavaScript 
 
+- [stratiformltd/react-loadable-visibility](https://github.com/stratiformltd/react-loadable-visibility) - A wrapper around react-loadable and @loadable/component to load elements once they are visible on the page.
 - [Tencent/omi](https://github.com/Tencent/omi) - Front End Cross-Frameworks Framework - 前端跨框架框架
 - [sindresorhus/clean-stack](https://github.com/sindresorhus/clean-stack) - Clean up error stack traces
 - [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (228B) utility for constructing `className` strings conditionally.
