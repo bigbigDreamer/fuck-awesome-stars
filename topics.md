@@ -292,6 +292,7 @@
 
 ## bash 
 
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -486,7 +487,7 @@
 - [shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question) - 互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中
 - [phodal/ledge](https://github.com/phodal/ledge) - Ledge —— DevOps knowledge learning platform. DevOps、研发效能知识和工具平台，是我们基于在 ThoughtWorks 进行的一系列 DevOps 实践、敏捷实践、软件开发与测试、精益实践提炼出来的知识体系。它包含了各种最佳实践、操作手册、原则与模式、度量、工具，用于帮助您的企业在数字化时代更好地前进，还有 DevOps 转型。
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams. https://www.bytebase.com
-- [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
+- [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 
 ## discord 
 
@@ -494,7 +495,7 @@
 
 ## django 
 
-- [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
+- [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 
 ## docker 
 
@@ -762,6 +763,7 @@
 
 ## hacktoberfest 
 
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [ReciHub/FunnyAlgorithms](https://github.com/ReciHub/FunnyAlgorithms) - A repository with a bunch of funny algorithms, beginners friendly
@@ -814,7 +816,7 @@
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
-- [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
+- [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
@@ -1189,6 +1191,7 @@
 
 ## macos 
 
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App  🤱🏻 A simple way to package a web page with Rust to create Mac App.
 - [ehmicky/cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide) - 📗 How to write cross-platform Node.js code
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [nihui/realcugan-ncnn-vulkan](https://github.com/nihui/realcugan-ncnn-vulkan) - real-cugan converter ncnn version, runs fast on intel / amd / nvidia / apple-silicon GPU with vulkan
@@ -1262,7 +1265,7 @@
 ## monitoring 
 
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
+- [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [sitespeedio/sitespeed.io](https://github.com/sitespeedio/sitespeed.io) - Sitespeed.io is an open source tool that helps you monitor, analyze and optimize your website speed and performance, based on performance best practices advices from the coach and collecting browser m
 
 ## music 
@@ -1305,6 +1308,7 @@
 
 ## node 
 
+- [ilearnio/module-alias](https://github.com/ilearnio/module-alias) - Register aliases of directories and custom module paths in Node
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [unjs/consola](https://github.com/unjs/consola) - Elegant Console Logger for Node.js and Browser 🐨
 - [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
@@ -1337,6 +1341,7 @@
 
 ## nodejs 
 
+- [ilearnio/module-alias](https://github.com/ilearnio/module-alias) - Register aliases of directories and custom module paths in Node
 - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce.
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
@@ -1466,6 +1471,8 @@
 
 ## others 
 
+- [bluwy/whyframe](https://github.com/bluwy/whyframe) - Develop components in isolation with just an iframe
+- [cocos2d/cocos2d-html5](https://github.com/cocos2d/cocos2d-html5) - Cocos2d for Web Browsers. Built using JavaScript.
 - [stratiformltd/react-loadable-visibility](https://github.com/stratiformltd/react-loadable-visibility) - A wrapper around react-loadable and @loadable/component to load elements once they are visible on the page.
 - [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
 - [lit/lit-element](https://github.com/lit/lit-element) - LEGACY REPO. This repository is for maintenance of the legacy LitElement library. The LitElement base class is now part of the Lit library, which is developed in the lit monorepo.
@@ -1842,6 +1849,7 @@
 
 ## powershell 
 
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 
 ## programming 
@@ -1876,7 +1884,7 @@
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
-- [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
+- [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
@@ -2076,6 +2084,8 @@
 
 ## rust 
 
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App  🤱🏻 A simple way to package a web page with Rust to create Mac App.
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [rustlang-cn/rusty-book](https://github.com/rustlang-cn/rusty-book) - A curated list of recipes and repos that can be used to build your rusty projects. Rusty Book = Cookbook + Awesome Rust！
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
