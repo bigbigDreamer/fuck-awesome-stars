@@ -144,6 +144,7 @@
 
 ## JavaScript 
 
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [bluwy/whyframe](https://github.com/bluwy/whyframe) - Develop components in isolation with just an iframe
 - [cocos2d/cocos2d-html5](https://github.com/cocos2d/cocos2d-html5) - Cocos2d for Web Browsers. Built using JavaScript.
 - [ilearnio/module-alias](https://github.com/ilearnio/module-alias) - Register aliases of directories and custom module paths in Node
@@ -773,6 +774,7 @@
 
 ## TypeScript 
 
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [axe312ger/sqip](https://github.com/axe312ger/sqip) - "SQIP" (pronounced \skwɪb\ like the non-magical folk of magical descent) is a  SVG-based LQIP technique.
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
