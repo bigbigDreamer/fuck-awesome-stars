@@ -907,7 +907,7 @@
 - [fingerprintjs/blog-nojs-fingerprint-demo](https://github.com/fingerprintjs/blog-nojs-fingerprint-demo) - A demo for the no-JavaScript fingerprinting article
 - [swc-project/swc-node](https://github.com/swc-project/swc-node) - Faster ts-node without typecheck
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
-- [innocces/taro-hooks](https://github.com/innocces/taro-hooks) - 为 Taro 而设计的 Hooks Library
+- [innocces/taro-hooks](https://github.com/innocces/taro-hooks) - 为 Taro 而设计的 Hooks Library https://taro-hooks.onrender.com (国内可用Render访问). 与下方 Vercel 同步
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [pladaria/reconnecting-websocket](https://github.com/pladaria/reconnecting-websocket) - Reconnecting WebSocket. For Web, React Native, cli (Node.js)
 - [ts-plugin/ts-import-plugin](https://github.com/ts-plugin/ts-import-plugin) - babel-import-plugin TypeScript Implement
