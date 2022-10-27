@@ -915,7 +915,7 @@
 
 ## javascript 
 
-- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust.
+- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [jser/jser.github.io](https://github.com/jser/jser.github.io) - JSer.infoのブログリポジトリ
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
@@ -1488,6 +1488,9 @@
 
 ## others 
 
+- [sindresorhus/electron-context-menu](https://github.com/sindresorhus/electron-context-menu) - Context menu for your Electron app
+- [yuzhanglong/antd-onboarding](https://github.com/yuzhanglong/antd-onboarding) - :tada: 基于 Ant Design 的新手引导组件 onboarding component based on ant-design
+- [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
 - [poppinss/cliui](https://github.com/poppinss/cliui) - A highly opinionated UI KIT for CLI apps
 - [lukeed/flattie](https://github.com/lukeed/flattie) - A tiny (203B) and fast utility to flatten an object with customizable glue
 - [andrewiggins/afterframe](https://github.com/andrewiggins/afterframe) - ⏱ A simple method to invoke a function after the browser has rendered & painted a frame
@@ -2259,7 +2262,7 @@
 
 ## typescript 
 
-- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust.
+- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [marcj/TypeRunner](https://github.com/marcj/TypeRunner) - High-performance TypeScript compiler
 - [reeli/ts-codegen](https://github.com/reeli/ts-codegen) - Typescript code generator from swagger. 一个生成前端接口层代码和对应 TypeScript 定义的工具。
@@ -2461,7 +2464,7 @@
 
 ## webpack 
 
-- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust.
+- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.
 - [better-tcy/dom-to-code](https://github.com/better-tcy/dom-to-code) - This is a tool that can locate lines of code through dom
 - [slackhq/csp-html-webpack-plugin](https://github.com/slackhq/csp-html-webpack-plugin) - A plugin which, when combined with HTMLWebpackPlugin, adds CSP tags to the HTML output.
 - [TypeStrong/fork-ts-checker-webpack-plugin](https://github.com/TypeStrong/fork-ts-checker-webpack-plugin) - Webpack plugin that runs typescript type checker on a separate process.
