@@ -67,6 +67,7 @@
 
 ## CSS 
 
+- [myNameIsDu/cornercss](https://github.com/myNameIsDu/cornercss) - A simple CSS theme
 - [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 - [resetercss/reseter.css](https://github.com/resetercss/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets
 - [30-seconds/30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - Short CSS code snippets for all your development needs
@@ -97,6 +98,7 @@
 
 ## Go 
 
+- [guangzhengli/k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials) - k8s tutorials | k8s 教程
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -672,6 +674,8 @@
 
 ## Python 
 
+- [GuyTevet/motion-diffusion-model](https://github.com/GuyTevet/motion-diffusion-model) - The official PyTorch implementation of the paper "Human Motion Diffusion Model"
+- [dothinking/pdf2docx](https://github.com/dothinking/pdf2docx) - Open source Python library converting pdf to docx.
 - [elceef/dnstwist](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
 - [Jacksgong/webp-converter](https://github.com/Jacksgong/webp-converter) - Converter PNG/JPG to Webp and scan all changes
 - [divelab/DIG](https://github.com/divelab/DIG) - A library for graph deep learning research
@@ -705,6 +709,8 @@
 
 ## Rust 
 
+- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
+- [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.
 - [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
