@@ -118,6 +118,7 @@
 
 ## HTML 
 
+- [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 - [jser/jser.github.io](https://github.com/jser/jser.github.io) - JSer.infoのブログリポジトリ
 - [drrouen/NouBan-js](https://github.com/drrouen/NouBan-js) - 检测文本中是否含有豆瓣敏感词（JavaScript版本）。Nouban is an anti-censorship project aiming to record censored words in Douban, a Chinese social network platform. It is merely a glimpse of the situation in Chinese 'Inne
 - [bigbigDreamer/weekly](https://github.com/bigbigDreamer/weekly) - weekly blog
@@ -792,6 +793,7 @@
 
 ## TypeScript 
 
+- [poppinss/file-generator](https://github.com/poppinss/file-generator) - Generate in-memory fake files with custom size
 - [formatjs/formatjs](https://github.com/formatjs/formatjs) - The monorepo home to all of the FormatJS related libraries, most notably react-intl.
 - [yuzhanglong/antd-onboarding](https://github.com/yuzhanglong/antd-onboarding) - :tada: 基于 Ant Design 的新手引导组件 onboarding component based on ant-design
 - [poppinss/cliui](https://github.com/poppinss/cliui) - A highly opinionated UI KIT for CLI apps
