@@ -1471,6 +1471,7 @@
 
 ## npm 
 
+- [ghiscoding/lerna-lite](https://github.com/ghiscoding/lerna-lite) - Subset of Lerna in a smaller & more modular lib. It helps managing and publishing multiple packages in a monorepo/workspace structure
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
@@ -1508,7 +1509,7 @@
 
 ## others 
 
-- [poppinss/file-generator](https://github.com/poppinss/file-generator) - Generate in-memory fake files with custom size
+- [poppinss/file-generator](https://github.com/poppinss/file-generator) - Generate fake in-memory files for varying sizes
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 - [m1guelpf/auto-commit](https://github.com/m1guelpf/auto-commit) - A CLI tool that automatically writes commit messages for you.
 - [myNameIsDu/cornercss](https://github.com/myNameIsDu/cornercss) - A simple CSS theme
