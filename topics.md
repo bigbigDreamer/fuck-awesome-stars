@@ -789,7 +789,6 @@
 
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [ReciHub/FunnyAlgorithms](https://github.com/ReciHub/FunnyAlgorithms) - A repository with a bunch of funny algorithms, beginners friendly
 - [novuhq/novu](https://github.com/novuhq/novu) - ⭐ A fully functional real-time notification center for your web and react apps. The open-source notifications infrastructure that enables scheduled notifications, digest engine, user preferences, and 
@@ -1005,6 +1004,7 @@
 - [javierbyte/img2css](https://github.com/javierbyte/img2css) - Convert any image to pure CSS. Recreates images using only box-shadows.
 - [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Essential UI blocks for building mobile web apps.
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
+- [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [ksky521/nodeppt](https://github.com/ksky521/nodeppt) - This is probably the best web presentation tool so far!
 - [rosooares/list-heroes](https://github.com/rosooares/list-heroes) - 🚀 Nesse projeto criamos uma lista de heróis que consume da API https://superheroapi.com/ids.html
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
@@ -1658,7 +1658,6 @@
 - [YunYouJun/hexo-theme-yun](https://github.com/YunYouJun/hexo-theme-yun) - ☁️ A fast & light & lovely theme for Hexo. 一个对可爱自以为是的 Hexo 主题。
 - [sindresorhus/kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory
 - [EYHN/hexo-helper-live2d](https://github.com/EYHN/hexo-helper-live2d) - Add the Sseexxyyy live2d to your hexo!
-- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A formatter, linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [WICG/import-maps](https://github.com/WICG/import-maps) - How to control the behavior of JavaScript imports
@@ -2358,6 +2357,7 @@
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) - TypeScript Deep Dive 中文版
 - [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Essential UI blocks for building mobile web apps.
+- [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
 - [innocces/taro-hooks](https://github.com/innocces/taro-hooks) - 为 Taro 而设计的 Hooks Library https://taro-hooks.onrender.com (国内可用Render访问). 与下方 Vercel 同步
