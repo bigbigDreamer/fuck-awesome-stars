@@ -600,7 +600,6 @@
 - [frontend9/fe9-library](https://github.com/frontend9/fe9-library) - 九部知识库
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 - [justjavac/auto-green](https://github.com/justjavac/auto-green) - 自动保持 GitHub 提交状态常绿 a commit every day, keep your girlfriend far away.
-- [i5ting/rust-fe](https://github.com/i5ting/rust-fe) - Rust是未来前端基础设施
 - [avajs/ava-docs](https://github.com/avajs/ava-docs) - Localized docs for AVA
 - [danvk/effective-typescript](https://github.com/danvk/effective-typescript) - Effective TypeScript: 62 Specific Ways to Improve Your TypeScript
 - [imgcook/imgcook](https://github.com/imgcook/imgcook) - Generate pages from any sketch or images.
@@ -737,6 +736,7 @@
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.
 - [bvm/bvm](https://github.com/bvm/bvm) - A version manager for all binaries.
 - [wasmflow/node-to-rust](https://github.com/wasmflow/node-to-rust) - 
+- [i5ting/rust-fe](https://github.com/i5ting/rust-fe) - Rust是未来前端基础设施
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
