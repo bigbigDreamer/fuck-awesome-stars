@@ -149,6 +149,7 @@
 
 ## JavaScript 
 
+- [Wildhoney/ReactShadow](https://github.com/Wildhoney/ReactShadow) - :beginner: Utilise Shadow DOM in React with all the benefits of style encapsulation.
 - [josdejong/mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
 - [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent data. Supports browser & node.js environment.
 - [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - 集锦前端JavaScript编程题，Not just for interviews
@@ -736,7 +737,7 @@
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.
 - [bvm/bvm](https://github.com/bvm/bvm) - A version manager for all binaries.
 - [wasmflow/node-to-rust](https://github.com/wasmflow/node-to-rust) - 
-- [i5ting/rust-fe](https://github.com/i5ting/rust-fe) - Rust是未来前端基础设施
+- [i5ting/learn-rust-for-fe](https://github.com/i5ting/learn-rust-for-fe) - Rust是未来前端基础设施
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
