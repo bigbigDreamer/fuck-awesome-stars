@@ -1691,7 +1691,7 @@
 - [captivationsoftware/react-sticky](https://github.com/captivationsoftware/react-sticky) - &lt;Sticky /&gt; component for awesome React apps
 - [akira-cn/FE_You_dont_know](https://github.com/akira-cn/FE_You_dont_know) - 分享在前端开发中，你不知道的JavaScript、CSS和HTML趣味知识，增加你的知识面。
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
-- [i5ting/rust-fe](https://github.com/i5ting/rust-fe) - Rust是未来前端基础设施
+- [i5ting/learn-rust-for-fe](https://github.com/i5ting/learn-rust-for-fe) - Rust是未来前端基础设施
 - [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器
 - [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
 - [softonic/axios-retry](https://github.com/softonic/axios-retry) - Axios plugin that intercepts failed requests and retries them whenever possible
@@ -1966,6 +1966,7 @@
 
 ## react 
 
+- [Wildhoney/ReactShadow](https://github.com/Wildhoney/ReactShadow) - :beginner: Utilise Shadow DOM in React with all the benefits of style encapsulation.
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
 - [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - 集锦前端JavaScript编程题，Not just for interviews
 - [formatjs/formatjs](https://github.com/formatjs/formatjs) - The monorepo home to all of the FormatJS related libraries, most notably react-intl.
@@ -2116,6 +2117,7 @@
 
 ## reactjs 
 
+- [Wildhoney/ReactShadow](https://github.com/Wildhoney/ReactShadow) - :beginner: Utilise Shadow DOM in React with all the benefits of style encapsulation.
 - [makegirlsmoe/makegirlsmoe_web](https://github.com/makegirlsmoe/makegirlsmoe_web) - Create Anime Characters with MakeGirlsMoe
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for developers
 - [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
