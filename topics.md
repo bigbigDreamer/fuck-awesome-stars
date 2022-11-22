@@ -653,6 +653,7 @@
 
 ## font 
 
+- [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
 - [wordshub/free-font](https://github.com/wordshub/free-font) - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
@@ -1536,7 +1537,6 @@
 - [myNameIsDu/cornercss](https://github.com/myNameIsDu/cornercss) - A simple CSS theme
 - [GuyTevet/motion-diffusion-model](https://github.com/GuyTevet/motion-diffusion-model) - The official PyTorch implementation of the paper "Human Motion Diffusion Model"
 - [dothinking/pdf2docx](https://github.com/dothinking/pdf2docx) - Open source Python library converting pdf to docx.
-- [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
 - [sindresorhus/electron-context-menu](https://github.com/sindresorhus/electron-context-menu) - Context menu for your Electron app
 - [yuzhanglong/antd-onboarding](https://github.com/yuzhanglong/antd-onboarding) - :tada: 基于 Ant Design 的新手引导组件 onboarding component based on ant-design
 - [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
@@ -2166,6 +2166,7 @@
 ## rust 
 
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
+- [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App  🤱🏻 A simple way to make any web page a desktop application using Rust.
@@ -2324,6 +2325,7 @@
 - [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra) - JavaScript package manager
 - [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - 集锦前端JavaScript编程题，Not just for interviews
 - [Tencent/puerts](https://github.com/Tencent/puerts) - 普洱TS！Write your game with TypeScript in UE or Unity. PuerTS can be pronounced as pu-erh TS
+- [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [marcj/TypeRunner](https://github.com/marcj/TypeRunner) - High-performance TypeScript compiler
