@@ -150,6 +150,7 @@
 
 ## JavaScript 
 
+- [metcalfc/changelog-generator](https://github.com/metcalfc/changelog-generator) - GitHub Action to generate changelogs, release notes, whatever
 - [Wildhoney/ReactShadow](https://github.com/Wildhoney/ReactShadow) - :beginner: Utilise Shadow DOM in React with all the benefits of style encapsulation.
 - [josdejong/mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
 - [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent data. Supports browser & node.js environment.
