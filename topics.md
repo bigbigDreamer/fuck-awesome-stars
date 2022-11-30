@@ -942,6 +942,7 @@
 
 ## javascript 
 
+- [zalmoxisus/redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension) - Redux DevTools extension.
 - [ajitid/fzf-for-js](https://github.com/ajitid/fzf-for-js) - Do fuzzy matching using FZF algorithm in JavaScript
 - [josdejong/mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
 - [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - 集锦前端JavaScript编程题，Not just for interviews
@@ -1626,7 +1627,7 @@
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
 - [GoogleChromeLabs/import-from-worker](https://github.com/GoogleChromeLabs/import-from-worker) - It’s like import(), but runs the module in a worker.
 - [bigbigDreamer/weekly](https://github.com/bigbigDreamer/weekly) - weekly blog
-- [stipsan/compute-scroll-into-view](https://github.com/stipsan/compute-scroll-into-view) - Utility for calculating what should be scrolled, how it's scrolled is up to you
+- [scroll-into-view/compute-scroll-into-view](https://github.com/scroll-into-view/compute-scroll-into-view) - Utility for calculating what should be scrolled, how it's scrolled is up to you
 - [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff) - A javascript text differencing implementation.
 - [cezary/react-diff](https://github.com/cezary/react-diff) - Given two inputs, highlights the differences
 - [Guts/mkdocs-rss-plugin](https://github.com/Guts/mkdocs-rss-plugin) - MkDocs plugin to generate a RSS feeds for created and updated pages, using git log and YAML frontmatter (page.meta).
@@ -2155,6 +2156,7 @@
 
 ## redux 
 
+- [zalmoxisus/redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension) - Redux DevTools extension.
 - [jamiebuilds/unstated-next](https://github.com/jamiebuilds/unstated-next) - 200 bytes to never think about React state management libraries ever again
 - [jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) - TypeScript Deep Dive 中文版
 - [redux-saga/redux-saga](https://github.com/redux-saga/redux-saga) - An alternative side effect model for Redux apps
@@ -2366,7 +2368,7 @@
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [esbuild-kit/esno](https://github.com/esbuild-kit/esno) - Alias to `tsx`
 - [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes.
-- [stipsan/scroll-into-view-if-needed](https://github.com/stipsan/scroll-into-view-if-needed) - Element.scrollIntoView ponyfills for things like "if-needed" and "smooth"
+- [scroll-into-view/scroll-into-view-if-needed](https://github.com/scroll-into-view/scroll-into-view-if-needed) - Element.scrollIntoView ponyfills for things like "if-needed" and "smooth"
 - [TypeStrong/ts-expect](https://github.com/TypeStrong/ts-expect) - Checks TypeScript types match expected values
 - [liaoliaots/nestjs-redis](https://github.com/liaoliaots/nestjs-redis) - Redis(ioredis) module for Nest framework (node.js).
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
