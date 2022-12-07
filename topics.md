@@ -942,6 +942,7 @@
 
 ## javascript 
 
+- [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
 - [microsoft/just](https://github.com/microsoft/just) - The task library that just works
 - [zalmoxisus/redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension) - Redux DevTools extension.
 - [ajitid/fzf-for-js](https://github.com/ajitid/fzf-for-js) - Do fuzzy matching using FZF algorithm in JavaScript
@@ -1178,6 +1179,7 @@
 
 ## koa 
 
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.
 - [VladimirMikulic/route-list](https://github.com/VladimirMikulic/route-list) - Beautifully shows Express/Koa/Hapi/Fastify routes in CLI.
 - [liuxing/node-blog](https://github.com/liuxing/node-blog) - :rocket:《Node.js从入门到上线》A blog build with Koa2.
 
@@ -1396,6 +1398,7 @@
 
 ## nodejs 
 
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.
 - [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra) - JavaScript package manager
 - [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - 集锦前端JavaScript编程题，Not just for interviews
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
@@ -1534,6 +1537,7 @@
 
 ## others 
 
+- [SVG-Edit/svg-edit-react](https://github.com/SVG-Edit/svg-edit-react) - React based editor based on SVG-edit svgcanvas
 - [samonxian/vite-plugin-build](https://github.com/samonxian/vite-plugin-build) - Vite library mode plugin，which support transfom the whole folder and emit dceclaration files. Vite 库模式插件，支持整个文件夹的转换和声明文件生成。
 - [YunYouJun/valaxy](https://github.com/YunYouJun/valaxy) - 🌌 Next Generation Static Blog Framework (Beta) 下一代静态博客框架（支持页面/配置热重载）
 - [metcalfc/changelog-generator](https://github.com/metcalfc/changelog-generator) - GitHub Action to generate changelogs, release notes, whatever
