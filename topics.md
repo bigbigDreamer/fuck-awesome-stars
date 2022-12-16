@@ -34,6 +34,7 @@
 - [cpp](#cpp)
 - [csharp](#csharp)
 - [css](#css)
+- [dart](#dart)
 - [data](#data)
 - [data-structures](#data-structures)
 - [data-visualization](#data-visualization)
@@ -374,12 +375,12 @@
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [cacjs/cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
-- [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
+- [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
 - [webpack/webpack-cli](https://github.com/webpack/webpack-cli) - Webpack's Command Line Interface
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-stag
 - [luoxue-victor/workflow](https://github.com/luoxue-victor/workflow) - 一个工作流平台
 - [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## code 
 
@@ -432,6 +433,7 @@
 - [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 - [gjbkz/rollup-plugin-embed-css](https://github.com/gjbkz/rollup-plugin-embed-css) - 
 - [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products
 - [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
 - [resetercss/reseter.css](https://github.com/resetercss/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets
 - [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨  A web component for drawing patterns with CSS.
@@ -470,6 +472,10 @@
 - [littlematch0123/FE-booklet](https://github.com/littlematch0123/FE-booklet) - 文章中包括DEMO演示的前端小册
 - [hyy1115/Front-end-course](https://github.com/hyy1115/Front-end-course) - 前端知识学习汇总
 - [styletron/styletron](https://github.com/styletron/styletron) - :zap: Toolkit for component-oriented styling
+
+## dart 
+
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
 
 ## data 
 
@@ -865,7 +871,7 @@
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 - [imcvampire/vue-axios](https://github.com/imcvampire/vue-axios) - A small wrapper for integrating axios to Vuejs
 - [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Material design for Vue.js
@@ -878,6 +884,7 @@
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products
 - [getActivity/EmojiPackage](https://github.com/getActivity/EmojiPackage) - 表情包资源合集，张张都是经典
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
@@ -916,7 +923,7 @@
 - [nodejs/undici](https://github.com/nodejs/undici) - An HTTP/1.1 client, written from scratch for Node.js
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [nock/nock](https://github.com/nock/nock) - HTTP server mocking and expectations library for Node.js
-- [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
+- [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
 - [tinyhttp/tinyhttp](https://github.com/tinyhttp/tinyhttp) - 🦄 0-legacy, tiny & fast web framework as a replacement of Express
 - [hapijs/hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
 - [littlematch0123/FE-booklet](https://github.com/littlematch0123/FE-booklet) - 文章中包括DEMO演示的前端小册
@@ -1230,6 +1237,7 @@
 - [shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question) - 互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中
 - [nihui/realcugan-ncnn-vulkan](https://github.com/nihui/realcugan-ncnn-vulkan) - real-cugan converter ncnn version, runs fast on intel / amd / nvidia / apple-silicon GPU with vulkan
 - [syhyz1990/baiduyun](https://github.com/syhyz1990/baiduyun) - 油猴脚本 - 一个免费开源的网盘下载助手
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
@@ -1653,7 +1661,7 @@
 - [mgcrea/node-xlsx](https://github.com/mgcrea/node-xlsx) - NodeJS excel file parser & builder
 - [ksylor/ohshitgit](https://github.com/ksylor/ohshitgit) - The official home of Oh Shit, Git!?!
 - [TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
-- [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar
+- [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
 - [changesets/action](https://github.com/changesets/action) - 
 - [bigbigDreamer/montage](https://github.com/bigbigDreamer/montage) - Montage, For FE Montage~
 - [mentaljam/rollup-plugin-swc](https://github.com/mentaljam/rollup-plugin-swc) - Rollup plugin to compile bundles with the SWC.
@@ -2266,7 +2274,7 @@
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-stag
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## software 
 
@@ -2328,7 +2336,7 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-stag
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## testing 
 
