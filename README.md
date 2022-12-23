@@ -71,7 +71,7 @@
 
 - [myNameIsDu/cornercss](https://github.com/myNameIsDu/cornercss) - A simple CSS theme
 - [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
-- [resetercss/reseter.css](https://github.com/resetercss/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets
+- [krshkun/reseter.css](https://github.com/krshkun/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets
 - [30-seconds/30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - Short CSS code snippets for all your development needs
 - [ostranme/swagger-ui-themes](https://github.com/ostranme/swagger-ui-themes) - :boom: A collection of css themes to spice up your Swagger docs
 - [l-hammer/You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
@@ -1132,7 +1132,7 @@
 - [hifarer/vueditor](https://github.com/hifarer/vueditor) - A wysiwyg editor written in Vue.js and Vuex.js
 - [museui/muse-ui](https://github.com/museui/muse-ui) - Material Design UI library for Vuejs 2.0
 - [airyland/vux](https://github.com/airyland/vux) - Mobile UI Components based on Vue & WeUI
-- [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Material design for Vue.js
+- [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Vue.js Framework - ready-to-use Vue components with Material Design, free forever.
 - [shaobeichen/lvyou](https://github.com/shaobeichen/lvyou) - :school_satchel:Vue.js 初步进阶案例，路由懒加载，进入页面前登录判断，返回导航判断，RestAPI接口使用，组件封装，Vuex状态封装，keep-alive页面缓存等功能
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [LTiger14/best-resume-ever](https://github.com/LTiger14/best-resume-ever) - My custom fork for best-resume-ever :necktie: :briefcase: :rocket: Made with Vue and LESS.
