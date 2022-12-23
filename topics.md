@@ -435,7 +435,7 @@
 - [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products
 - [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
-- [resetercss/reseter.css](https://github.com/resetercss/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets
+- [krshkun/reseter.css](https://github.com/krshkun/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets
 - [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨  A web component for drawing patterns with CSS.
 - [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 🙈 🙉 🙊 每周为您推荐国内外前端领域最新的优秀文章以及行业进展
 - [30-seconds/30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - Short CSS code snippets for all your development needs
@@ -874,7 +874,7 @@
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 - [imcvampire/vue-axios](https://github.com/imcvampire/vue-axios) - A small wrapper for integrating axios to Vuejs
-- [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Material design for Vue.js
+- [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Vue.js Framework - ready-to-use Vue components with Material Design, free forever.
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
@@ -1145,7 +1145,7 @@
 - [bencodezen/vue-enterprise-boilerplate](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
 - [airyland/vux](https://github.com/airyland/vux) - Mobile UI Components based on Vue & WeUI
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
-- [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Material design for Vue.js
+- [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Vue.js Framework - ready-to-use Vue components with Material Design, free forever.
 - [runkids/Imagvue](https://github.com/runkids/Imagvue) - :rice_scene:  Imagvue is an image component for Vue.js
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [justjavac/the-front-end-knowledge-you-may-not-know](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know) - :innocent: 你可能不知道的前端知识点
@@ -1316,7 +1316,7 @@
 
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [blinkfox/hexo-theme-matery](https://github.com/blinkfox/hexo-theme-matery) - A beautiful hexo blog theme with material design and responsive design.一个基于材料设计和响应式设计而成的全面、美观的Hexo主题。国内访问：http://blinkfox.com
-- [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Material design for Vue.js
+- [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Vue.js Framework - ready-to-use Vue components with Material Design, free forever.
 
 ## mobile 
 
@@ -2533,7 +2533,7 @@
 - [Wscats/vue-awesome-mui](https://github.com/Wscats/vue-awesome-mui) - :trophy:Mui component for Vue.js(1.x ~ 2.x)
 - [museui/muse-ui](https://github.com/museui/muse-ui) - Material Design UI library for Vuejs 2.0
 - [airyland/vux](https://github.com/airyland/vux) - Mobile UI Components based on Vue & WeUI
-- [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Material design for Vue.js
+- [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Vue.js Framework - ready-to-use Vue components with Material Design, free forever.
 - [shaobeichen/lvyou](https://github.com/shaobeichen/lvyou) - :school_satchel:Vue.js 初步进阶案例，路由懒加载，进入页面前登录判断，返回导航判断，RestAPI接口使用，组件封装，Vuex状态封装，keep-alive页面缓存等功能
 - [runkids/Imagvue](https://github.com/runkids/Imagvue) - :rice_scene:  Imagvue is an image component for Vue.js
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
