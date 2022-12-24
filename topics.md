@@ -1186,6 +1186,7 @@
 
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
+- [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [mac-s-g/react-json-view](https://github.com/mac-s-g/react-json-view) - JSON viewer for react
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
