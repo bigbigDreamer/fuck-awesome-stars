@@ -436,7 +436,7 @@
 - [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products
 - [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
-- [krshkun/reseter.css](https://github.com/krshkun/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets
+- [krshkun/gardevoir](https://github.com/krshkun/gardevoir) - The Modern CSS Reset 🚀 (Formerly Reseter.css)
 - [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨  A web component for drawing patterns with CSS.
 - [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 🙈 🙉 🙊 每周为您推荐国内外前端领域最新的优秀文章以及行业进展
 - [30-seconds/30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - Short CSS code snippets for all your development needs
