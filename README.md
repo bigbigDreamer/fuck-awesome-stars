@@ -809,7 +809,7 @@
 
 ## TypeScript 
 
-- [myNameIsDu/i18n](https://github.com/myNameIsDu/i18n) - 一个简单方便的国际化方案
+- [myNameIsDu/translator](https://github.com/myNameIsDu/translator) - 一个简单方便的国际化方案
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. [WIP]
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.
 - [samonxian/vite-plugin-build](https://github.com/samonxian/vite-plugin-build) - Vite library mode plugin，which support transfom the whole folder and emit dceclaration files. Vite 库模式插件，支持整个文件夹的转换和声明文件生成。
