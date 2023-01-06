@@ -810,6 +810,9 @@
 
 ## TypeScript 
 
+- [ant-design/ant-design-charts](https://github.com/ant-design/ant-design-charts) - A React Chart Library
+- [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - Sync .env files
+- [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
 - [unadlib/mutative](https://github.com/unadlib/mutative) - Efficient immutable updates, 10x faster than Immer by default, even faster than naive handcrafted reducer.
 - [sanyuan0704/vite-plugin-chunk-split](https://github.com/sanyuan0704/vite-plugin-chunk-split) - A vite plugin for better chunk splitting. 一个简单易用的 Vite 拆包插件
