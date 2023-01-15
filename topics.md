@@ -410,7 +410,7 @@
 - [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more.
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
@@ -460,7 +460,7 @@
 - [iamyoki/transition-hook](https://github.com/iamyoki/transition-hook) - ☄️  An extremely light-weight react transition animation hook which is simpler and easier to use than react-transition-group
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 - [KieSun/all-of-frontend](https://github.com/KieSun/all-of-frontend) - 你想知道的前端内容都在这
-- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview) - 🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器
 - [typestyle/typestyle](https://github.com/typestyle/typestyle) - Making CSS Typesafe 🌹
@@ -629,7 +629,7 @@
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2022)
 - [pahen/madge](https://github.com/pahen/madge) - Create graphs from your CommonJS, AMD or ES6 module dependencies
-- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet) - A web-based JavaScript（canvas） spreadsheet
 - [tinyhttp/tinyhttp](https://github.com/tinyhttp/tinyhttp) - 🦄 0-legacy, tiny & fast web framework as a replacement of Express
@@ -799,7 +799,6 @@
 - [zu1k/nali](https://github.com/zu1k/nali) - 一个查询IP地理信息和CDN服务提供商的离线终端工具.An offline tool for querying IP geographic information and CDN provider.
 - [labring/sealos](https://github.com/labring/sealos) - sealos is a Kubernetes distribution, a general-purpose cloud operating system for managing cloud-native applications. Demo: https://cloud.sealos.io
 - [go-pay/gopay](https://github.com/go-pay/gopay) - 微信、支付宝、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database CI/CD for DevOps teams. https://www.bytebase.com
 
 ## good-first-issue 
 
@@ -1098,7 +1097,7 @@
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [bevacqua/dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
 - [ds300/patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨
-- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [shen100/mili](https://github.com/shen100/mili) - mili 是一个开源的社区系统，界面优雅，功能丰富😛
 - [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -1344,6 +1343,7 @@
 
 - [walinejs/waline](https://github.com/walinejs/waline) - 💬 A Simple, Safe Comment System
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database CI/CD for DevOps teams. https://www.bytebase.com
 - [mongodb/node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - The Official MongoDB Node.js Driver
 - [liuxing/node-blog](https://github.com/liuxing/node-blog) - :rocket:《Node.js从入门到上线》A blog build with Koa2.
 
@@ -1952,7 +1952,7 @@
 
 ## package-manager 
 
-- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2)
+- [teaxyz/cli](https://github.com/teaxyz/cli) - the next generation, cross‐platform package manager
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
@@ -2120,7 +2120,7 @@
 - [mithi/react-philosophies](https://github.com/mithi/react-philosophies) - 🧘  Things I think about when I write React code 🧘
 - [KieSun/all-of-frontend](https://github.com/KieSun/all-of-frontend) - 你想知道的前端内容都在这
 - [BetaSu/big-react](https://github.com/BetaSu/big-react) - 跟着我，从0实现React18
-- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [dai-shi/use-context-selector](https://github.com/dai-shi/use-context-selector) - React useContextSelector hook in userland
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more.
@@ -2475,7 +2475,7 @@
 - [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕜 Modern Timeline Component for React
 - [notadd/notadd](https://github.com/notadd/notadd) - A microservice development architecture based on nest.js. —— 基于 Nest.js 的微服务开发架构。
 - [egoist/rollup-plugin-esbuild](https://github.com/egoist/rollup-plugin-esbuild) - Use ESBuild with Rollup to transform ESNext and TypeScript code.
-- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [shen100/mili](https://github.com/shen100/mili) - mili 是一个开源的社区系统，界面优雅，功能丰富😛
 - [Pinedo11/nestDemo-ChatServer](https://github.com/Pinedo11/nestDemo-ChatServer) - Server side of Chat App implemented using Nest
 - [nestjsx/crud](https://github.com/nestjsx/crud) - NestJs CRUD for RESTful APIs
