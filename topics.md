@@ -1828,7 +1828,7 @@
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [reduxjs/redux-toolkit](https://github.com/reduxjs/redux-toolkit) - The official, opinionated, batteries-included toolset for efficient Redux development
 - [vercel/hyperyellow](https://github.com/vercel/hyperyellow) - Example theme for hyperterm
-- [sorrycc/weekly](https://github.com/sorrycc/weekly) - 前端周刊，每周一发布。
+- [sorrycc/weekly](https://github.com/sorrycc/weekly) - MDH Weekly 前端周刊，每周一上午 9 点发布。
 - [bitworking/react-gsap](https://github.com/bitworking/react-gsap) - React components for GSAP
 - [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
 - [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
