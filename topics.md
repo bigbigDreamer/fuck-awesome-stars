@@ -327,6 +327,7 @@
 
 ## bootstrap 
 
+- [mdbootstrap/perfect-scrollbar](https://github.com/mdbootstrap/perfect-scrollbar) - Minimalistic but perfect custom scrollbar plugin. Get more free components with Material Design for Bootstrap UI Kit (link below)
 - [bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
 
 ## bot 
@@ -437,6 +438,7 @@
 
 ## css 
 
+- [mdbootstrap/perfect-scrollbar](https://github.com/mdbootstrap/perfect-scrollbar) - Minimalistic but perfect custom scrollbar plugin. Get more free components with Material Design for Bootstrap UI Kit (link below)
 - [7PH/powerglitch](https://github.com/7PH/powerglitch) - Tiny JS library to glitch anything on the web
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
@@ -705,6 +707,7 @@
 
 ## frontend 
 
+- [mdbootstrap/perfect-scrollbar](https://github.com/mdbootstrap/perfect-scrollbar) - Minimalistic but perfect custom scrollbar plugin. Get more free components with Material Design for Bootstrap UI Kit (link below)
 - [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 🙈 🙉 🙊 每周为您推荐国内外前端领域最新的优秀文章以及行业进展
 - [haixiangyan/jest-tutorial](https://github.com/haixiangyan/jest-tutorial) - 🃏《Jest 实践指南》
 - [worldzhao/react-ui-library-tutorial](https://github.com/worldzhao/react-ui-library-tutorial) - 📚React组件库搭建指南
@@ -894,6 +897,7 @@
 
 ## html 
 
+- [mdbootstrap/perfect-scrollbar](https://github.com/mdbootstrap/perfect-scrollbar) - Minimalistic but perfect custom scrollbar plugin. Get more free components with Material Design for Bootstrap UI Kit (link below)
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
@@ -969,6 +973,7 @@
 
 ## javascript 
 
+- [mdbootstrap/perfect-scrollbar](https://github.com/mdbootstrap/perfect-scrollbar) - Minimalistic but perfect custom scrollbar plugin. Get more free components with Material Design for Bootstrap UI Kit (link below)
 - [7PH/powerglitch](https://github.com/7PH/powerglitch) - Tiny JS library to glitch anything on the web
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
@@ -1183,6 +1188,7 @@
 
 ## js 
 
+- [mdbootstrap/perfect-scrollbar](https://github.com/mdbootstrap/perfect-scrollbar) - Minimalistic but perfect custom scrollbar plugin. Get more free components with Material Design for Bootstrap UI Kit (link below)
 - [ajitid/fzf-for-js](https://github.com/ajitid/fzf-for-js) - Do fuzzy matching using FZF algorithm in JavaScript
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
