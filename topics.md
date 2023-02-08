@@ -147,6 +147,7 @@
 - [sql-server](#sql-server)
 - [statistics](#statistics)
 - [storybook](#storybook)
+- [svelte](#svelte)
 - [swift](#swift)
 - [swiftui](#swiftui)
 - [telegram](#telegram)
@@ -596,7 +597,7 @@
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [avajs/ava-docs](https://github.com/avajs/ava-docs) - Localized docs for AVA
-- [dx-angel/dx-book](https://github.com/dx-angel/dx-book) - 《开发者体验：探索与重塑》电子书。book of research and refactoring in developer experience (WIP)
+- [phodal/dx-book](https://github.com/phodal/dx-book) - 《开发者体验：探索与重塑》电子书。book of research and refactoring in developer experience (WIP)
 - [nestjs/docs.nestjs.com](https://github.com/nestjs/docs.nestjs.com) - The official documentation https://docs.nestjs.com 📕
 - [microsoft/TypeScript-Handbook](https://github.com/microsoft/TypeScript-Handbook) - Deprecated, please use the TypeScript-Website repo instead
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
@@ -2374,6 +2375,15 @@
 ## storybook 
 
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
+
+## svelte 
+
+- [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown Editor and Viewer
+- [nvh95/jest-preview](https://github.com/nvh95/jest-preview) - Debug your Jest tests. Effortlessly.🛠🖼
+- [TanStack/router](https://github.com/TanStack/router) - 🤖 Type-safe router w/ built-in caching & URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular
+- [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more.
+- [egoist/poi](https://github.com/egoist/poi) - ⚡A zero-config bundler for JavaScript applications.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 
 ## swift 
