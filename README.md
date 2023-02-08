@@ -777,7 +777,7 @@
 
 - [krshoss/gardevoir](https://github.com/krshoss/gardevoir) - The Modern CSS Reset 🚀 (Formerly Reseter.css)
 - [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
-- [dx-angel/dx-book](https://github.com/dx-angel/dx-book) - 《开发者体验：探索与重塑》电子书。book of research and refactoring in developer experience (WIP)
+- [phodal/dx-book](https://github.com/phodal/dx-book) - 《开发者体验：探索与重塑》电子书。book of research and refactoring in developer experience (WIP)
 
 ## Shell 
 
