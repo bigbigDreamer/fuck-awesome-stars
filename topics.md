@@ -25,6 +25,7 @@
 - [bootstrap](#bootstrap)
 - [bot](#bot)
 - [c](#c)
+- [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
@@ -354,6 +355,10 @@
 
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [getActivity/EmojiPackage](https://github.com/getActivity/EmojiPackage) - 表情包资源合集，张张都是经典
+
+## chatgpt 
+
+- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - 🚀 Retool open-source alternative, with low-code UI components and support for multiple data resources.
 
 ## chrome 
 
@@ -996,6 +1001,8 @@
 
 ## javascript 
 
+- [giusepperaso/structura.js](https://github.com/giusepperaso/structura.js) - A very fast and lightweight Typescript library to create immutable states with a mutable syntax
+- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - 🚀 Retool open-source alternative, with low-code UI components and support for multiple data resources.
 - [mdbootstrap/perfect-scrollbar](https://github.com/mdbootstrap/perfect-scrollbar) - Minimalistic but perfect custom scrollbar plugin. Get more free components with Material Design for Bootstrap UI Kit (link below)
 - [7PH/powerglitch](https://github.com/7PH/powerglitch) - Tiny JS library to glitch anything on the web
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
@@ -1592,6 +1599,7 @@
 
 ## open-source 
 
+- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - 🚀 Retool open-source alternative, with low-code UI components and support for multiple data resources.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
@@ -1611,6 +1619,9 @@
 
 ## others 
 
+- [kuitos/import-html-entry](https://github.com/kuitos/import-html-entry) - import html and take over the exports from the scripts
+- [KDE/kdeconnect-kde](https://github.com/KDE/kdeconnect-kde) - Multi-platform app that allows your devices to communicate
+- [asfktz/autodll-webpack-plugin](https://github.com/asfktz/autodll-webpack-plugin) - Webpack's DllPlugin without the boilerplate
 - [TachibanaYoshino/AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) - [Open Source].  The improved version of AnimeGAN. Landscape photos/videos to anime
 - [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
 - [ant-design/ant-design-charts](https://github.com/ant-design/ant-design-charts) - A React Chart Library
@@ -2076,6 +2087,7 @@
 
 ## react 
 
+- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - 🚀 Retool open-source alternative, with low-code UI components and support for multiple data resources.
 - [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [Wildhoney/ReactShadow](https://github.com/Wildhoney/ReactShadow) - :beginner: Utilise Shadow DOM in React with all the benefits of style encapsulation.
@@ -2230,6 +2242,7 @@
 
 ## reactjs 
 
+- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - 🚀 Retool open-source alternative, with low-code UI components and support for multiple data resources.
 - [Wildhoney/ReactShadow](https://github.com/Wildhoney/ReactShadow) - :beginner: Utilise Shadow DOM in React with all the benefits of style encapsulation.
 - [makegirlsmoe/makegirlsmoe_web](https://github.com/makegirlsmoe/makegirlsmoe_web) - Create Anime Characters with MakeGirlsMoe
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
@@ -2448,6 +2461,8 @@
 
 ## typescript 
 
+- [giusepperaso/structura.js](https://github.com/giusepperaso/structura.js) - A very fast and lightweight Typescript library to create immutable states with a mutable syntax
+- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - 🚀 Retool open-source alternative, with low-code UI components and support for multiple data resources.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [microsoft/just](https://github.com/microsoft/just) - The task library that just works
