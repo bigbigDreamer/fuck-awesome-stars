@@ -246,7 +246,7 @@
 - [GoogleChromeLabs/import-from-worker](https://github.com/GoogleChromeLabs/import-from-worker) - It’s like import(), but runs the module in a worker.
 - [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff) - A javascript text differencing implementation.
 - [walinejs/waline](https://github.com/walinejs/waline) - 💬 A Simple, Safe Comment System
-- [Donaldcwl/browser-image-compression](https://github.com/Donaldcwl/browser-image-compression) - Javascript module to be run in the web browser for image compression.
+- [Donaldcwl/browser-image-compression](https://github.com/Donaldcwl/browser-image-compression) - Image compression in web browser
 - [fengyuanchen/compressorjs](https://github.com/fengyuanchen/compressorjs) - JavaScript image compressor.
 - [whatwg/loader](https://github.com/whatwg/loader) - Loader Standard
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
