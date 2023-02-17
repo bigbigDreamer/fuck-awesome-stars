@@ -140,7 +140,6 @@
 - [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - A badge generator service to count visitors of your markdown file.
 - [joeyguo/blog](https://github.com/joeyguo/blog) - joeyguo's blog  请 Watch 或 Star
 - [kujian/frontendDaily](https://github.com/kujian/frontendDaily) - 前端开发博客，分享互联网最精彩的前端技术，欢迎关注我微信公众号：前端开发博客，回复 1024，领取前端进阶资料包，回复 加群，与大神一起交流学习。
-- [TencentCloud/TIMSDK](https://github.com/TencentCloud/TIMSDK) - Instant Message Service of Tencent Cloud. Download Image for Chinese Mainland：
 - [bigbigDreamer/bigbigDreamer.github.io](https://github.com/bigbigDreamer/bigbigDreamer.github.io) - :revolving_hearts:My Blogs you can visit
 - [expressjs/expressjs.com](https://github.com/expressjs/expressjs.com) - 
 - [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
@@ -160,6 +159,7 @@
 
 ## JavaScript 
 
+- [ljianshu/Blog](https://github.com/ljianshu/Blog) - 关注基础知识，打造优质前端博客，公众号[前端工匠]的作者
 - [shenjunru/react-fiber-keep-alive](https://github.com/shenjunru/react-fiber-keep-alive) - A component that maintains component state and avoids repeated re-rendering.
 - [gajus/react-css-modules](https://github.com/gajus/react-css-modules) - Seamless mapping of class names to CSS modules inside of React components.
 - [MicheleBertoli/css-in-js](https://github.com/MicheleBertoli/css-in-js) - React: CSS in JS techniques comparison
@@ -466,6 +466,7 @@
 - [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
 - [webpack/loader-utils](https://github.com/webpack/loader-utils) - utils for webpack loaders
 - [jlumbroso/react-github-login](https://github.com/jlumbroso/react-github-login) - :octocat: A React Component for GitHub Login
+- [TencentCloud/TIMSDK](https://github.com/TencentCloud/TIMSDK) - Instant Message Service of Tencent Cloud. Download Image for Chinese Mainland：
 - [cssivision/qrcode-react](https://github.com/cssivision/qrcode-react) - a react component to generate QRCode with logo
 - [tangdaohai/chat](https://github.com/tangdaohai/chat) - 一个基于 koa2 与 react 的聊天项目
 - [twobin/react-lazyload](https://github.com/twobin/react-lazyload) - Lazy load your component, image or anything matters the performance.
@@ -745,6 +746,7 @@
 
 ## Rust 
 
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [m1guelpf/auto-commit](https://github.com/m1guelpf/auto-commit) - A CLI tool that automatically writes commit messages for you.
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
@@ -824,6 +826,7 @@
 
 ## TypeScript 
 
+- [upgradejs/depngn](https://github.com/upgradejs/depngn) - A CLI tool to find out if your dependencies support a given version of node.
 - [marco-prontera/vite-plugin-css-injected-by-js](https://github.com/marco-prontera/vite-plugin-css-injected-by-js) - A Vite plugin that takes the CSS and adds it to the page through the JS. For those who want a single JS file.
 - [giusepperaso/structura.js](https://github.com/giusepperaso/structura.js) - A very fast and lightweight Typescript library to create immutable states with a mutable syntax
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - 🚀 Retool open-source alternative, with low-code UI components and support for multiple data resources.
@@ -891,7 +894,7 @@
 - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
 - [babel/babel-polyfills](https://github.com/babel/babel-polyfills) - A set of Babel plugins that enable injecting different polyfills with different strategies in your compiled code.
 - [kaimallea/isMobile](https://github.com/kaimallea/isMobile) - A simple JS library that detects mobile devices.
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [jamiebuilds/unstated-next](https://github.com/jamiebuilds/unstated-next) - 200 bytes to never think about React state management libraries ever again
 - [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
@@ -1152,6 +1155,7 @@
 
 ## Vue 
 
+- [nihaojob/vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor) - 基于fabric.js和Vue的图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
 - [shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question) - 互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [bigbigDreamer/Philippine-Virtual-Front-Page](https://github.com/bigbigDreamer/Philippine-Virtual-Front-Page) - These are some pages written By BootStrap@3.0&jQuery@3.2.1/论坛地址
