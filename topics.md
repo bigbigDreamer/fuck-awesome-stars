@@ -162,7 +162,6 @@
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
 - [vue](#vue)
-- [vuejs](#vuejs)
 - [web](#web)
 - [web-components](#web-components)
 - [webapp](#webapp)
@@ -368,6 +367,7 @@
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - 🚀 Retool open-source alternative, with low-code UI components and support for multiple data resources.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - Build Your Eternal Digital Garden
 
 ## chrome 
 
@@ -1662,6 +1662,7 @@
 
 ## others 
 
+- [gcoro/react-qrcode-logo](https://github.com/gcoro/react-qrcode-logo) - React + Typescript component to generate a QR Code with custom colors and logo
 - [TaleLin/lin-ui](https://github.com/TaleLin/lin-ui) - 🌈 简洁、易用、灵活的微信小程序组件库
 - [weilanwl/coloruicss](https://github.com/weilanwl/coloruicss) - 鲜亮的高饱和色彩，专注视觉的小程序组件库
 - [bigbigDreamer/xumi](https://github.com/bigbigDreamer/xumi) - Base on bun runtime‘s cli
@@ -2054,6 +2055,7 @@
 - [StackExchange/blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
 - [Yoshino-UI/yoshion-docs](https://github.com/Yoshino-UI/yoshion-docs) - 一个用yoshino组件构建的组件库文档
 - [devyumao/qianlong](https://github.com/devyumao/qianlong) - A lively Qianlong Emperor / 一个可以撩的乾隆
+- [mbj36/vue-burger-menu](https://github.com/mbj36/vue-burger-menu) - 🍔 An off-canvas sidebar Vue component - https://vue-burger-menu.netlify.com/
 - [ruanyf/es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
 - [lavyun/vue-demo-kugou](https://github.com/lavyun/vue-demo-kugou) - 酷狗webapp demo(vue2.0+vue-router+vuex)
 
@@ -2149,6 +2151,7 @@
 
 ## react 
 
+- [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking.
 - [module-federation/universe](https://github.com/module-federation/universe) - A collection of tools, plugins, and utilities for Module Federation
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
@@ -2735,17 +2738,6 @@
 - [ShanaMaid/vue-163-music](https://github.com/ShanaMaid/vue-163-music) - 【停止维护】网易云音乐web版，支持PC端常用功能，localStorage保存播放列表
 - [uncleLian/vue2-echo](https://github.com/uncleLian/vue2-echo) - 基于vue2 + vue-router + vuex  构建的一个音乐类单页面应用 —— echo回声
 - [bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
-
-## vuejs 
-
-- [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - ✨✨✨ 集锦 2022-2023年 前端JavaScript 手写题，编程题，Not just for interviews
-- [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
-- [egoist/poi](https://github.com/egoist/poi) - ⚡A zero-config bundler for JavaScript applications.
-- [thegreatjavascript/FakeScreenshot](https://github.com/thegreatjavascript/FakeScreenshot) - 🔥对抗假消息系列项目之一：截屏 = 实锤？相信你就输了！（”突破性“更新💥：支持修改任何网站！）
-- [surmon-china/vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) - @quilljs editor component for @vuejs(2)
-- [imcvampire/vue-axios](https://github.com/imcvampire/vue-axios) - A small wrapper for integrating axios to Vuejs
-- [shaobeichen/lvyou](https://github.com/shaobeichen/lvyou) - :school_satchel:Vue.js 初步进阶案例，路由懒加载，进入页面前登录判断，返回导航判断，RestAPI接口使用，组件封装，Vuex状态封装，keep-alive页面缓存等功能
-- [mbj36/vue-burger-menu](https://github.com/mbj36/vue-burger-menu) - 🍔 An off-canvas sidebar Vue component - https://vue-burger-menu.netlify.com/
 
 ## web 
 
