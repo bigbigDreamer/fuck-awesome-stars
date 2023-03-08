@@ -57,7 +57,7 @@
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
-- [GitCredentialManager/git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
+- [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [ant-design-blazor/ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor) - 🌈A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 
@@ -113,7 +113,7 @@
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution, a general-purpose Cloud Operating System designed for managing cloud-native applications. Demo: https://cloud.sealos.io
-- [go-pay/gopay](https://github.com/go-pay/gopay) - 微信、支付宝、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】
+- [go-pay/gopay](https://github.com/go-pay/gopay) - 微信、支付宝、通联支付、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code cloud development environments.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database CI/CD for DevOps teams. https://www.bytebase.com
@@ -151,7 +151,7 @@
 
 ## Java 
 
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Zig 等语言。
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》是一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Zig 等语言。
 - [lzyzsd/JsBridge](https://github.com/lzyzsd/JsBridge) - android java and javascript bridge, inspired by wechat webview jsbridge
 - [netty/netty](https://github.com/netty/netty) - Netty project - an event-driven asynchronous network application framework
 - [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）点击下方网站，马上开始刷题！
