@@ -163,6 +163,7 @@
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [web](#web)
 - [web-components](#web-components)
 - [webapp](#webapp)
@@ -446,6 +447,7 @@
 
 ## compiler 
 
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
 - [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
@@ -1029,6 +1031,7 @@
 
 ## javascript 
 
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
@@ -1714,7 +1717,7 @@
 - [unjs/unbuild](https://github.com/unjs/unbuild) - An unified javascript build system
 - [sindresorhus/p-progress](https://github.com/sindresorhus/p-progress) - Create a promise that reports progress
 - [skt-t1-byungi/rsup-progress](https://github.com/skt-t1-byungi/rsup-progress) - ❤️ A simple(1KB) progress bar with promises support
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent data. Supports browser & node.js environment.
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent & Client-Hints data. Supports browser & node.js environment.
 - [poppinss/file-generator](https://github.com/poppinss/file-generator) - Generate fake in-memory files for varying sizes
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 - [m1guelpf/auto-commit](https://github.com/m1guelpf/auto-commit) - A CLI tool that automatically writes commit messages for you.
@@ -2067,7 +2070,6 @@
 - [StackExchange/blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
 - [Yoshino-UI/yoshion-docs](https://github.com/Yoshino-UI/yoshion-docs) - 一个用yoshino组件构建的组件库文档
 - [devyumao/qianlong](https://github.com/devyumao/qianlong) - A lively Qianlong Emperor / 一个可以撩的乾隆
-- [mbj36/vue-burger-menu](https://github.com/mbj36/vue-burger-menu) - 🍔 An off-canvas sidebar Vue component - https://vue-burger-menu.netlify.com/
 - [ruanyf/es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
 - [lavyun/vue-demo-kugou](https://github.com/lavyun/vue-demo-kugou) - 酷狗webapp demo(vue2.0+vue-router+vuex)
 
@@ -2374,6 +2376,7 @@
 
 ## rust 
 
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
@@ -2551,6 +2554,7 @@
 
 ## typescript 
 
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [module-federation/universe](https://github.com/module-federation/universe) - A collection of tools, plugins, and utilities for Module Federation
@@ -2753,8 +2757,20 @@
 - [uncleLian/vue2-echo](https://github.com/uncleLian/vue2-echo) - 基于vue2 + vue-router + vuex  构建的一个音乐类单页面应用 —— echo回声
 - [bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
 
+## vuejs 
+
+- [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - ✨✨✨ 集锦 2022-2023年 前端JavaScript 手写题，编程题，Not just for interviews
+- [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
+- [egoist/poi](https://github.com/egoist/poi) - ⚡A zero-config bundler for JavaScript applications.
+- [thegreatjavascript/FakeScreenshot](https://github.com/thegreatjavascript/FakeScreenshot) - 🔥对抗假消息系列项目之一：截屏 = 实锤？相信你就输了！（”突破性“更新💥：支持修改任何网站！）
+- [surmon-china/vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) - @quilljs editor component for @vuejs(2)
+- [imcvampire/vue-axios](https://github.com/imcvampire/vue-axios) - A small wrapper for integrating axios to Vuejs
+- [shaobeichen/lvyou](https://github.com/shaobeichen/lvyou) - :school_satchel:Vue.js 初步进阶案例，路由懒加载，进入页面前登录判断，返回导航判断，RestAPI接口使用，组件封装，Vuex状态封装，keep-alive页面缓存等功能
+- [mbj36/vue-burger-menu](https://github.com/mbj36/vue-burger-menu) - 🍔 An off-canvas sidebar Vue component - https://vue-burger-menu.netlify.com/
+
 ## web 
 
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
 - [Tencent/westore](https://github.com/Tencent/westore) - 小程序项目分层架构
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
@@ -2804,7 +2820,7 @@
 - [webpack/webpack-dev-server](https://github.com/webpack/webpack-dev-server) - Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/.
 - [unjs/webpackbar](https://github.com/unjs/webpackbar) - Elegant ProgressBar and Profiler for Webpack 3 , 4 and 5
 - [esbuild-kit/esbuild-loader](https://github.com/esbuild-kit/esbuild-loader) - Webpack loader for esbuild: Speed up your build ⚡️
-- [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, and more
+- [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, and more
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [gregberge/loadable-components](https://github.com/gregberge/loadable-components) - The recommended Code Splitting library for React ✂️✨
 - [webpack-contrib/closure-webpack-plugin](https://github.com/webpack-contrib/closure-webpack-plugin) - Webpack Google Closure Compiler and Closure Library plugin -
