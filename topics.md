@@ -1375,7 +1375,7 @@
 - [nihui/realcugan-ncnn-vulkan](https://github.com/nihui/realcugan-ncnn-vulkan) - real-cugan converter ncnn version, runs fast on intel / amd / nvidia / apple-silicon GPU with vulkan
 - [Vaida12345/waifuExtension](https://github.com/Vaida12345/waifuExtension) - The waifu2x & Other image-enlargers on Mac
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
-- [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台翻译和 OCR 软件。
+- [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
 - [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool
 - [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
