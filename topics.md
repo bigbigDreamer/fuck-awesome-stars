@@ -394,6 +394,7 @@
 
 ## cli 
 
+- [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [upgradejs/depngn](https://github.com/upgradejs/depngn) - A CLI tool to find out if your dependencies support a given version of node.
 - [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - Sync .env files
@@ -1496,6 +1497,7 @@
 
 ## node 
 
+- [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
 - [module-federation/universe](https://github.com/module-federation/universe) - A collection of tools, plugins, and utilities for Module Federation
 - [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra) - JavaScript package manager
 - [ilearnio/module-alias](https://github.com/ilearnio/module-alias) - Register aliases of directories and custom module paths in Node
