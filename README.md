@@ -334,6 +334,7 @@
 - [dawidd6/action-send-mail](https://github.com/dawidd6/action-send-mail) - :gear: A GitHub Action to send an email to multiple recipients
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [uiwjs/province-city-china](https://github.com/uiwjs/province-city-china) - 🇨🇳最全最新中国【省、市、区县、乡镇街道】json,csv,sql数据
+- [reactjs/zh-hans.reactjs.org](https://github.com/reactjs/zh-hans.reactjs.org) - React documentation website in Simplified Chinese [Beta](https://beta.react.jscn.org)
 - [zkqiang/hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide) - 2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料。
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
@@ -685,7 +686,7 @@
 - [ConardLi/awesome-coding-js](https://github.com/ConardLi/awesome-coding-js) - 用JavaScript实现的算法和数据结构，附详细解释和刷题指南
 - [brickspert/blog](https://github.com/brickspert/blog) - 个人技术博客，博文写在 Issues 里。
 - [sisterAn/JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms) - 基础理论+JS框架应用+实践，从0到1构建整个前端算法体系
-- [EthanLin-TWer/linesh-simplicity.github.io](https://github.com/EthanLin-TWer/linesh-simplicity.github.io) - 💥学习笔记，React 全家桶 / TDD / JavaScript / 开发者效率 / 敏捷实践 / Udacity / 学习之道 等主题🍺
+- [EthanLin-TWer/ethanlin-twer.github.io](https://github.com/EthanLin-TWer/ethanlin-twer.github.io) - 💥学习笔记，React 全家桶 / TDD / JavaScript / 开发者效率 / 敏捷实践 / Udacity / 学习之道 等主题🍺
 - [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) - 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
 - [jamiebuilds/babel-handbook](https://github.com/jamiebuilds/babel-handbook) - :blue_book: A guided handbook on how to use Babel and how to create plugins for Babel.
 - [hujiulong/blog](https://github.com/hujiulong/blog) - :open_book:
@@ -1043,7 +1044,6 @@
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [wellyshen/use-web-animations](https://github.com/wellyshen/use-web-animations) - 😎 🍿 React hook for highly-performant and manipulable animations using Web Animations API.
-- [reactjs/zh-hans.reactjs.org](https://github.com/reactjs/zh-hans.reactjs.org) - React documentation website in Simplified Chinese [Beta](https://beta.react.jscn.org)
 - [any86/any-rule](https://github.com/any86/any-rule) - 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
 - [any86/any-touch](https://github.com/any86/any-touch) - :wave: Touch gesture library, 1kb~5kb, compatible with PC / mobile
 - [renke/import-sort](https://github.com/renke/import-sort) - Sort ES2015 (aka ES6) imports. Both JavaScript and TypeScript are supported.
