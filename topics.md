@@ -2014,7 +2014,7 @@
 - [tj/co](https://github.com/tj/co) - The ultimate generator based flow-control goodness for nodejs (supports thunks, promises, etc)
 - [brickspert/blog](https://github.com/brickspert/blog) - 个人技术博客，博文写在 Issues 里。
 - [epoberezkin/fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal) - The fastest deep equality check with Date, RegExp and ES6 Map, Set and typed arrays support
-- [EthanLin-TWer/linesh-simplicity.github.io](https://github.com/EthanLin-TWer/linesh-simplicity.github.io) - 💥学习笔记，React 全家桶 / TDD / JavaScript / 开发者效率 / 敏捷实践 / Udacity / 学习之道 等主题🍺
+- [EthanLin-TWer/ethanlin-twer.github.io](https://github.com/EthanLin-TWer/ethanlin-twer.github.io) - 💥学习笔记，React 全家桶 / TDD / JavaScript / 开发者效率 / 敏捷实践 / Udacity / 学习之道 等主题🍺
 - [Fechin/hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
 - [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - A badge generator service to count visitors of your markdown file.
 - [facebook/flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
