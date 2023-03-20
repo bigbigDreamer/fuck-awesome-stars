@@ -160,6 +160,10 @@
 
 ## JavaScript 
 
+- [table-library/react-table-library](https://github.com/table-library/react-table-library) - :bento: React Table Library
+- [jantimon/css-variable](https://github.com/jantimon/css-variable) - Define CSSVariables in JS
+- [SocketDev/socket-cli-js](https://github.com/SocketDev/socket-cli-js) - The Socket CLI tool
+- [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 一个使用 NextJS + Notion API 实现的，部署在 Vercel 上的静态博客系统。为Notion和所有创作者设计。
 - [SaekiRaku/vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart) - 一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.
 - [wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖一个基于OpenAi  ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
@@ -475,7 +479,7 @@
 - [bvaughn/react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [semlinker/reactjs-interview-questions](https://github.com/semlinker/reactjs-interview-questions) - List of top 304 ReactJS Interview Questions & Answers
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [bigbigDreamer/CommonProjectConfigurationFiles](https://github.com/bigbigDreamer/CommonProjectConfigurationFiles) - :ghost:Record the front-end project common configuration file configuration items.
@@ -847,6 +851,8 @@
 
 ## TypeScript 
 
+- [dorbus/flexboard](https://github.com/dorbus/flexboard) - React component library for re-sizable sidebars
+- [gajus/turbowatch](https://github.com/gajus/turbowatch) - Extremely fast file change detector and task orchestrator for Node.js.
 - [unjs/jiti](https://github.com/unjs/jiti) - Runtime Typescript and ESM support for Node.js
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
