@@ -397,6 +397,7 @@
 
 ## cli 
 
+- [sindresorhus/meow](https://github.com/sindresorhus/meow) - 🐈 CLI app helper
 - [SocketDev/socket-cli-js](https://github.com/SocketDev/socket-cli-js) - The Socket CLI tool
 - [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -1037,6 +1038,7 @@
 
 ## javascript 
 
+- [sindresorhus/meow](https://github.com/sindresorhus/meow) - 🐈 CLI app helper
 - [jantimon/css-variable](https://github.com/jantimon/css-variable) - Define CSSVariables in JS
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
@@ -1541,6 +1543,7 @@
 
 ## nodejs 
 
+- [sindresorhus/meow](https://github.com/sindresorhus/meow) - 🐈 CLI app helper
 - [upgradejs/depngn](https://github.com/upgradejs/depngn) - A CLI tool to find out if your dependencies support a given version of node.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.
@@ -1647,7 +1650,7 @@
 - [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra) - JavaScript package manager
 - [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) - Subset of Lerna in a smaller & more modular lib. It helps managing and publishing multiple packages in a monorepo/workspace structure
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
-- [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for the Edge
+- [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for the Edges
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
@@ -1685,6 +1688,8 @@
 
 ## others 
 
+- [bailicangdu/blog](https://github.com/bailicangdu/blog) - 我的博客
+- [bestony/ChatGPT-Feishu](https://github.com/bestony/ChatGPT-Feishu) - 给飞书准备的 ChatGPT 机器人
 - [dorbus/flexboard](https://github.com/dorbus/flexboard) - React component library for re-sizable sidebars
 - [gajus/turbowatch](https://github.com/gajus/turbowatch) - Extremely fast file change detector and task orchestrator for Node.js.
 - [SaekiRaku/vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart) - 一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.
@@ -1886,7 +1891,7 @@
 - [dawidd6/action-send-mail](https://github.com/dawidd6/action-send-mail) - :gear: A GitHub Action to send an email to multiple recipients
 - [ruanyf/weather-action](https://github.com/ruanyf/weather-action) - An example of GitHub Actions
 - [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 :100:
-- [reactjs/zh-hans.reactjs.org](https://github.com/reactjs/zh-hans.reactjs.org) - React documentation website in Simplified Chinese [Beta](https://beta.react.jscn.org)
+- [reactjs/zh-hans.reactjs.org](https://github.com/reactjs/zh-hans.reactjs.org) - React documentation website in Simplified Chinese (https://react.jscn.org)
 - [zkqiang/hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide) - 2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料。
 - [renke/import-sort](https://github.com/renke/import-sort) - Sort ES2015 (aka ES6) imports. Both JavaScript and TypeScript are supported.
 - [bvm/bvm](https://github.com/bvm/bvm) - A version manager for all binaries.
@@ -2268,7 +2273,7 @@
 - [atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 - [midwayjs/hooks](https://github.com/midwayjs/hooks) - "Zero" Api / Type Safe / Fullstack Kit / Powerful Backend
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
-- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕜 Modern Timeline Component for React
+- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
 - [mithi/react-philosophies](https://github.com/mithi/react-philosophies) - 🧘  Things I think about when I write React code 🧘
 - [KieSun/all-of-frontend](https://github.com/KieSun/all-of-frontend) - 你想知道的前端内容都在这
 - [BetaSu/big-react](https://github.com/BetaSu/big-react) - 跟着我，从0实现React18
@@ -2355,6 +2360,7 @@
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 - [umijs/hox](https://github.com/umijs/hox) - State sharing for React components.
+- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
 - [mithi/react-philosophies](https://github.com/mithi/react-philosophies) - 🧘  Things I think about when I write React code 🧘
 - [BetaSu/big-react](https://github.com/BetaSu/big-react) - 跟着我，从0实现React18
 - [remaxjs/remax](https://github.com/remaxjs/remax) - 使用真正的 React 构建跨平台小程序
@@ -2596,7 +2602,7 @@
 - [reeli/ts-codegen](https://github.com/reeli/ts-codegen) - Typescript code generator from swagger. 一个生成前端接口层代码和对应 TypeScript 定义的工具。
 - [ionic-team/stencil](https://github.com/ionic-team/stencil) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and tradi
 - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce.
-- [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for the Edge
+- [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for the Edges
 - [module-federation/typescript](https://github.com/module-federation/typescript) - Typescript Types Support For Module Federation
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
@@ -2661,7 +2667,7 @@
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 Type-safe router w/ built-in caching & URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [esbuild-kit/esbuild-loader](https://github.com/esbuild-kit/esbuild-loader) - Webpack loader for esbuild: Speed up your build ⚡️
-- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕜 Modern Timeline Component for React
+- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
 - [notadd/notadd](https://github.com/notadd/notadd) - A microservice development architecture based on nest.js. —— 基于 Nest.js 的微服务开发架构。
 - [egoist/rollup-plugin-esbuild](https://github.com/egoist/rollup-plugin-esbuild) - Use ESBuild with Rollup to transform ESNext and TypeScript code.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
