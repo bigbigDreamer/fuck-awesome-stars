@@ -162,6 +162,7 @@
 
 ## JavaScript 
 
+- [kentcdodds/cross-env](https://github.com/kentcdodds/cross-env) - 🔀 Cross platform setting of environment scripts
 - [code-hike/bright](https://github.com/code-hike/bright) - React Server Component for syntax highlighting
 - [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
 - [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
@@ -858,7 +859,7 @@
 
 ## TypeScript 
 
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - 开源的ChatGPT桌面应用，下载安装包直接运行，prompt 开发神器，Window、Mac、Linux全平台支持。 A desktop app for ChatGPT API (OpenAI API) that supports Windows, Mac & Linux.
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - A desktop app for ChatGPT API (OpenAI API) that supports Windows, Mac & Linux. 开源的ChatGPT桌面应用，下载安装包直接运行，prompt 开发神器，Window、Mac、Linux全平台支持。
 - [lvqq/aries](https://github.com/lvqq/aries) - 🚀 A openapi tool based on swagger document
 - [justjavac/writing-your-own-reactive-signal-library](https://github.com/justjavac/writing-your-own-reactive-signal-library) - Writing Your Own Reactive Signal Library
 - [hepengwei/visualization-collection](https://github.com/hepengwei/visualization-collection) - 🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、人工智能应用等上百个案例（持续更新）
@@ -899,7 +900,7 @@
 - [myNameIsDu/translator](https://github.com/myNameIsDu/translator) - 一个简单方便的国际化方案
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.
-- [samonxian/vite-plugin-build](https://github.com/samonxian/vite-plugin-build) - Vite library mode plugin，which support transfom the whole folder and emit dceclaration files. Vite 库模式插件，支持整个文件夹的转换和声明文件生成。
+- [samonxian/vite-plugin-build](https://github.com/samonxian/vite-plugin-build) - Vite library mode plugin，which support transfom the whole folder and emit dceclaration files. Vite 库模式插件，支持整个文件夹的转换和声明文件生成。(支持 vanilla、react、vue3 和 svelte)
 - [microsoft/just](https://github.com/microsoft/just) - The task library that just works
 - [YunYouJun/valaxy](https://github.com/YunYouJun/valaxy) - 🌌 Next Generation Static Blog Framework (Beta) 下一代静态博客框架（支持页面/配置热重载）
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager
