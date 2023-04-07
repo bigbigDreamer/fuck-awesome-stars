@@ -365,6 +365,7 @@
 
 ## chatgpt 
 
+- [Leizhenpeng/feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt) - 🎒飞书  ×（GPT-3.5 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - A desktop app for ChatGPT API (OpenAI API) that supports Windows, Mac & Linux. 开源的ChatGPT桌面应用，下载安装包直接运行，prompt 开发神器，Window、Mac、Linux全平台支持。
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖一个基于OpenAi  ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...
@@ -397,6 +398,7 @@
 
 ## cli 
 
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [sindresorhus/meow](https://github.com/sindresorhus/meow) - 🐈 CLI app helper
 - [SocketDev/socket-cli-js](https://github.com/SocketDev/socket-cli-js) - The Socket CLI tool
 - [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
@@ -860,6 +862,7 @@
 
 ## golang 
 
+- [Leizhenpeng/feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt) - 🎒飞书  ×（GPT-3.5 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 - [rogchap/v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go
 - [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [gojue/ecapture](https://github.com/gojue/ecapture) - capture SSL/TLS text content without CA cert using eBPF. supports Linux/Android  x86_64/Aarch64.
@@ -2423,6 +2426,7 @@
 
 ## rust 
 
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [dimensionhq/volt](https://github.com/dimensionhq/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
