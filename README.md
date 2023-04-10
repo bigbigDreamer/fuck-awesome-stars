@@ -1021,7 +1021,7 @@
 - [kentloog/nestjs-sequelize-typescript](https://github.com/kentloog/nestjs-sequelize-typescript) - Nest + sequelize-typescript + JWT + Jest + Swagger
 - [typestack/class-transformer](https://github.com/typestack/class-transformer) - Decorator-based transformation, serialization, and deserialization between objects and classes.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - Build Your Eternal Digital Garden
-- [aidenybai/million](https://github.com/aidenybai/million) - 🔟🔼6️⃣ An extremely fast virtual DOM that makes React up to 70% faster!
+- [aidenybai/million](https://github.com/aidenybai/million) - The Virtual DOM Replacement for React (up to 7️⃣0️⃣% faster!)
 - [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 - [rob3000/nestjs-kafka](https://github.com/rob3000/nestjs-kafka) - NestJS integration with KafkaJS
 - [apache/skywalking-nodejs](https://github.com/apache/skywalking-nodejs) - The NodeJS agent for Apache SkyWalking
