@@ -931,7 +931,7 @@
 - [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [aidenybai/million](https://github.com/aidenybai/million) - 🔟🔼6️⃣ An extremely fast virtual DOM that makes React up to 70% faster!
+- [aidenybai/million](https://github.com/aidenybai/million) - The Virtual DOM Replacement for React (up to 7️⃣0️⃣% faster!)
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
@@ -1144,7 +1144,7 @@
 - [loverajoel/jstips](https://github.com/loverajoel/jstips) - This is about useful JS tips!
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 🙈 🙉 🙊 每周为您推荐国内外前端领域最新的优秀文章以及行业进展
-- [aidenybai/million](https://github.com/aidenybai/million) - 🔟🔼6️⃣ An extremely fast virtual DOM that makes React up to 70% faster!
+- [aidenybai/million](https://github.com/aidenybai/million) - The Virtual DOM Replacement for React (up to 7️⃣0️⃣% faster!)
 - [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
@@ -2272,7 +2272,7 @@
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [neroneroffy/react-source-code-debug](https://github.com/neroneroffy/react-source-code-debug) - React 源码调试环境，源代码详细注释，跟随官方仓库进行更新
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (December 2022)
-- [aidenybai/million](https://github.com/aidenybai/million) - 🔟🔼6️⃣ An extremely fast virtual DOM that makes React up to 70% faster!
+- [aidenybai/million](https://github.com/aidenybai/million) - The Virtual DOM Replacement for React (up to 7️⃣0️⃣% faster!)
 - [ant-design/sunflower](https://github.com/ant-design/sunflower) - 🦹 Process components for antd4 & antd3 by alipay industry technology
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
