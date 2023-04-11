@@ -103,7 +103,7 @@
 
 ## Go 
 
-- [Leizhenpeng/feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt) - 🎒飞书  ×（GPT-3.5 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
+- [ConnectAI-E/feishu-OpenAI](https://github.com/ConnectAI-E/feishu-OpenAI) - 🎒飞书  ×（GPT-3.5 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 - [rogchap/v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [guangzhengli/k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials) - k8s tutorials | k8s 教程
@@ -164,6 +164,9 @@
 
 ## JavaScript 
 
+- [dutiyesh/chrome-extension-cli](https://github.com/dutiyesh/chrome-extension-cli) - 🚀 The CLI for your next Chrome Extension
+- [Hexagon/croner](https://github.com/Hexagon/croner) - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
+- [ds300/lazyrepo](https://github.com/ds300/lazyrepo) - Caching task runner for npm/pnpm/yarn monorepos.
 - [adamwdraper/Numeral-js](https://github.com/adamwdraper/Numeral-js) - A javascript library for formatting and manipulating numbers.
 - [kentcdodds/cross-env](https://github.com/kentcdodds/cross-env) - 🔀 Cross platform setting of environment scripts
 - [code-hike/bright](https://github.com/code-hike/bright) - React Server Component for syntax highlighting
@@ -353,7 +356,7 @@
 - [dawidd6/action-send-mail](https://github.com/dawidd6/action-send-mail) - :gear: A GitHub Action to send an email to multiple recipients
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [uiwjs/province-city-china](https://github.com/uiwjs/province-city-china) - 🇨🇳最全最新中国【省、市、区县、乡镇街道】json,csv,sql数据
-- [zkqiang/hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide) - 2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料。
+- [zkqiang/hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide) - 杭州购房指南，根据个人购房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料。
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [thysultan/stylis](https://github.com/thysultan/stylis) - light – weight css preprocessor
@@ -861,6 +864,8 @@
 
 ## TypeScript 
 
+- [jspm/jspm-cli](https://github.com/jspm/jspm-cli) - ES Module Package Manager
+- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - BlockSuite is the open-source collaborative editor project behind AFFiNE.
 - [mrmckeb/typescript-plugin-css-modules](https://github.com/mrmckeb/typescript-plugin-css-modules) - A TypeScript language service plugin providing support for CSS Modules.
 - [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - the Ultimate Copilot on Your Desktop. Chatbox is a desktop app for GPT-4 / GPT-3.5 (OpenAI API) that supports Windows, Mac & Linux.
@@ -1250,7 +1255,7 @@
 
 ## Zig 
 
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one
 
 
 ## License
