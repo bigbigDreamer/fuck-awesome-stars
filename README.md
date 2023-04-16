@@ -865,6 +865,7 @@
 
 ## TypeScript 
 
+- [chenxch/vite-plugin-dynamic-base](https://github.com/chenxch/vite-plugin-dynamic-base) - Resolve all resource files dynamic publicpath, like Webpack's __webpack_public_path__
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [jspm/jspm-cli](https://github.com/jspm/jspm-cli) - ES Module Package Manager
 - [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - BlockSuite is the open-source collaborative editor project behind AFFiNE.
