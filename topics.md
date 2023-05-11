@@ -379,7 +379,7 @@
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖一个基于OpenAi  ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...
 - [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) - 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！
-- [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal UI for ChatGPT.
+- [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
 - [pengzhile/pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
@@ -506,6 +506,7 @@
 
 - [mrmckeb/typescript-plugin-css-modules](https://github.com/mrmckeb/typescript-plugin-css-modules) - A TypeScript language service plugin providing support for CSS Modules.
 - [jantimon/css-variable](https://github.com/jantimon/css-variable) - Define CSSVariables in JS
+- [weilanwl/coloruicss](https://github.com/weilanwl/coloruicss) - 鲜亮的高饱和色彩，专注视觉的小程序组件库
 - [terwanerik/ScrollTrigger](https://github.com/terwanerik/ScrollTrigger) - Let your page react to scroll changes.
 - [ljianshu/Blog](https://github.com/ljianshu/Blog) - 关注基础知识，打造优质前端博客，公众号[前端工匠]的作者
 - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
@@ -1790,7 +1791,6 @@
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [gcoro/react-qrcode-logo](https://github.com/gcoro/react-qrcode-logo) - React + Typescript component to generate a QR Code with custom colors and logo
 - [TaleLin/lin-ui](https://github.com/TaleLin/lin-ui) - 🌈 简洁、易用、灵活的微信小程序组件库
-- [weilanwl/coloruicss](https://github.com/weilanwl/coloruicss) - 鲜亮的高饱和色彩，专注视觉的小程序组件库
 - [bigbigDreamer/xumi](https://github.com/bigbigDreamer/xumi) - Base on bun runtime‘s cli
 - [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [bytemate/chatapi-single](https://github.com/bytemate/chatapi-single) - Simple and powerful ChatGPT-API-Server
@@ -2835,6 +2835,7 @@
 
 - [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.
 - [qmhc/vite-plugin-dts](https://github.com/qmhc/vite-plugin-dts) - A vite plugin for generating `.d.ts` files.
+- [weilanwl/coloruicss](https://github.com/weilanwl/coloruicss) - 鲜亮的高饱和色彩，专注视觉的小程序组件库
 - [InhiblabCore/vue-hooks-plus](https://github.com/InhiblabCore/vue-hooks-plus) - High performance  & Simplicity  🧲  Vue 3 Hooks library
 - [ljianshu/Blog](https://github.com/ljianshu/Blog) - 关注基础知识，打造优质前端博客，公众号[前端工匠]的作者
 - [vuejs/pinia](https://github.com/vuejs/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
