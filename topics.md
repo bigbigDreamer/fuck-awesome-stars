@@ -2861,7 +2861,7 @@
 - [lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview) - 🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器
 - [egoist/poi](https://github.com/egoist/poi) - ⚡A zero-config bundler for JavaScript applications.
 - [zhangyuang/ssr](https://github.com/zhangyuang/ssr) - A most advanced ssr framework support React17/React18/Vue2/Vue3 on Earth that implemented serverless-side render specification.
-- [thegreatjavascript/FakeScreenshot](https://github.com/thegreatjavascript/FakeScreenshot) - 🔥对抗假消息系列项目之一：截屏 = 实锤？相信你就输了！（”突破性“更新💥：支持修改任何网站！）
+- [thegreatjavascript/FakeScreenshot](https://github.com/thegreatjavascript/FakeScreenshot) - 🔥对抗假消息系列项目之一：截屏 = 实锤？相信你就输了！（”突破性“更新💥：支持修改任何网站！） 下载安装包，手动安装到Chrome本地扩展中（注意打开开发者模式）
 - [didi/Hummer](https://github.com/didi/Hummer) - 一套移动端高性能高可用的动态化跨端开发框架
 - [sl1673495/blogs](https://github.com/sl1673495/blogs) - :book: 全网 100w+ 阅读量的进阶前端技术博客仓库，Vue 源码解析，React 深度实践，TypeScript 进阶艺术，工程化，性能优化实践……
 - [coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview) - 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
@@ -2903,7 +2903,7 @@
 - [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - ✨✨✨ 集锦 2022-2023年 前端JavaScript 手写题，编程题，Not just for interviews
 - [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
 - [egoist/poi](https://github.com/egoist/poi) - ⚡A zero-config bundler for JavaScript applications.
-- [thegreatjavascript/FakeScreenshot](https://github.com/thegreatjavascript/FakeScreenshot) - 🔥对抗假消息系列项目之一：截屏 = 实锤？相信你就输了！（”突破性“更新💥：支持修改任何网站！）
+- [thegreatjavascript/FakeScreenshot](https://github.com/thegreatjavascript/FakeScreenshot) - 🔥对抗假消息系列项目之一：截屏 = 实锤？相信你就输了！（”突破性“更新💥：支持修改任何网站！） 下载安装包，手动安装到Chrome本地扩展中（注意打开开发者模式）
 - [surmon-china/vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) - @quilljs editor component for @vuejs(2)
 - [imcvampire/vue-axios](https://github.com/imcvampire/vue-axios) - A small wrapper for integrating axios to Vuejs
 - [shaobeichen/lvyou](https://github.com/shaobeichen/lvyou) - :school_satchel:Vue.js 初步进阶案例，路由懒加载，进入页面前登录判断，返回导航判断，RestAPI接口使用，组件封装，Vuex状态封装，keep-alive页面缓存等功能
