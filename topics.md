@@ -987,7 +987,6 @@
 - [danilowoz/create-content-loader](https://github.com/danilowoz/create-content-loader) - ✏️ Tool to create your own react-content-loader easily.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [exceljs/exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
@@ -2068,6 +2067,7 @@
 - [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
 - [matzkoh/prettier-plugin-packagejson](https://github.com/matzkoh/prettier-plugin-packagejson) - Prettier plugin for package.json
 - [haixiangyan/make-wheels](https://github.com/haixiangyan/make-wheels) - 🔥 🔥 《造轮子》系列小书 —— 带你造 10 个实用的 npm 库 📦
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 - [npm/node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses)
