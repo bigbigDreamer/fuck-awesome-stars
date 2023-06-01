@@ -379,6 +379,7 @@
 
 ## chatgpt 
 
+- [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [ConnectAI-E/Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - 🎒飞书  ×（GPT-4 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Your Ultimate Copilot on the Desktop. Chatbox is a desktop app for GPT-4 / GPT-3.5 (OpenAI API) that supports Windows, Mac & Linux.
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
@@ -407,6 +408,7 @@
 
 ## chrome-extension 
 
+- [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
 - [hand-dot/react-inspector](https://github.com/hand-dot/react-inspector) - Easily detect React components source code from Chrome!
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
@@ -1070,6 +1072,7 @@
 
 ## image-processing 
 
+- [webp-sh/webp_server_go](https://github.com/webp-sh/webp_server_go) - Go version of WebP Server. A tool that will serve your JPG/PNGs as WebP format with compression, on-the-fly.
 - [pqina/vue-filepond](https://github.com/pqina/vue-filepond) - 🔌 A handy FilePond adapter component for Vue
 
 ## ios 
@@ -1936,7 +1939,7 @@
 - [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff) - A javascript text differencing implementation.
 - [cezary/react-diff](https://github.com/cezary/react-diff) - Given two inputs, highlights the differences
 - [Guts/mkdocs-rss-plugin](https://github.com/Guts/mkdocs-rss-plugin) - MkDocs plugin to generate a RSS feeds for created and updated pages, using git log and YAML frontmatter (page.meta).
-- [privatenumber/ts-runtime-comparison](https://github.com/privatenumber/ts-runtime-comparison) - Comparison of TypeScript runtimes
+- [privatenumber/ts-runtime-comparison](https://github.com/privatenumber/ts-runtime-comparison) - Comparison of Node.js TypeScript runtimes
 - [mhausenblas/mkdocs-deploy-gh-pages](https://github.com/mhausenblas/mkdocs-deploy-gh-pages) - GitHub Action to deploy an MkDocs site to GitHub Pages
 - [Donaldcwl/browser-image-compression](https://github.com/Donaldcwl/browser-image-compression) - Image compression in web browser
 - [zikaari/webext-bridge](https://github.com/zikaari/webext-bridge) - Messaging in Web Extensions made super easy. Out of the box.
@@ -2111,7 +2114,6 @@
 - [umijs/dumi](https://github.com/umijs/dumi) - 📖 Static Site Generator for component library development
 - [zhangyuang/fe-dev-playbook](https://github.com/zhangyuang/fe-dev-playbook) - 教你如何打造舒适、高效、时尚的前端开发环境
 - [sorrycc/awesome-tools](https://github.com/sorrycc/awesome-tools) - Awesome tools I used.
-- [webp-sh/webp_server_go](https://github.com/webp-sh/webp_server_go) - Go version of WebP Server. A tool that will serve your JPG/PNGs as WebP format with compression, on-the-fly.
 - [microsoft/monaco-editor-samples](https://github.com/microsoft/monaco-editor-samples) - Moved to https://github.com/microsoft/monaco-editor
 - [frejs/fre](https://github.com/frejs/fre) - :ghost: Tiny Concurrent UI library with Fiber.
 - [TypeFox/monaco-languageclient](https://github.com/TypeFox/monaco-languageclient) - NPM module to connect Monaco editor with language servers
