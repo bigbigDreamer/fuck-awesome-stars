@@ -48,7 +48,6 @@
 
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS text content without a CA certificate using eBPF. This tool is compatible with Linux/Android x86_64/Aarch64.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-- [Tencent/puerts](https://github.com/Tencent/puerts) - 普洱TS！Write your game with TypeScript in UE or Unity. PuerTS can be pronounced as pu-erh TS
 - [nihui/realcugan-ncnn-vulkan](https://github.com/nihui/realcugan-ncnn-vulkan) - real-cugan converter ncnn version, runs fast on intel / amd / nvidia / apple-silicon GPU with vulkan
 - [nihui/realsr-ncnn-vulkan](https://github.com/nihui/realsr-ncnn-vulkan) - RealSR super resolution implemented with ncnn library
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
@@ -66,6 +65,7 @@
 ## C++ 
 
 - [KDE/kdeconnect-kde](https://github.com/KDE/kdeconnect-kde) - Multi-platform app that allows your devices to communicate
+- [Tencent/puerts](https://github.com/Tencent/puerts) - 普洱TS！Write your game with TypeScript in UE or Unity. PuerTS can be pronounced as pu-erh TS
 - [marcj/TypeRunner](https://github.com/marcj/TypeRunner) - High-performance TypeScript compiler
 - [ReciHub/FunnyAlgorithms](https://github.com/ReciHub/FunnyAlgorithms) - A repository with a bunch of funny algorithms, beginners friendly
 - [Qv2ray/Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:
@@ -175,6 +175,8 @@
 
 ## JavaScript 
 
+- [pascalgn/automerge-action](https://github.com/pascalgn/automerge-action) - GitHub action to automatically merge pull requests that are ready
+- [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务
 - [DukeLuo/eslint-plugin-check-file](https://github.com/DukeLuo/eslint-plugin-check-file) - ESLint rules for consistent filename and folder. Allows you to enforce a consistent naming pattern for the filename and folder.
 - [Rich-Harris/headless-qr](https://github.com/Rich-Harris/headless-qr) - A simple, modern QR code library
@@ -939,7 +941,7 @@
 - [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
 - [7PH/powerglitch](https://github.com/7PH/powerglitch) - Tiny JS library to glitch anything on the web
 - [ant-design/ant-design-charts](https://github.com/ant-design/ant-design-charts) - A React Chart Library
-- [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - Simplify Your Secrets
+- [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - Simplify Your Secrets. The #1 secrets manager for .env files.
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
 - [unadlib/mutative](https://github.com/unadlib/mutative) - Efficient immutable updates, 10x faster than Immer by default, even faster than naive handcrafted reducer.
