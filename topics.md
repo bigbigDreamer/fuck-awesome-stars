@@ -1790,6 +1790,7 @@
 
 ## others 
 
+- [eldargab/load-script](https://github.com/eldargab/load-script) - Dynamic script loading
 - [reactwg/server-components](https://github.com/reactwg/server-components) - 
 - [evanw/polywasm](https://github.com/evanw/polywasm) - 
 - [sofish/typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
