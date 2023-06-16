@@ -175,6 +175,7 @@
 
 ## JavaScript 
 
+- [eldargab/load-script](https://github.com/eldargab/load-script) - Dynamic script loading
 - [evanw/polywasm](https://github.com/evanw/polywasm) - 
 - [pascalgn/automerge-action](https://github.com/pascalgn/automerge-action) - GitHub action to automatically merge pull requests that are ready
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
