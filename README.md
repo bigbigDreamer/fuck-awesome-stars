@@ -1084,7 +1084,7 @@
 - [CatsMiaow/nestjs-project-structure](https://github.com/CatsMiaow/nestjs-project-structure) - Node.js framework NestJS project structure
 - [kentloog/nestjs-sequelize-typescript](https://github.com/kentloog/nestjs-sequelize-typescript) - Nest + sequelize-typescript + JWT + Jest + Swagger
 - [typestack/class-transformer](https://github.com/typestack/class-transformer) - Decorator-based transformation, serialization, and deserialization between objects and classes.
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open-source personal knowledge management software, written in typescript and golang.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [aidenybai/million](https://github.com/aidenybai/million) - The Virtual DOM Replacement for React
 - [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 - [rob3000/nestjs-kafka](https://github.com/rob3000/nestjs-kafka) - NestJS integration with KafkaJS
