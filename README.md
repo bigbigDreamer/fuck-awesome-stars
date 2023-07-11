@@ -178,6 +178,7 @@
 
 ## JavaScript 
 
+- [lquixada/cross-fetch](https://github.com/lquixada/cross-fetch) - Universal WHATWG Fetch API for Node, Browsers and React Native.
 - [estools/escodegen](https://github.com/estools/escodegen) - ECMAScript code generator
 - [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
 - [sindresorhus/copy-text-to-clipboard](https://github.com/sindresorhus/copy-text-to-clipboard) - Copy text to the clipboard in modern browsers (0.2 kB)
@@ -932,7 +933,7 @@
 - [lvqq/aries](https://github.com/lvqq/aries) - 🚀 A openapi tool based on swagger document
 - [justjavac/writing-your-own-reactive-signal-library](https://github.com/justjavac/writing-your-own-reactive-signal-library) - Writing Your Own Reactive Signal Library
 - [hepengwei/visualization-collection](https://github.com/hepengwei/visualization-collection) - 🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、人工智能应用等上百个案例（持续更新）
-- [qmhc/vite-plugin-dts](https://github.com/qmhc/vite-plugin-dts) - A vite plugin for generating `.d.ts` files.
+- [qmhc/vite-plugin-dts](https://github.com/qmhc/vite-plugin-dts) - A Vite plugin for generating `.d.ts` files.
 - [dorbus/flexboard](https://github.com/dorbus/flexboard) - React component library for re-sizable sidebars
 - [gajus/turbowatch](https://github.com/gajus/turbowatch) - Extremely fast file change detector and task orchestrator for Node.js.
 - [unjs/jiti](https://github.com/unjs/jiti) - Runtime Typescript and ESM support for Node.js
