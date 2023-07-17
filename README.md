@@ -968,7 +968,7 @@
 - [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - The secrets manager for .env files – from the same people that pioneered dotenv.
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
-- [unadlib/mutative](https://github.com/unadlib/mutative) - Efficient immutable updates, 10x faster than Immer by default, even faster than naive handcrafted reducer.
+- [unadlib/mutative](https://github.com/unadlib/mutative) - Efficient immutable updates, 10x faster than Immer by default, even 2x-6x faster than naive handcrafted reducer.
 - [sanyuan0704/vite-plugin-chunk-split](https://github.com/sanyuan0704/vite-plugin-chunk-split) - A vite plugin for better chunk splitting. 一个简单易用的 Vite 拆包插件
 - [myNameIsDu/translator](https://github.com/myNameIsDu/translator) - 一个简单方便的国际化方案
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
