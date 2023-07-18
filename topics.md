@@ -2534,7 +2534,7 @@
 
 ## redux 
 
-- [unadlib/mutative](https://github.com/unadlib/mutative) - Efficient immutable updates, 10x faster than Immer by default, even 2x-6x faster than naive handcrafted reducer.
+- [unadlib/mutative](https://github.com/unadlib/mutative) - Efficient immutable updates, more than 10x faster than Immer, and up to 2x-6x faster than naive handcrafted reducer.
 - [zalmoxisus/redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension) - Redux DevTools extension.
 - [jamiebuilds/unstated-next](https://github.com/jamiebuilds/unstated-next) - 200 bytes to never think about React state management libraries ever again
 - [jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) - TypeScript Deep Dive 中文版
