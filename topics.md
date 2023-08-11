@@ -278,6 +278,7 @@
 
 ## artificial-intelligence 
 
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 
 ## atom 
@@ -336,7 +337,7 @@
 
 ## aws 
 
-- [sst/sst](https://github.com/sst/sst) - 💥 SST makes it easy to build full-stack serverless apps.
+- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 
@@ -515,7 +516,7 @@
 
 ## csharp 
 
-- [sst/sst](https://github.com/sst/sst) - 💥 SST makes it easy to build full-stack serverless apps.
+- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS.
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 
@@ -937,7 +938,7 @@
 
 - [ConnectAI-E/Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - 🎒 飞书  ×（GPT-4 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 - [rogchap/v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go
-- [sst/sst](https://github.com/sst/sst) - 💥 SST makes it easy to build full-stack serverless apps.
+- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS.
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS text content without a CA certificate using eBPF. This tool is compatible with Linux/Android x86_64/Aarch64.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
@@ -1153,7 +1154,7 @@
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-- [sst/sst](https://github.com/sst/sst) - 💥 SST makes it easy to build full-stack serverless apps.
+- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS.
 - [terwanerik/ScrollTrigger](https://github.com/terwanerik/ScrollTrigger) - Let your page react to scroll changes.
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
@@ -1446,6 +1447,7 @@
 
 ## linux 
 
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for multiple cutting-edge LLM models that available on Windows, Mac, Linux
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -1492,6 +1494,7 @@
 
 ## macos 
 
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS file archiver
 - [kentcdodds/cross-env](https://github.com/kentcdodds/cross-env) - 🔀 Cross platform setting of environment scripts
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for multiple cutting-edge LLM models that available on Windows, Mac, Linux
@@ -1606,7 +1609,7 @@
 - [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to s
 - [module-federation/module-federation-examples](https://github.com/module-federation/module-federation-examples) - Implementation examples of module federation , by the creators of module federation
 - [module-federation/universe](https://github.com/module-federation/universe) - A collection of tools, plugins, and utilities for Module Federation
-- [sst/sst](https://github.com/sst/sst) - 💥 SST makes it easy to build full-stack serverless apps.
+- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
@@ -2319,7 +2322,7 @@
 
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [sst/sst](https://github.com/sst/sst) - 💥 SST makes it easy to build full-stack serverless apps.
+- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS.
 - [pengzhile/pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
@@ -2527,7 +2530,7 @@
 
 - [table-library/react-table-library](https://github.com/table-library/react-table-library) - :bento: React Table Library
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
-- [sst/sst](https://github.com/sst/sst) - 💥 SST makes it easy to build full-stack serverless apps.
+- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS.
 - [Wildhoney/ReactShadow](https://github.com/Wildhoney/ReactShadow) - :beginner: Utilise Shadow DOM in React with all the benefits of style encapsulation.
 - [makegirlsmoe/makegirlsmoe_web](https://github.com/makegirlsmoe/makegirlsmoe_web) - Create Anime Characters with MakeGirlsMoe
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
@@ -2649,7 +2652,7 @@
 
 ## serverless 
 
-- [sst/sst](https://github.com/sst/sst) - 💥 SST makes it easy to build full-stack serverless apps.
+- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [midwayjs/hooks](https://github.com/midwayjs/hooks) - "Zero" Api / Type Safe / Fullstack Kit / Powerful Backend
@@ -2800,7 +2803,7 @@
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [module-federation/universe](https://github.com/module-federation/universe) - A collection of tools, plugins, and utilities for Module Federation
-- [sst/sst](https://github.com/sst/sst) - 💥 SST makes it easy to build full-stack serverless apps.
+- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS.
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [InhiblabCore/vue-hooks-plus](https://github.com/InhiblabCore/vue-hooks-plus) - High performance  & Simplicity  🧲  Vue 3 Hooks library
 - [upgradejs/depngn](https://github.com/upgradejs/depngn) - A CLI tool to find out if your dependencies support a given version of node.
@@ -3094,6 +3097,7 @@
 
 ## windows 
 
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [kentcdodds/cross-env](https://github.com/kentcdodds/cross-env) - 🔀 Cross platform setting of environment scripts
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for multiple cutting-edge LLM models that available on Windows, Mac, Linux
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
