@@ -38,7 +38,6 @@
 - [SCSS](#scss)
 - [Shell](#shell)
 - [Stylus](#stylus)
-- [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vue](#vue)
@@ -190,7 +189,7 @@
 - [pascalgn/automerge-action](https://github.com/pascalgn/automerge-action) - GitHub action to automatically merge pull requests that are ready
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务
-- [DukeLuo/eslint-plugin-check-file](https://github.com/DukeLuo/eslint-plugin-check-file) - ESLint rules for consistent filename and folder. Allows you to enforce a consistent naming pattern for the filename and folder.
+- [dukeluo/eslint-plugin-check-file](https://github.com/dukeluo/eslint-plugin-check-file) - ESLint rules for consistent filename and folder. Allows you to enforce a consistent naming pattern for the filename and folder.
 - [Rich-Harris/headless-qr](https://github.com/Rich-Harris/headless-qr) - A simple, modern QR code library
 - [hudochenkov/stylelint-order](https://github.com/hudochenkov/stylelint-order) - A plugin pack of order related linting rules for Stylelint.
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
@@ -885,10 +884,6 @@
 - [YunYouJun/hexo-theme-yun](https://github.com/YunYouJun/hexo-theme-yun) - ☁️ A fast & light & lovely theme for Hexo. 一个对可爱自以为是的 Hexo 主题。
 - [zhwangart/hexo-theme-ocean](https://github.com/zhwangart/hexo-theme-ocean) - Ocean is a mobile-enabled Hexo theme based on the features in Hexo's default theme landscape.
 
-## Svelte 
-
-- [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
-
 ## Swift 
 
 - [Vaida12345/waifuExtension](https://github.com/Vaida12345/waifuExtension) - The waifu2x & Other image-enlargers on Mac
@@ -916,6 +911,7 @@
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your Second Brain powered by Generative AI 🧠 Dump all your files and chat with it  ( GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...) & Embeddings
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [azat-io/eslint-plugin-perfectionist](https://github.com/azat-io/eslint-plugin-perfectionist) - 🦄 ESLint plugin for sorting various data such as objects, imports, types, enums, JSX props, etc.
+- [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [microsoft/devicescript](https://github.com/microsoft/devicescript) - TypeScript for Tiny IoT Devices (ESP32, RP2040, ...)
 - [SukkaW/rollup-plugin-swc](https://github.com/SukkaW/rollup-plugin-swc) - Use SWC with Rollup to transform ESNext and TypeScript code.
@@ -930,7 +926,7 @@
 - [chenxch/vite-plugin-dynamic-base](https://github.com/chenxch/vite-plugin-dynamic-base) - Resolve all resource files dynamic publicpath, like Webpack's __webpack_public_path__
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [jspm/jspm-cli](https://github.com/jspm/jspm-cli) - ES Module Package Manager
-- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 📝 The editor framework for the web.
+- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🍬 The infra for building collaborative editors
 - [ds300/lazyrepo](https://github.com/ds300/lazyrepo) - Caching task runner for npm/pnpm/yarn monorepos.
 - [mrmckeb/typescript-plugin-css-modules](https://github.com/mrmckeb/typescript-plugin-css-modules) - A TypeScript language service plugin providing support for CSS Modules.
 - [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
