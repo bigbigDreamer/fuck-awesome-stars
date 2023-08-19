@@ -1824,6 +1824,7 @@
 
 ## others 
 
+- [salvoravida/recoil-toolkit](https://github.com/salvoravida/recoil-toolkit) - Helpers for Recoil, the next generation state management library.
 - [robbestad/react-iframe](https://github.com/robbestad/react-iframe) - Simple solution for using iframes in React
 - [egoist/unplugin-swc](https://github.com/egoist/unplugin-swc) - SWC plugin for Vite and Rollup
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
