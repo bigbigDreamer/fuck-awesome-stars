@@ -150,6 +150,7 @@
 - [tc39/ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) - A tiny (~400 B) & modern library for keybindings.
+- [scdt-china/interview-assignments](https://github.com/scdt-china/interview-assignments) - The monorepo for interview take home assignments.
 - [nestcn/docs.nestjs.cn](https://github.com/nestcn/docs.nestjs.cn) - nestjs 中文文档
 - [haixiangyan/make-wheels](https://github.com/haixiangyan/make-wheels) - 🔥 🔥 《造轮子》系列小书 —— 带你造 10 个实用的 npm 库 📦
 - [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial）
@@ -953,7 +954,7 @@
 - [img-mapper/react-img-mapper](https://github.com/img-mapper/react-img-mapper) - React Component to highlight interactive zones in images
 - [module-federation/module-federation-examples](https://github.com/module-federation/module-federation-examples) - Implementation examples of module federation , by the creators of module federation
 - [module-federation/universe](https://github.com/module-federation/universe) - A collection of tools, plugins, and utilities for Module Federation
-- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS.
+- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [KuangPF/dumi-theme-antd](https://github.com/KuangPF/dumi-theme-antd) - A antd site theme package for the dumi framework.
 - [InhiblabCore/vue-hooks-plus](https://github.com/InhiblabCore/vue-hooks-plus) - High performance  & Simplicity  🧲  Vue 3 Hooks library
@@ -1172,7 +1173,6 @@
 - [egoist/franxx](https://github.com/egoist/franxx) - A vanilla JavaScript router that works everywhere.
 - [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
 - [iamyoki/transition-hook](https://github.com/iamyoki/transition-hook) - ☄️  An extremely light-weight react transition animation hook which is simpler and easier to use than react-transition-group
-- [scdt-china/interview-assignments](https://github.com/scdt-china/interview-assignments) - The monorepo for interview take home assignments.
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [Bunlong/react-papaparse](https://github.com/Bunlong/react-papaparse) - react-papaparse is the fastest in-browser CSV (or delimited text) parser for React. It is full of useful features such as CSVReader, CSVDownloader, readString, jsonToCSV, readRemoteFile, ... etc.
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
