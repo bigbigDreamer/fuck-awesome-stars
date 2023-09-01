@@ -151,6 +151,7 @@
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) - A tiny (~400 B) & modern library for keybindings.
 - [scdt-china/interview-assignments](https://github.com/scdt-china/interview-assignments) - The monorepo for interview take home assignments.
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  可能是让你受益匪浅的英语进阶指南。
 - [nestcn/docs.nestjs.cn](https://github.com/nestcn/docs.nestjs.cn) - nestjs 中文文档
 - [haixiangyan/make-wheels](https://github.com/haixiangyan/make-wheels) - 🔥 🔥 《造轮子》系列小书 —— 带你造 10 个实用的 npm 库 📦
 - [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial）
@@ -710,7 +711,6 @@
 - [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
 - [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
 - [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  可能是让你受益匪浅的英语进阶指南。
 - [yujiangshui/A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) - 专为程序员编写的英语学习指南 v1.2。在线版本请点 -&gt;
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [yoshuawuyts/rust-for-js-peeps](https://github.com/yoshuawuyts/rust-for-js-peeps) - Know JS, want to try Rust, but not sure where to start? This is for you!
