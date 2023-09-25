@@ -1332,7 +1332,7 @@
 - [haizlin/fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
 - [sisterAn/JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms) - 基础理论+JS框架应用+实践，从0到1构建整个前端算法体系
 - [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) - 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
-- [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial）
+- [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [kujian/frontendDaily](https://github.com/kujian/frontendDaily) - 前端开发博客，分享互联网最精彩的前端技术，欢迎关注我微信公众号：前端开发博客，回复 1024，领取前端进阶资料包，回复 加群，与大神一起交流学习。
@@ -1879,7 +1879,7 @@
 - [chenxch/vite-plugin-dynamic-base](https://github.com/chenxch/vite-plugin-dynamic-base) - Resolve all resource files dynamic publicpath, like Webpack's __webpack_public_path__
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [jspm/jspm-cli](https://github.com/jspm/jspm-cli) - ES Module Package Manager
-- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🎨 The toolkit for building collaborative editors.
+- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🎨 The toolkit for block-based structral editing.
 - [ds300/lazyrepo](https://github.com/ds300/lazyrepo) - Caching task runner for npm/pnpm/yarn monorepos.
 - [adamwdraper/Numeral-js](https://github.com/adamwdraper/Numeral-js) - A javascript library for formatting and manipulating numbers.
 - [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
@@ -1932,7 +1932,7 @@
 - [pzavolinsky/ts-unused-exports](https://github.com/pzavolinsky/ts-unused-exports) - ts-unused-exports finds unused exported symbols in your Typescript project
 - [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 An unified javascript build system
 - [sindresorhus/p-progress](https://github.com/sindresorhus/p-progress) - Create a promise that reports progress
-- [skt-t1-byungi/rsup-progress](https://github.com/skt-t1-byungi/rsup-progress) - ❤️ A simple(1KB) progress bar with promises support
+- [skt-t1-byungi/rsup-progress](https://github.com/skt-t1-byungi/rsup-progress) - ❤️ A lightweight (1KB) progress bar with promise support
 - [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent & Client-Hints data. Supports browser & node.js environment.
 - [poppinss/file-generator](https://github.com/poppinss/file-generator) - Generate fake in-memory files for varying sizes
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
