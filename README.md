@@ -1033,7 +1033,7 @@
 - [ianschmitz/react-lazy-with-preload](https://github.com/ianschmitz/react-lazy-with-preload) - React.lazy() with preload support!
 - [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
 - [hand-dot/react-inspector](https://github.com/hand-dot/react-inspector) - Easily detect React components source code from Chrome!
-- [SamVerschueren/tsd](https://github.com/SamVerschueren/tsd) - Check TypeScript type definitions
+- [tsdjs/tsd](https://github.com/tsdjs/tsd) - Check TypeScript type definitions
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [honojs/hono](https://github.com/honojs/hono) - Lightweight, Ultrafast, Web Standards
 - [LeetCode-OpenSource/rxjs-hooks](https://github.com/LeetCode-OpenSource/rxjs-hooks) - React hooks for RxJS
