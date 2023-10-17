@@ -552,7 +552,7 @@
 - [video-react/video-react](https://github.com/video-react/video-react) - A web video player built for the HTML5 world using React library.
 - [bailicangdu/react-pxq](https://github.com/bailicangdu/react-pxq) - 一个 react + redux 的完整项目 和 个人总结
 - [etianen/html5media](https://github.com/etianen/html5media) - Enables &lt;video&gt; and &lt;audio&gt; tags in all major browsers.
-- [yisainan/web-interview](https://github.com/yisainan/web-interview) - 前端面试必备，收集整理全网面试题及面试技巧，旨在帮助前端工程师们找到一份好工作！更多详见公众号「前端面试秘籍」
+- [yisainan/web-interview](https://github.com/yisainan/web-interview) - 我是齐丶先丶森，收集整理全网面试题及面试技巧，旨在帮助前端工程师们找到一份好工作！更多详见公众号「前端面试秘籍」
 - [sitespeedio/sitespeed.io](https://github.com/sitespeedio/sitespeed.io) - Sitespeed.io is an open source tool that helps you monitor, analyze and optimize your website speed and performance, based on performance best practices advices from the coach and collecting browser m
 - [Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
 - [nuysoft/Mock](https://github.com/nuysoft/Mock) - A simulation data generator
