@@ -243,7 +243,7 @@
 
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive Database for JavaScript Applications https://rxdb.info/
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
-- [teambit/bit](https://github.com/teambit/bit) - A tool for development of composable software.
+- [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2023)
 - [nvh95/jest-preview](https://github.com/nvh95/jest-preview) - Debug your Jest tests. Effortlessly.🛠🖼
@@ -1238,7 +1238,7 @@
 - [dsherret/ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
-- [teambit/bit](https://github.com/teambit/bit) - A tool for development of composable software.
+- [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [tinymce/tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
 - [fengyuanchen/compressorjs](https://github.com/fengyuanchen/compressorjs) - JavaScript image compressor.
@@ -2443,7 +2443,7 @@
 - [jamiebuilds/unstated-next](https://github.com/jamiebuilds/unstated-next) - 200 bytes to never think about React state management libraries ever again
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2800+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any Des
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
-- [teambit/bit](https://github.com/teambit/bit) - A tool for development of composable software.
+- [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
@@ -2902,7 +2902,7 @@
 - [dsherret/ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
 - [ronami/HypeScript](https://github.com/ronami/HypeScript) - 🐬 A simplified implementation of TypeScript's type system written in TypeScript's type system
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
-- [teambit/bit](https://github.com/teambit/bit) - A tool for development of composable software.
+- [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [danielroe/magic-regexp](https://github.com/danielroe/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative
 - [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx) - ⚡️ TypeScript Execute (tsx): Node.js enhanced with esbuild to run TypeScript & ESM
@@ -3025,7 +3025,7 @@
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [better-tcy/dom-to-code](https://github.com/better-tcy/dom-to-code) - This is a tool that can locate lines of code through dom
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
-- [teambit/bit](https://github.com/teambit/bit) - A tool for development of composable software.
+- [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
 - [TypeStrong/fork-ts-checker-webpack-plugin](https://github.com/TypeStrong/fork-ts-checker-webpack-plugin) - Webpack plugin that runs typescript type checker on a separate process.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and m
