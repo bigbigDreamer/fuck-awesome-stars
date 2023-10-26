@@ -557,7 +557,7 @@
 - [xkrishguptaa/gardevoir](https://github.com/xkrishguptaa/gardevoir) - The Modern CSS Reset 🚀 (Formerly Reseter.css)
 - [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨  A web component for drawing patterns with CSS.
 - [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 🙈 🙉 🙊 每周为您推荐国内外前端领域最新的优秀文章以及行业进展
-- [30-seconds/30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - Short CSS code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) - Short CSS code snippets for all your development needs
 - [ostranme/swagger-ui-themes](https://github.com/ostranme/swagger-ui-themes) - :boom: A collection of css themes to spice up your Swagger docs
 - [l-hammer/You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
 - [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
@@ -717,7 +717,7 @@
 
 ## education 
 
-- [30-seconds/30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - Short CSS code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) - Short CSS code snippets for all your development needs
 - [algorithmica-org/algorithmica](https://github.com/algorithmica-org/algorithmica) - A computer science textbook
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
 
@@ -1037,7 +1037,7 @@
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [sapegin/mrm](https://github.com/sapegin/mrm) - Codemods for your project config files
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [danilowoz/create-content-loader](https://github.com/danilowoz/create-content-loader) - ✏️ Tool to create your own react-content-loader easily.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -2353,7 +2353,7 @@
 
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [30-seconds/30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - Short CSS code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) - Short CSS code snippets for all your development needs
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 
@@ -2666,7 +2666,7 @@
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / B
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
@@ -3111,7 +3111,7 @@
 - [worldzhao/react-ui-library-tutorial](https://github.com/worldzhao/react-ui-library-tutorial) - 📚React组件库搭建指南
 - [innocces/taro-hooks](https://github.com/innocces/taro-hooks) - Hooks Library for Taro
 - [yahoo/react-stickynode](https://github.com/yahoo/react-stickynode) - A performant and comprehensive React sticky component.
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [didi/Hummer](https://github.com/didi/Hummer) - 一套移动端高性能高可用的动态化跨端开发框架
 - [sl1673495/blogs](https://github.com/sl1673495/blogs) - :book: 全网 100w+ 阅读量的进阶前端技术博客仓库，Vue 源码解析，React 深度实践，TypeScript 进阶艺术，工程化，性能优化实践……
