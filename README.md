@@ -705,7 +705,6 @@
 - [myNameIsDu/front-end-weekly](https://github.com/myNameIsDu/front-end-weekly) - 
 - [rollup/awesome](https://github.com/rollup/awesome) - ⚡️ Delightful Rollup Plugins, Packages, and Resources
 - [xdite/learn-hack](https://github.com/xdite/learn-hack) - 打造超人學習
-- [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
 - [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 :100:
 - [FrontEndGitHub/FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub) - :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等）
 - [frontend9/fe9-library](https://github.com/frontend9/fe9-library) - 九部知识库
@@ -1220,7 +1219,7 @@
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [BetaSu/big-react](https://github.com/BetaSu/big-react) - 跟着我，从0实现React18
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
-- [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers
+- [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers. For the latest version, see https://github.com/cloudflare/workers-sdk/tree/main/packages/miniflare.
 - [notadd/notadd](https://github.com/notadd/notadd) - A microservice development architecture based on nest.js. —— 基于 Nest.js 的微服务开发架构。
 - [egoist/rollup-plugin-esbuild](https://github.com/egoist/rollup-plugin-esbuild) - Use ESBuild with Rollup to transform ESNext and TypeScript code.
 - [ds300/patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨
