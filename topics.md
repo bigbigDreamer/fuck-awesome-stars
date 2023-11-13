@@ -193,7 +193,7 @@
 
 ## ai 
 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠  Alternative to OpenAI GPTs & Your personal assistant to chat with your files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, Vertex
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share with u
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for multiple cutting-edge LLM models, available on Windows, Mac, Linux
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
@@ -399,7 +399,7 @@
 
 ## chatgpt 
 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠  Alternative to OpenAI GPTs & Your personal assistant to chat with your files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, Vertex
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share with u
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [ConnectAI-E/Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - 🎒 飞书  ×（GPT-4 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
@@ -903,6 +903,7 @@
 
 ## git 
 
+- [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git 
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
@@ -920,6 +921,7 @@
 
 ## github 
 
+- [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git 
 - [pascalgn/automerge-action](https://github.com/pascalgn/automerge-action) - GitHub action to automatically merge pull requests that are ready
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
@@ -1009,7 +1011,6 @@
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - 🚀 Retool open-source alternative, with low-code UI components and support for multiple data resources.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - “run anything” from the creator of `brew`
 - [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Free & open-source JavaScript library to detect user's Browser, Engine, OS, CPU, and Device type/model. Runs either in browser (client-side) or node.js (server-side).
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -1884,6 +1885,8 @@
 
 ## others 
 
+- [hiddify/hiddify-next](https://github.com/hiddify/hiddify-next) - Multi-platform proxy client made with Flutter
+- [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 - [devilwjp/vuereact-combined](https://github.com/devilwjp/vuereact-combined) - Vue和React快捷集成的工具包，并且适合复杂的集成场景
 - [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。
 - [resendlabs/react-email](https://github.com/resendlabs/react-email) - 💌 Build and send emails using React
@@ -2207,7 +2210,7 @@
 - [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
 - [nodeca/pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed
 - [travist/jsencrypt](https://github.com/travist/jsencrypt) - A zero-dependency Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
-- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (109 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [Flipboard/react-canvas](https://github.com/Flipboard/react-canvas) - High performance &lt;canvas&gt; rendering for React components
 - [cdoco/learn-regex-zh](https://github.com/cdoco/learn-regex-zh) - :cn: 翻译: 学习正则表达式的简单方法
 - [WebReflection/sqlite-worker](https://github.com/WebReflection/sqlite-worker) - A simple, and persistent, SQLite database for Web and Workers.
@@ -2706,7 +2709,7 @@
 - [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - 🚀 Retool open-source alternative, with low-code UI components and support for multiple data resources.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [adriankumpf/teslamate](https://github.com/adriankumpf/teslamate) - A self-hosted data logger for your Tesla  🚘
+- [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘
 - [walinejs/waline](https://github.com/walinejs/waline) - 💬 A Simple, Safe Comment System
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
