@@ -104,7 +104,7 @@
 
 ## Dart 
 
-- [hiddify/hiddify-next](https://github.com/hiddify/hiddify-next) - Multi-platform proxy client made with Flutter
+- [hiddify/hiddify-next](https://github.com/hiddify/hiddify-next) - Multi-platform auto-proxy client made with Flutter, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH and many more. It’s an open-source, secure and ads-free app.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## Dockerfile 
