@@ -188,6 +188,7 @@
 
 ## JavaScript 
 
+- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [devilwjp/veaury](https://github.com/devilwjp/veaury) - Use React in Vue3 and Vue3 in React, And as perfect as possible!
 - [devilwjp/vuereact-combined](https://github.com/devilwjp/vuereact-combined) - Vue和React快捷集成的工具包，并且适合复杂的集成场景
 - [eKoopmans/html2pdf.js](https://github.com/eKoopmans/html2pdf.js) - Client-side HTML-to-PDF rendering using pure JS.
