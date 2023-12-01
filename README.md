@@ -109,7 +109,7 @@
 
 ## Dockerfile 
 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2023)
 
 ## Elixir 
 
@@ -124,7 +124,7 @@
 - [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
 - [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 - [rogchap/v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go
-- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
+- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [guangzhengli/k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials) - k8s tutorials | k8s 教程
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
@@ -137,7 +137,7 @@
 - [go-pay/gopay](https://github.com/go-pay/gopay) - 微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering team.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab for database DevOps
 - [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
 - [webp-sh/webp_server_go](https://github.com/webp-sh/webp_server_go) - Go version of WebP Server. A tool that will serve your JPG/PNG/BMP/SVGs as WebP/AVIF format with compression, on-the-fly.
 - [StackExchange/blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
@@ -189,6 +189,8 @@
 
 ## JavaScript 
 
+- [fregante/iphone-inline-video](https://github.com/fregante/iphone-inline-video) - 📱 Make videos playable inline on the iPhone (prevents automatic fullscreen)
+- [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [alexmacarthur/typeit](https://github.com/alexmacarthur/typeit) - The most versatile JavaScript typewriter effect library on the planet.
 - [fomenyesu/wechatVideoExample](https://github.com/fomenyesu/wechatVideoExample) - 微信播放视频的测试源码： 由于微信使用X5浏览器，在使用video标签播放视频的时候出现各种奇葩问题。本源码是在解决这个问题的过程中所做的尝试性源码。 里面囊括了各种测试用例： 使用canvas播放视频， 使用图片播放视频， 使用x5标签等。 这个可用留存的源码库，有兴趣的同学可以自己下载。
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
@@ -920,6 +922,7 @@
 
 ## TypeScript 
 
+- [antfu/markdown-it-github-alerts](https://github.com/antfu/markdown-it-github-alerts) - Support GitHub-style alerts for markdown-it
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [Tencent/vConsole](https://github.com/Tencent/vConsole) - A lightweight, extendable front-end developer tool for mobile web page.
 - [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git 
