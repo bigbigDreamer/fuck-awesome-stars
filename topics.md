@@ -1898,7 +1898,7 @@
 - [sindresorhus/memoize](https://github.com/sindresorhus/memoize) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input
 - [Faire/mjml-react](https://github.com/Faire/mjml-react) - React component library to generate the HTML emails on the fly
 - [Swatinem/rollup-plugin-dts](https://github.com/Swatinem/rollup-plugin-dts) - A rollup plugin to generate .d.ts rollup files for your typescript project
-- [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 AI Copilot for your own SaaS product. Shopify Sidekick alternative.
+- [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 Let your users chat with your product features and execute things by text - open source Shopify sidekick
 - [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
 - [fregante/iphone-inline-video](https://github.com/fregante/iphone-inline-video) - 📱 Make videos playable inline on the iPhone (prevents automatic fullscreen)
 - [fonttools/fonttools](https://github.com/fonttools/fonttools) - A library to manipulate font files from Python.
