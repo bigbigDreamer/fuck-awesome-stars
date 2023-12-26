@@ -221,7 +221,7 @@
 - [1904labs/dom-to-image-more](https://github.com/1904labs/dom-to-image-more) - Generates an image from a DOM node using HTML5 canvas
 - [guybedford/es-module-lexer](https://github.com/guybedford/es-module-lexer) - Low-overhead lexer dedicated to ES module parsing for fast analysis
 - [preactjs/wmr](https://github.com/preactjs/wmr) - 👩‍🚀 The tiny all-in-one development tool for modern web apps.
-- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast local JSON database
 - [unjs/ohash](https://github.com/unjs/ohash) - Super fast hashing library based on murmurhash3 written in Vanilla JS
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [lukeed/mri](https://github.com/lukeed/mri) - Quickly scan for CLI flags and arguments
@@ -881,7 +881,7 @@
 
 ## SCSS 
 
-- [xkrishguptaa/reseter.css](https://github.com/xkrishguptaa/reseter.css) - The Modern CSS Reset 🚀 (Formerly Reseter.css)
+- [xkrishguptaa/reseter.css](https://github.com/xkrishguptaa/reseter.css) - The Modern CSS Reset 🚀
 - [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 - [phodal/dx-book](https://github.com/phodal/dx-book) - 《开发者体验：探索与重塑》电子书。book of research and refactoring in developer experience (WIP)
 
@@ -923,6 +923,7 @@
 
 ## TypeScript 
 
+- [dai-shi/waku](https://github.com/dai-shi/waku) - ⛩️ The minimal React framework
 - [sindresorhus/memoize](https://github.com/sindresorhus/memoize) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your priv
 - [Faire/mjml-react](https://github.com/Faire/mjml-react) - React component library to generate the HTML emails on the fly
