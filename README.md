@@ -194,6 +194,7 @@
 
 ## JavaScript 
 
+- [humanwhocodes/fsx](https://github.com/humanwhocodes/fsx) - A modern filesystem API for JavaScript
 - [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
 - [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
 - [fregante/iphone-inline-video](https://github.com/fregante/iphone-inline-video) - 📱 Make videos playable inline on the iPhone (prevents automatic fullscreen)
@@ -930,6 +931,8 @@
 
 ## TypeScript 
 
+- [FrigadeHQ/remote-storage](https://github.com/FrigadeHQ/remote-storage) - remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across browsers and devices.
+- [benjamine/jsondiffpatch](https://github.com/benjamine/jsondiffpatch) - Diff & patch JavaScript objects
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
 - [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀💨 A fast Rspack-based static site generator.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
