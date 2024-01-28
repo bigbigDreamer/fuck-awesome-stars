@@ -934,6 +934,7 @@
 
 ## TypeScript 
 
+- [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
 - [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
 - [lobehub/dumi-theme-lobehub](https://github.com/lobehub/dumi-theme-lobehub) - Lobe documentation site theme package designed for Dumi 2
 - [tinylibs/tinybench](https://github.com/tinylibs/tinybench) - 🔎 A simple, tiny and lightweight benchmarking library!
