@@ -1941,7 +1941,7 @@
 - [josdejong/workerpool](https://github.com/josdejong/workerpool) - Offload tasks to a pool of workers on node.js and in the browser
 - [lobehub/dumi-theme-lobehub](https://github.com/lobehub/dumi-theme-lobehub) - Lobe documentation site theme package designed for Dumi 2
 - [yantra-core/Sutra.js](https://github.com/yantra-core/Sutra.js) - A JavaScript behavior tree library for easily creating and managing complex behavior patterns
-- [humanwhocodes/fsx](https://github.com/humanwhocodes/fsx) - A modern filesystem API for JavaScript
+- [humanwhocodes/humanfs](https://github.com/humanwhocodes/humanfs) - A modern filesystem API for JavaScript
 - [dai-shi/waku](https://github.com/dai-shi/waku) - ⛩️ The minimal React framework
 - [sindresorhus/memoize](https://github.com/sindresorhus/memoize) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input
 - [Faire/mjml-react](https://github.com/Faire/mjml-react) - React component library to generate the HTML emails on the fly
