@@ -1896,7 +1896,7 @@
 ## npm 
 
 - [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra) - JavaScript package manager
-- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) - Subset of Lerna in a smaller & more modular lib. It helps managing and publishing multiple packages in a monorepo/workspace structure
+- [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) - Subset of Lerna in a smaller & more modular project. Helps manage and publish multiple packages in a monorepo/workspace structure
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [honojs/hono](https://github.com/honojs/hono) - Fast, Lightweight, Web-standards
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
