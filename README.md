@@ -194,6 +194,7 @@
 
 ## JavaScript 
 
+- [styled-components/polished](https://github.com/styled-components/polished) - A lightweight toolset for writing styles in JavaScript ✨
 - [josdejong/workerpool](https://github.com/josdejong/workerpool) - Offload tasks to a pool of workers on node.js and in the browser
 - [yantra-core/Sutra.js](https://github.com/yantra-core/Sutra.js) - A JavaScript behavior tree library for easily creating and managing complex behavior patterns
 - [humanwhocodes/humanfs](https://github.com/humanwhocodes/humanfs) - A modern filesystem API for JavaScript
@@ -934,6 +935,7 @@
 
 ## TypeScript 
 
+- [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
 - [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
 - [lobehub/dumi-theme-lobehub](https://github.com/lobehub/dumi-theme-lobehub) - Lobe documentation site theme package designed for Dumi 2
