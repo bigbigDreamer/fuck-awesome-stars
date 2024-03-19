@@ -461,6 +461,7 @@
 
 ## cli 
 
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [lukeed/mri](https://github.com/lukeed/mri) - Quickly scan for CLI flags and arguments
 - [dutiyesh/chrome-extension-cli](https://github.com/dutiyesh/chrome-extension-cli) - 🚀 The CLI for your next Chrome Extension
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
@@ -1502,6 +1503,7 @@
 
 ## json 
 
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [benjamine/jsondiffpatch](https://github.com/benjamine/jsondiffpatch) - Diff & patch JavaScript objects
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
@@ -1700,7 +1702,7 @@
 - [Tencent/vConsole](https://github.com/Tencent/vConsole) - A lightweight, extendable front-end developer tool for mobile web page.
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-- [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total cov
+- [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to 
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Essential UI blocks for building mobile web apps.
@@ -1958,7 +1960,7 @@
 ## open-source 
 
 - [OnedocLabs/react-print-pdf](https://github.com/OnedocLabs/react-print-pdf) - Build and generate PDF using React 📄 UI kit for PDFs and print documents. Simple, reusable components and templates to create great invoices, docs, brochures. Use your favorite front-end framework Rea
-- [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total cov
+- [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to 
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 - [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
@@ -2339,7 +2341,7 @@
 - [sorrycc/awesome-tools](https://github.com/sorrycc/awesome-tools) - Awesome tools I used.
 - [microsoft/monaco-editor-samples](https://github.com/microsoft/monaco-editor-samples) - Moved to https://github.com/microsoft/monaco-editor
 - [frejs/fre](https://github.com/frejs/fre) - :ghost: Tiny Concurrent UI library with Fiber.
-- [TypeFox/monaco-languageclient](https://github.com/TypeFox/monaco-languageclient) - NPM module to connect Monaco editor with language servers
+- [TypeFox/monaco-languageclient](https://github.com/TypeFox/monaco-languageclient) - Repo hosts npm packages for monaco-languageclient, vscode-ws-jsonrpc, monaco-editor-wrapper, @typefox/monaco-editor-react and monaco-languageclient-examples
 - [microsoft/monaco-editor-webpack-plugin](https://github.com/microsoft/monaco-editor-webpack-plugin) - Moved to https://github.com/microsoft/monaco-editor
 - [Aaaaash/blog](https://github.com/Aaaaash/blog) - ✍️不定期断更
 - [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
@@ -2500,7 +2502,7 @@
 
 ## pwa 
 
-- [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total cov
+- [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to 
 - [padloc/padloc](https://github.com/padloc/padloc) - A modern, open source password manager for individuals and teams.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
@@ -3017,7 +3019,7 @@
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
 - [morellodev/react-awesome-reveal](https://github.com/morellodev/react-awesome-reveal) - React components to add reveal animations using the Intersection Observer API and CSS Animations.
-- [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total cov
+- [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to 
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 - [re-rxjs/react-rxjs](https://github.com/re-rxjs/react-rxjs) - React bindings for RxJS
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
@@ -3190,7 +3192,7 @@
 - [ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll) - :scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [devilwjp/veaury](https://github.com/devilwjp/veaury) - Use React in Vue3 and Vue3 in React, And as perfect as possible!
-- [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total cov
+- [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to 
 - [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.
 - [qmhc/vite-plugin-dts](https://github.com/qmhc/vite-plugin-dts) - A Vite plugin for generating `.d.ts` files.
 - [weilanwl/coloruicss](https://github.com/weilanwl/coloruicss) - 鲜亮的高饱和色彩，专注视觉的小程序组件库
