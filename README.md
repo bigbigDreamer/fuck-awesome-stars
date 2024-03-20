@@ -49,7 +49,7 @@
 ## C 
 
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
-- [gojue/ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS text content without a CA certificate using eBPF. This tool is compatible with Linux/Android x86_64/Aarch64.
+- [gojue/ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS text content without a CA certificate using eBPF. This tool is compatible with Linux/Android x86_64/aarch64.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [nihui/realcugan-ncnn-vulkan](https://github.com/nihui/realcugan-ncnn-vulkan) - real-cugan converter ncnn version, runs fast on intel / amd / nvidia / apple-silicon GPU with vulkan
 - [nihui/realsr-ncnn-vulkan](https://github.com/nihui/realsr-ncnn-vulkan) - RealSR super resolution implemented with ncnn library
@@ -180,7 +180,7 @@
 
 ## Handlebars 
 
-- [rustlang-cn/rusty-book](https://github.com/rustlang-cn/rusty-book) - A curated list of recipes and repos that can be used to build your rusty projects. Rusty Book = Cookbook + Awesome Rust！
+- [sunface/BeatAI](https://github.com/sunface/BeatAI) - 专属于软件开发工程师的 AI 入门圣经。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
 - [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 
 ## Java 
@@ -938,6 +938,10 @@
 
 ## TypeScript 
 
+- [dream-num/univer](https://github.com/dream-num/univer) - Univer is a set of enterprise document and data collaboration solutions.
+- [larswaechter/voici.js](https://github.com/larswaechter/voici.js) - A Node.js library for pretty printing your data on the terminal🎨
+- [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [open-source-labs/ReacType](https://github.com/open-source-labs/ReacType) - Prototyping Tool for exporting React/Typescript Applications!
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
