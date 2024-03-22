@@ -157,7 +157,6 @@
 - [kuitos/import-html-entry](https://github.com/kuitos/import-html-entry) - import html and take over the exports from the scripts
 - [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [jser/jser.github.io](https://github.com/jser/jser.github.io) - JSer.infoのブログリポジトリ
 - [drrouen/NouBan-js](https://github.com/drrouen/NouBan-js) - 检测文本中是否含有豆瓣敏感词（JavaScript版本）。Nouban is an anti-censorship project aiming to record censored words in Douban, a Chinese social network platform. It is merely a glimpse of the situation in Chinese 'Inne
 - [bigbigDreamer/weekly](https://github.com/bigbigDreamer/weekly) - weekly blog
@@ -298,6 +297,7 @@
 - [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
 - [CJY0208/react-activation](https://github.com/CJY0208/react-activation) - Hack &lt;KeepAlive /&gt; for React
 - [lukeed/flattie](https://github.com/lukeed/flattie) - A tiny (203B) and fast utility to flatten an object with customizable glue
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [bluwy/whyframe](https://github.com/bluwy/whyframe) - Develop components in isolation with just an iframe
 - [cocos2d/cocos2d-html5](https://github.com/cocos2d/cocos2d-html5) - Cocos2d for Web Browsers. Built using JavaScript.
 - [ilearnio/module-alias](https://github.com/ilearnio/module-alias) - Register aliases of directories and custom module paths in Node
