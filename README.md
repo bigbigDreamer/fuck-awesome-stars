@@ -194,6 +194,7 @@
 
 ## JavaScript 
 
+- [AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff) - A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
 - [domchristie/humps](https://github.com/domchristie/humps) - 🐫 Underscore-to-camelCase converter (and vice versa) for strings and object keys in JavaScript.
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [styled-components/polished](https://github.com/styled-components/polished) - A lightweight toolset for writing styles in JavaScript ✨
@@ -847,6 +848,7 @@
 
 ## Rust 
 
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
 - [fluencelabs/nox](https://github.com/fluencelabs/nox) - Rust implementation of the Fluence network peer
 - [electric-capital/crypto-ecosystems](https://github.com/electric-capital/crypto-ecosystems) - A taxonomy for open source cryptocurrency, blockchain, and decentralized ecosystems
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
