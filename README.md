@@ -1346,7 +1346,7 @@
 - [peerigon/parse-domain](https://github.com/peerigon/parse-domain) - Splits a hostname into subdomains, domain and (effective) top-level domains.
 - [pillarjs/path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Turn a path string such as `/user/:name` into a regular expression
 - [zhangyuang/egg-react-ssr](https://github.com/zhangyuang/egg-react-ssr) - 最小而美的Egg + React + SSR 服务端渲染应用骨架，同时支持JS和TS
-- [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
+- [reduxjs/redux](https://github.com/reduxjs/redux) - A JS library for predictable global state management
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [rt2zz/redux-persist](https://github.com/rt2zz/redux-persist) - persist and rehydrate a redux store
 - [benjamn/recast](https://github.com/benjamn/recast) - JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator
