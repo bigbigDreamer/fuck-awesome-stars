@@ -518,7 +518,6 @@
 - [webpack/webpack-cli](https://github.com/webpack/webpack-cli) - Webpack's Command Line Interface
 - [thegreatjavascript/FakeScreenshot](https://github.com/thegreatjavascript/FakeScreenshot) - 🔥对抗假消息系列项目之一：截屏 = 实锤？相信你就输了！（”突破性“更新💥：支持修改任何网站！） 下载安装包，手动安装到Chrome本地扩展中（注意打开开发者模式）
 - [jonschlinkert/kind-of](https://github.com/jonschlinkert/kind-of) - Get the native JavaScript type of a value, fast. Used by superstruct, micromatch and many others!
-- [frejs/fre](https://github.com/frejs/fre) - :ghost: Tiny Concurrent UI library with Fiber.
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [jsmini/clone](https://github.com/jsmini/clone) - A professional deep clone library
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
@@ -1320,6 +1319,7 @@
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [wellyshen/react-cool-virtual](https://github.com/wellyshen/react-cool-virtual) - 😎 ♻️ A tiny React hook for rendering large datasets like a breeze.
 - [YunYouJun/nnrm](https://github.com/YunYouJun/nnrm) - 🔧 New nrm (NPM registry manager). Use smaller dependencies.
+- [frejs/fre](https://github.com/frejs/fre) - :ghost: Tiny Concurrent UI library with Fiber.
 - [TypeFox/monaco-languageclient](https://github.com/TypeFox/monaco-languageclient) - Repo hosts npm packages for monaco-languageclient, vscode-ws-jsonrpc, monaco-editor-wrapper, @typefox/monaco-editor-react and monaco-languageclient-examples
 - [cassiozen/useStateMachine](https://github.com/cassiozen/useStateMachine) - The &lt;1 kb state machine hook for React
 - [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
