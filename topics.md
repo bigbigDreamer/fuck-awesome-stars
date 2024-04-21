@@ -492,7 +492,7 @@
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
-- [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
+- [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [zu1k/nali](https://github.com/zu1k/nali) - An offline tool for querying IP geographic information and CDN provider. 一个查询IP地理信息和CDN服务提供商的离线终端工具.
 - [sapegin/mrm](https://github.com/sapegin/mrm) - Codemods for your project config files
 - [plopjs/plop](https://github.com/plopjs/plop) - Consistency Made Simple
@@ -1618,7 +1618,7 @@
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
@@ -1887,7 +1887,7 @@
 - [sindresorhus/meow](https://github.com/sindresorhus/meow) - 🐈 CLI app helper
 - [upgradejs/depngn](https://github.com/upgradejs/depngn) - A CLI tool to find out if your dependencies support a given version of node.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
 - [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra) - JavaScript package manager
 - [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - ✨✨✨ Challenge your JavaScript programming limits step by step
 - [Tencent/puerts](https://github.com/Tencent/puerts) - PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.
@@ -2000,7 +2000,7 @@
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2024)
 - [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
-- [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
+- [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [Pana/nrm](https://github.com/Pana/nrm) - NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
@@ -2251,7 +2251,7 @@
 - [styleguidist/react-docgen-typescript](https://github.com/styleguidist/react-docgen-typescript) - A simple parser for react properties defined in typescript instead of propTypes.
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
-- [antfu/taze](https://github.com/antfu/taze) - 🥦 A modern cli tool that keeps your deps fresh
+- [antfu-collective/taze](https://github.com/antfu-collective/taze) - 🥦 A modern cli tool that keeps your deps fresh
 - [HCLonely/hexo-bilibili-bangumi](https://github.com/HCLonely/hexo-bilibili-bangumi) - hexo 番剧页面插件，可选数据源：Bilibili, Bangumi
 - [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业
 - [sorrycc/esbuild-webpack-plugin](https://github.com/sorrycc/esbuild-webpack-plugin) - Use esbuild as minifier for webpack.
@@ -2504,7 +2504,7 @@
 - [dimensionhq/volt](https://github.com/dimensionhq/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
-- [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
+- [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [bower/bower](https://github.com/bower/bower) - A package manager for the web
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
