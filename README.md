@@ -517,6 +517,7 @@
 - [webpack-contrib/worker-loader](https://github.com/webpack-contrib/worker-loader) - A webpack loader that registers a script as a Web Worker
 - [GoogleChromeLabs/comlink-loader](https://github.com/GoogleChromeLabs/comlink-loader) - Webpack loader to offload modules to Worker threads seamlessly using Comlink.
 - [egoist/poi](https://github.com/egoist/poi) - ⚡A zero-config bundler for JavaScript applications.
+- [umijs/dumi](https://github.com/umijs/dumi) - 📖 Static Site Generator for component library development
 - [webpack/webpack-cli](https://github.com/webpack/webpack-cli) - Webpack's Command Line Interface
 - [thegreatjavascript/FakeScreenshot](https://github.com/thegreatjavascript/FakeScreenshot) - 🔥对抗假消息系列项目之一：截屏 = 实锤？相信你就输了！（”突破性“更新💥：支持修改任何网站！） 下载安装包，手动安装到Chrome本地扩展中（注意打开开发者模式）
 - [jonschlinkert/kind-of](https://github.com/jonschlinkert/kind-of) - Get the native JavaScript type of a value, fast. Used by superstruct, micromatch and many others!
@@ -1322,7 +1323,6 @@
 - [7kms/react-illustration-series](https://github.com/7kms/react-illustration-series) - 图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.
 - [egoist/yaup](https://github.com/egoist/yaup) - unopinionated esbuild cli.
 - [remaxjs/remax](https://github.com/remaxjs/remax) - 使用真正的 React 构建跨平台小程序
-- [umijs/dumi](https://github.com/umijs/dumi) - 📖 Static Site Generator for component library development
 - [zhangyuang/ssr](https://github.com/zhangyuang/ssr) - A most advanced ssr framework support React17/React18/Vue2/Vue3 on Earth that implemented serverless-side render specification.
 - [nestjs/typeorm](https://github.com/nestjs/typeorm) - TypeORM module for Nest framework (node.js)  🍇
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
