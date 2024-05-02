@@ -249,7 +249,7 @@
 - [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
 - [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
 - [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.
-- [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
+- [requestly/requestly](https://github.com/requestly/requestly) - Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly i
 - [lvqq/blog](https://github.com/lvqq/blog) - Personal blog
 - [vercel/next-react-server-components](https://github.com/vercel/next-react-server-components) - Demo repository for Next.js + React Server Components
 - [sindresorhus/eslint-formatter-pretty](https://github.com/sindresorhus/eslint-formatter-pretty) - Pretty ESLint formatter
@@ -1413,7 +1413,7 @@
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [LTiger14/best-resume-ever](https://github.com/LTiger14/best-resume-ever) - My custom fork for best-resume-ever :necktie: :briefcase: :rocket: Made with Vue and LESS.
 - [iview/iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
-- [mbj36/vue-burger-menu](https://github.com/mbj36/vue-burger-menu) - 🍔 An off-canvas sidebar Vue component - https://vue-burger-menu.netlify.com/
+- [mbj36/vue-burger-menu](https://github.com/mbj36/vue-burger-menu) - 🍔 An off-canvas sidebar Vue component - https://vue-burger-menu.netlify.app/
 - [lavyun/vue-demo-kugou](https://github.com/lavyun/vue-demo-kugou) - 酷狗webapp demo(vue2.0+vue-router+vuex)
 
 ## WebAssembly 
