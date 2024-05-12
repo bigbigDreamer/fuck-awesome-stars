@@ -3218,7 +3218,7 @@
 - [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 - [wellyshen/use-web-animations](https://github.com/wellyshen/use-web-animations) - 😎 🍿 React hook for highly-performant and manipulable animations using Web Animations API.
 - [any86/any-touch](https://github.com/any86/any-touch) - :wave: Touch gesture library, 1kb~5kb, compatible with PC / mobile
-- [danvk/effective-typescript](https://github.com/danvk/effective-typescript) - Effective TypeScript: 62 Specific Ways to Improve Your TypeScript
+- [danvk/effective-typescript](https://github.com/danvk/effective-typescript) - Effective TypeScript 2nd Edition: 83 Specific Ways to Improve Your TypeScript
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [ts-essentials/ts-essentials](https://github.com/ts-essentials/ts-essentials) - All essential TypeScript types in one place 🤙
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
