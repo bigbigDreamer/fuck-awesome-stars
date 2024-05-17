@@ -195,6 +195,7 @@
 
 ## JavaScript 
 
+- [farzher/fuzzysort](https://github.com/farzher/fuzzysort) - Fast SublimeText-like fuzzy search for JavaScript.
 - [yingye/weapp-qrcode](https://github.com/yingye/weapp-qrcode) - weapp.qrcode.js 在 微信小程序 中，快速生成二维码
 - [jshttp/fresh](https://github.com/jshttp/fresh) - HTTP request freshness testing
 - [rcompat/rcompat](https://github.com/rcompat/rcompat) - JavaScript interoperability and runtime compatibility layer for servers
@@ -866,7 +867,7 @@
 - [m1guelpf/auto-commit](https://github.com/m1guelpf/auto-commit) - A CLI tool that automatically writes commit messages for you.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
@@ -902,7 +903,7 @@
 
 ## SCSS 
 
-- [xkrishguptaa/reseter.css](https://github.com/xkrishguptaa/reseter.css) - The Modern CSS Reset 🚀
+- [fi-krish/reseter.css](https://github.com/fi-krish/reseter.css) - The Modern CSS Reset 🚀
 - [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 - [bencodezen/vue-enterprise-boilerplate](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
 
@@ -944,6 +945,7 @@
 
 ## TypeScript 
 
+- [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.
 - [uNmAnNeR/imaskjs](https://github.com/uNmAnNeR/imaskjs) - vanilla javascript input mask
 - [ChronicStone/typed-xlsx](https://github.com/ChronicStone/typed-xlsx) - A simple yet powerful library to effortlessly export any data into XLSX sheets, with the full power of type-safety and awesome DX
 - [ProNextJS/declarative-routing](https://github.com/ProNextJS/declarative-routing) - NextJS Typesafe Routing System
@@ -1120,7 +1122,7 @@
 - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
 - [babel/babel-polyfills](https://github.com/babel/babel-polyfills) - A set of Babel plugins that enable injecting different polyfills with different strategies in your compiled code.
 - [kaimallea/isMobile](https://github.com/kaimallea/isMobile) - A simple JS library that detects mobile devices.
-- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [jamiebuilds/unstated-next](https://github.com/jamiebuilds/unstated-next) - 200 bytes to never think about React state management libraries ever again
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
