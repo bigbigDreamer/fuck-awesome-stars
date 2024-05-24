@@ -219,8 +219,8 @@
 - [fomenyesu/wechatVideoExample](https://github.com/fomenyesu/wechatVideoExample) - 微信播放视频的测试源码： 由于微信使用X5浏览器，在使用video标签播放视频的时候出现各种奇葩问题。本源码是在解决这个问题的过程中所做的尝试性源码。 里面囊括了各种测试用例： 使用canvas播放视频， 使用图片播放视频， 使用x5标签等。 这个可用留存的源码库，有兴趣的同学可以自己下载。
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
-- [devilwjp/veaury](https://github.com/devilwjp/veaury) - Use React in Vue3 and Vue3 in React, And as perfect as possible!
-- [devilwjp/vuereact-combined](https://github.com/devilwjp/vuereact-combined) - Vue和React快捷集成的工具包，并且适合复杂的集成场景
+- [gloriasoft/veaury](https://github.com/gloriasoft/veaury) - Use React in Vue3 and Vue3 in React, And as perfect as possible!
+- [gloriasoft/vuereact-combined](https://github.com/gloriasoft/vuereact-combined) - Vue和React快捷集成的工具包，并且适合复杂的集成场景
 - [eKoopmans/html2pdf.js](https://github.com/eKoopmans/html2pdf.js) - Client-side HTML-to-PDF rendering using pure JS.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT
