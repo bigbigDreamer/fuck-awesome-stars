@@ -1171,7 +1171,7 @@
 - [unjs/magic-regexp](https://github.com/unjs/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative
 - [tinymce/tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
 - [privatenumber/ts-runtime-comparison](https://github.com/privatenumber/ts-runtime-comparison) - Comparison of Node.js TypeScript runtimes
-- [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute: Node.js enhanced to run TypeScript & ESM
+- [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [TypeStrong/fork-ts-checker-webpack-plugin](https://github.com/TypeStrong/fork-ts-checker-webpack-plugin) - Webpack plugin that runs typescript type checker on a separate process.
 - [serversideup/webext-bridge](https://github.com/serversideup/webext-bridge) - 💬 Messaging in Web Extensions made easy. Batteries included.
 - [mgcrea/node-xlsx](https://github.com/mgcrea/node-xlsx) - NodeJS excel file parser & builder
