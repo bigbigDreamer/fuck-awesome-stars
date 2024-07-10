@@ -2045,7 +2045,6 @@
 - [mysqljs/mysql](https://github.com/mysqljs/mysql) - A pure node.js JavaScript Client implementing the MySQL protocol.
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-- [nexmo-community/nexmo-verify-nuxt](https://github.com/nexmo-community/nexmo-verify-nuxt) - A basic Nuxt/SSR application that allows users to login using SMS and phone verification
 - [liuxing/node-blog](https://github.com/liuxing/node-blog) - :rocket:《Node.js从入门到上线》A blog build with Koa2.
 - [nodejs/readable-stream](https://github.com/nodejs/readable-stream) - Node-core streams for userland
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
