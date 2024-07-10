@@ -647,7 +647,6 @@
 - [visionmedia/page.js](https://github.com/visionmedia/page.js) - Micro client-side router inspired by the Express router
 - [rtfeldman/seamless-immutable](https://github.com/rtfeldman/seamless-immutable) - Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
-- [nexmo-community/nexmo-verify-nuxt](https://github.com/nexmo-community/nexmo-verify-nuxt) - A basic Nuxt/SSR application that allows users to login using SMS and phone verification
 - [Yoshino-UI/yoshion-docs](https://github.com/Yoshino-UI/yoshion-docs) - 一个用yoshino组件构建的组件库文档
 - [ruanyf/es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
 - [ShanaMaid/vue-163-music](https://github.com/ShanaMaid/vue-163-music) - 【停止维护】网易云音乐web版，支持PC端常用功能，localStorage保存播放列表
