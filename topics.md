@@ -2104,6 +2104,7 @@
 
 ## others 
 
+- [jotaijs/jotai-scope](https://github.com/jotaijs/jotai-scope) - 
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
 - [RSSNext/follow](https://github.com/RSSNext/follow) - [WIP] Next generation information browser
 - [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals) - Essential metrics for a healthy site.
@@ -2215,6 +2216,7 @@
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [sanyuan0704/vite-plugin-chunk-split](https://github.com/sanyuan0704/vite-plugin-chunk-split) - A vite plugin for better chunk splitting. 一个简单易用的 Vite 拆包插件
 - [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript
+- [myNameIsDu/translator](https://github.com/myNameIsDu/translator) - 一个简单方便的国际化方案
 - [SVG-Edit/svg-edit-react](https://github.com/SVG-Edit/svg-edit-react) - React based editor based on SVG-edit svgcanvas
 - [samonxian/vite-plugin-build](https://github.com/samonxian/vite-plugin-build) - Vite library mode plugin，which support transfom the whole folder and emit dceclaration files. Vite 库模式插件，支持整个文件夹的转换和声明文件生成。(支持 vanilla、react、vue3 和 svelte)
 - [YunYouJun/valaxy](https://github.com/YunYouJun/valaxy) - 🌌 Next Generation Static Blog Framework (Beta) 下一代静态博客框架（支持页面/配置热重载）
