@@ -2226,7 +2226,7 @@
 - [myNameIsDu/react-launcher](https://github.com/myNameIsDu/react-launcher) - Lightweight, scalable launcher based on React-Router
 - [prettier/tslint-config-prettier](https://github.com/prettier/tslint-config-prettier) - Use TSLint with Prettier without any conflict
 - [pzavolinsky/ts-unused-exports](https://github.com/pzavolinsky/ts-unused-exports) - ts-unused-exports finds unused exported symbols in your Typescript project
-- [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 An unified javascript build system
+- [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 A unified JavaScript build system
 - [sindresorhus/p-progress](https://github.com/sindresorhus/p-progress) - Create a promise that reports progress
 - [skt-t1-byungi/rsup-progress](https://github.com/skt-t1-byungi/rsup-progress) - ❤️ A lightweight (1KB) progress bar with promise support
 - [poppinss/file-generator](https://github.com/poppinss/file-generator) - Generate fake in-memory files for varying sizes
