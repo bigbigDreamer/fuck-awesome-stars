@@ -94,6 +94,7 @@
 - [hackathon](#hackathon)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
+- [html-css-javascript](#html-css-javascript)
 - [html5](#html5)
 - [http](#http)
 - [image-processing](#image-processing)
@@ -1209,6 +1210,10 @@
 - [littlematch0123/FE-booklet](https://github.com/littlematch0123/FE-booklet) - 文章中包括DEMO演示的前端小册
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [hyy1115/Front-end-course](https://github.com/hyy1115/Front-end-course) - 前端知识学习汇总
+
+## html-css-javascript 
+
+- [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - ✨✨✨ Challenge your JavaScript programming limits step by step
 
 ## html5 
 
@@ -2819,7 +2824,6 @@
 - [expo/use-unmount-signal](https://github.com/expo/use-unmount-signal) - A React Hook to cancel promises when a component is unmounted
 - [gregberge/loadable-components](https://github.com/gregberge/loadable-components) - The recommended Code Splitting library for React ✂️✨
 - [lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview) - 🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器
-- [zcued/react-dragline](https://github.com/zcued/react-dragline) - :panda_face:Guide lines and magnetic adsorption to better align draggable elements in React.
 - [7kms/react-illustration-series](https://github.com/7kms/react-illustration-series) - 图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.
 - [egoist/poi](https://github.com/egoist/poi) - ⚡A zero-config bundler for JavaScript applications.
 - [remaxjs/remax](https://github.com/remaxjs/remax) - 使用真正的 React 构建跨平台小程序
