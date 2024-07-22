@@ -750,6 +750,7 @@
 
 ## docker 
 
+- [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -1284,6 +1285,7 @@
 
 ## javascript 
 
+- [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
 - [nlkitai/nlux](https://github.com/nlkitai/nlux) - The 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹 Conversational AI JavaScript Library 💬 — UI for any LLM, supporting LangChain / HuggingFace / Vercel AI, and more 🧡 React, Next.js, and plain JavaScript ⭐️
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
@@ -2692,6 +2694,7 @@
 
 ## react 
 
+- [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
 - [pdfslick/pdfslick](https://github.com/pdfslick/pdfslick) - View and Interact with PDFs in React, SolidJS, Svelte and JavaScript apps
 - [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.1KB routing for React and Preact
 - [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.
@@ -2916,6 +2919,7 @@
 
 ## redux 
 
+- [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
 - [open-source-labs/ReacType](https://github.com/open-source-labs/ReacType) - Prototyping Tool for exporting React/Typescript Applications!
 - [unadlib/mutative](https://github.com/unadlib/mutative) - Efficient immutable updates, 2-6x faster than naive handcrafted reducer, and more than 10x faster than Immer.
 - [zalmoxisus/redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension) - Redux DevTools extension.
