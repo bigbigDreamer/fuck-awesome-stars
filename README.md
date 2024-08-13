@@ -268,7 +268,6 @@
 - [bestony/ChatGPT-Feishu](https://github.com/bestony/ChatGPT-Feishu) - 给飞书准备的 ChatGPT 机器人
 - [table-library/react-table-library](https://github.com/table-library/react-table-library) - :bento: React Table Library
 - [jantimon/css-variable](https://github.com/jantimon/css-variable) - Define CSSVariables in JS
-- [SocketDev/socket-cli-js](https://github.com/SocketDev/socket-cli-js) - The Socket CLI tool
 - [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to s
 - [SaekiRaku/vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart) - 一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.
 - [wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖一个基于 WeChaty 结合 OpenAi ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...
@@ -1057,6 +1056,7 @@
 - [hepengwei/visualization-collection](https://github.com/hepengwei/visualization-collection) - 🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例（持续更新）
 - [qmhc/vite-plugin-dts](https://github.com/qmhc/vite-plugin-dts) - A Vite plugin for generating `.d.ts` files.
 - [dorbus/flexboard](https://github.com/dorbus/flexboard) - React component library for re-sizable sidebars
+- [SocketDev/socket-cli-js](https://github.com/SocketDev/socket-cli-js) - The Socket CLI tool
 - [gajus/turbowatch](https://github.com/gajus/turbowatch) - Extremely fast file change detector and task orchestrator for Node.js.
 - [unjs/jiti](https://github.com/unjs/jiti) - Runtime Typescript and ESM support for Node.js
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
