@@ -1282,7 +1282,7 @@
 - [web-infra-dev/garfish](https://github.com/web-infra-dev/garfish) - A powerful micro front-end framework 🚚
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
-- [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) - A tiny (~400 B) & modern library for keybindings.
+- [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) - A tiny (~650 B) & modern library for keybindings.
 - [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 - [wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor) - wangEditor —— 开源 Web 富文本编辑器
 - [ColinEberhardt/chasm](https://github.com/ColinEberhardt/chasm) - A simple compile-to-WebAssembly language
