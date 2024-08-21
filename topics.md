@@ -2420,7 +2420,7 @@
 - [benjycui/bisheng](https://github.com/benjycui/bisheng) - Transform Markdown(and other static files with transformers) into a SPA website using React.
 - [worldzhao/blog](https://github.com/worldzhao/blog) - 个人博客，内容在 issue 里。
 - [aktivjs/aktiv](https://github.com/aktivjs/aktiv) - 
-- [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) - A tiny (~400 B) & modern library for keybindings.
+- [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) - A tiny (~650 B) & modern library for keybindings.
 - [jamiebuilds/itsy-bitsy-data-structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures) - :european_castle: All the things you didn't know you wanted to know about data structures
 - [snabbdom/snabbdom-to-html](https://github.com/snabbdom/snabbdom-to-html) - Render Snabbdom Vnode’s to HTML strings
 - [facebookarchive/draft-js](https://github.com/facebookarchive/draft-js) - A React framework for building text editors.
