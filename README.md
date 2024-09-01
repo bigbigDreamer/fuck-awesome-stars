@@ -1002,7 +1002,7 @@
 - [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro.
 - [dai-shi/waku](https://github.com/dai-shi/waku) - ⛩️ The minimal React framework
 - [sindresorhus/memoize](https://github.com/sindresorhus/memoize) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / DeepSeek),Knowledge Base(file upload / kno
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
 - [Faire/mjml-react](https://github.com/Faire/mjml-react) - React component library to generate the HTML emails on the fly
 - [Swatinem/rollup-plugin-dts](https://github.com/Swatinem/rollup-plugin-dts) - A rollup plugin to generate .d.ts rollup files for your typescript project
 - [openchatai/copilot](https://github.com/openchatai/copilot) - 🤖 🔥 Language-to-actions engine
@@ -1071,7 +1071,7 @@
 - [bytemate/chatapi-single](https://github.com/bytemate/chatapi-single) - Simple and powerful ChatGPT-API-Server
 - [img-mapper/react-img-mapper](https://github.com/img-mapper/react-img-mapper) - React Component to highlight interactive zones in images
 - [module-federation/core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
-- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
+- [sst/sst](https://github.com/sst/sst) - SST v2
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [KuangPF/dumi-theme-antd](https://github.com/KuangPF/dumi-theme-antd) - A antd site theme package for the dumi framework.
 - [InhiblabCore/vue-hooks-plus](https://github.com/InhiblabCore/vue-hooks-plus) - High performance  & Simplicity  🧲  Vue 3 Hooks library
