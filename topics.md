@@ -1422,7 +1422,7 @@
 - [pshihn/workly](https://github.com/pshihn/workly) - A really simple way to move a function or class to a web worker. 🏋️‍♀️→ 😄
 - [sudongyuer/javascript-mental-models](https://github.com/sudongyuer/javascript-mental-models) - 💘 帮助你建立良好的JavaScript心智模型
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
-- [liaoliaots/nestjs-redis](https://github.com/liaoliaots/nestjs-redis) - Redis(ioredis) module for Nest framework (node.js).
+- [liaoliaots/nestjs-redis](https://github.com/liaoliaots/nestjs-redis) - Redis module for Nest framework (node.js). Support node-redis & ioredis.
 - [web3/web3.js](https://github.com/web3/web3.js) - Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions.
 - [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
@@ -1531,7 +1531,7 @@
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [kujian/frontendDaily](https://github.com/kujian/frontendDaily) - 前端开发博客，分享互联网最精彩的前端技术，欢迎关注我微信公众号：前端开发博客，回复 1024，领取前端进阶资料包，回复 加群，与大神一起交流学习。
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. BSL licensed.
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library
 - [SilurianYang/uni-app-tools](https://github.com/SilurianYang/uni-app-tools) - this is some uni-app toolset, more routing extensions
 - [yisainan/web-interview](https://github.com/yisainan/web-interview) - 我是齐丶先丶森，收集整理全网面试题及面试技巧，旨在帮助前端工程师们找到一份好工作！更多详见公众号「前端面试秘籍」
 - [xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - TypeScript 入门教程
@@ -1883,7 +1883,7 @@
 ## nestjs 
 
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
-- [liaoliaots/nestjs-redis](https://github.com/liaoliaots/nestjs-redis) - Redis(ioredis) module for Nest framework (node.js).
+- [liaoliaots/nestjs-redis](https://github.com/liaoliaots/nestjs-redis) - Redis module for Nest framework (node.js). Support node-redis & ioredis.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [monstar-lab-oss/nestjs-starter-rest-api](https://github.com/monstar-lab-oss/nestjs-starter-rest-api) - NestJS Starter Kit. Monolithic Backend. REST API.
 - [CatsMiaow/nestjs-project-structure](https://github.com/CatsMiaow/nestjs-project-structure) - Node.js framework NestJS project structure
@@ -1950,7 +1950,7 @@
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [antfu/esno](https://github.com/antfu/esno) - Alias to `tsx`
-- [liaoliaots/nestjs-redis](https://github.com/liaoliaots/nestjs-redis) - Redis(ioredis) module for Nest framework (node.js).
+- [liaoliaots/nestjs-redis](https://github.com/liaoliaots/nestjs-redis) - Redis module for Nest framework (node.js). Support node-redis & ioredis.
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
 - [CatsMiaow/nestjs-project-structure](https://github.com/CatsMiaow/nestjs-project-structure) - Node.js framework NestJS project structure
@@ -2010,7 +2010,7 @@
 - [feross/queue-microtask](https://github.com/feross/queue-microtask) - fast, tiny `queueMicrotask` shim for modern engines
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
-- [liaoliaots/nestjs-redis](https://github.com/liaoliaots/nestjs-redis) - Redis(ioredis) module for Nest framework (node.js).
+- [liaoliaots/nestjs-redis](https://github.com/liaoliaots/nestjs-redis) - Redis module for Nest framework (node.js). Support node-redis & ioredis.
 - [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
@@ -2141,6 +2141,7 @@
 
 ## others 
 
+- [maxwellito/vivus](https://github.com/maxwellito/vivus) - JavaScript library to make drawing animation on SVG
 - [thoughtbot/belt](https://github.com/thoughtbot/belt) - Belt is a CLI for starting a new React Native Expo app and will even keep your pants secure as you continue development.
 - [jotaijs/jotai-scope](https://github.com/jotaijs/jotai-scope) - 
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
@@ -2619,7 +2620,7 @@
 ## package-manager 
 
 - [dimensionhq/volt](https://github.com/dimensionhq/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
-- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install
+- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - run anything
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
@@ -3317,7 +3318,7 @@
 - [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes.
 - [scroll-into-view/scroll-into-view-if-needed](https://github.com/scroll-into-view/scroll-into-view-if-needed) - Element.scrollIntoView ponyfills for things like "if-needed" and "smooth"
 - [TypeStrong/ts-expect](https://github.com/TypeStrong/ts-expect) - Checks TypeScript types match expected values
-- [liaoliaots/nestjs-redis](https://github.com/liaoliaots/nestjs-redis) - Redis(ioredis) module for Nest framework (node.js).
+- [liaoliaots/nestjs-redis](https://github.com/liaoliaots/nestjs-redis) - Redis module for Nest framework (node.js). Support node-redis & ioredis.
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [web3/web3.js](https://github.com/web3/web3.js) - Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
