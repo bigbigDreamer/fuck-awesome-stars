@@ -1776,7 +1776,7 @@
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [lmk123/oh-my-wechat](https://github.com/lmk123/oh-my-wechat) - 微信小助手的安装 / 更新工具。
-- [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)
+- [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - A plugin for Mac WeChat
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
