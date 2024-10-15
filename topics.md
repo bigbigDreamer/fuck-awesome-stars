@@ -2175,6 +2175,7 @@
 
 ## others 
 
+- [w3c/IntersectionObserver](https://github.com/w3c/IntersectionObserver) - Intersection Observer
 - [nonzzz/vite-bundle-analyzer](https://github.com/nonzzz/vite-bundle-analyzer) - bundle analyzer for vite
 - [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code generator
 - [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
