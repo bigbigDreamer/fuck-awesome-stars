@@ -961,6 +961,7 @@
 
 ## TypeScript 
 
+- [lgarron/clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill) - :clipboard: Simple copying on the web, with maximum browser compatibility. (You probably don't need this anymore!)
 - [romac/react-if](https://github.com/romac/react-if) - 🌗 Render React components conditionally
 - [nonzzz/vite-bundle-analyzer](https://github.com/nonzzz/vite-bundle-analyzer) - bundle analyzer for vite
 - [gm0t/react-sticky-el](https://github.com/gm0t/react-sticky-el) - 
