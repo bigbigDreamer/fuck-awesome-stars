@@ -303,7 +303,6 @@
 - [asfktz/autodll-webpack-plugin](https://github.com/asfktz/autodll-webpack-plugin) - Webpack's DllPlugin without the boilerplate
 - [stormwarning/stylelint-config-recess-order](https://github.com/stormwarning/stylelint-config-recess-order) - 🗂️ Recess-based property sort order for Stylelint.
 - [mdbootstrap/perfect-scrollbar](https://github.com/mdbootstrap/perfect-scrollbar) - Minimalistic but perfect custom scrollbar plugin. Get more free components with Material Design for Bootstrap UI Kit (link below)
-- [ant-design/ant-design-charts](https://github.com/ant-design/ant-design-charts) - A React Chart Library
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [SVG-Edit/svg-edit-react](https://github.com/SVG-Edit/svg-edit-react) - React based editor based on SVG-edit svgcanvas
@@ -312,7 +311,7 @@
 - [metcalfc/changelog-generator](https://github.com/metcalfc/changelog-generator) - GitHub Action to generate changelogs, release notes, whatever
 - [Wildhoney/ReactShadow](https://github.com/Wildhoney/ReactShadow) - :beginner: Utilise Shadow DOM in React with all the benefits of style encapsulation.
 - [josdejong/mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - The Essential Web Development Tool for User-Agent Detection.
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js: "Get to Know Your Visitors Better" - The Essential Web Development Tool for User-Agent Detection
 - [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - ✨✨✨ Challenge your JavaScript programming limits step by step
 - [VladimirMikulic/route-list](https://github.com/VladimirMikulic/route-list) - Beautifully shows Express/Koa/Hapi/Fastify routes in CLI.
 - [sindresorhus/electron-context-menu](https://github.com/sindresorhus/electron-context-menu) - Context menu for your Electron app
@@ -553,7 +552,7 @@
 - [luoxue-victor/workflow](https://github.com/luoxue-victor/workflow) - 一个工作流平台
 - [sl1673495/blogs](https://github.com/sl1673495/blogs) - :book: 全网 100w+ 阅读量的进阶前端技术博客仓库，Vue 源码解析，React 深度实践，TypeScript 进阶艺术，工程化，性能优化实践……
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [lukeed/uvu](https://github.com/lukeed/uvu) - uvu is an extremely fast and lightweight test runner for Node.js and the browser
 - [BetaSu/just-react](https://github.com/BetaSu/just-react) - 「React技术揭秘」  一本自顶向下的React源码分析书
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
@@ -1101,6 +1100,7 @@
 - [vuejs/pinia](https://github.com/vuejs/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic backup and other advanced features in Obsidian.md
 - [7PH/powerglitch](https://github.com/7PH/powerglitch) - Tiny JS library to glitch anything on the web
+- [ant-design/ant-design-charts](https://github.com/ant-design/ant-design-charts) - A React Chart Library
 - [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - sync .env files—from the creator of `dotenv`.
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
