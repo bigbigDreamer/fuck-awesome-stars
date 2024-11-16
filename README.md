@@ -974,7 +974,7 @@
 - [dahlia/logtape](https://github.com/dahlia/logtape) - Simple logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions
 - [jotaijs/jotai-scope](https://github.com/jotaijs/jotai-scope) - 
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
-- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow your favorites in one inbox
 - [pdfslick/pdfslick](https://github.com/pdfslick/pdfslick) - View and Interact with PDFs in React, SolidJS, Svelte and JavaScript apps
 - [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.1KB routing for React and Preact
 - [tuax/tua-body-scroll-lock](https://github.com/tuax/tua-body-scroll-lock) - 🔐 Body scroll locking that just works with everything
@@ -1333,7 +1333,7 @@
 - [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
 - [microsoft/vscode-languageserver-node](https://github.com/microsoft/vscode-languageserver-node) - Language server protocol implementation for VSCode. This allows implementing language services in JS/TS running on node.js
 - [umijs/hox](https://github.com/umijs/hox) - State sharing for React components.
-- [motiondivision/motion](https://github.com/motiondivision/motion) - Open source, production-ready animation and gesture library for React
+- [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [unjs/webpackbar](https://github.com/unjs/webpackbar) - Elegant ProgressBar and Profiler for Webpack 3 , 4 and 5
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.
@@ -1350,7 +1350,7 @@
 - [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [BetaSu/big-react](https://github.com/BetaSu/big-react) - 跟着我，从0实现React18
-- [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
+- [QwikDev/partytown](https://github.com/QwikDev/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers. For the latest version, see https://github.com/cloudflare/workers-sdk/tree/main/packages/miniflare.
 - [notadd/notadd](https://github.com/notadd/notadd) - A microservice development architecture based on nest.js. —— 基于 Nest.js 的微服务开发架构。
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
