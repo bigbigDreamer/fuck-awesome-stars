@@ -781,7 +781,7 @@
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution. You can run any Docker image on sealos, start high availability databases like mysql/pgsql/redis/mongo, develop applications using any Programming
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution. You can create any programming language and any framework development Env, create high availability databases like mysql/pgsql/redis/mongo, and ru
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 
 ## documentation 
@@ -1080,7 +1080,7 @@
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [zu1k/nali](https://github.com/zu1k/nali) - An offline tool for querying IP geographic information and CDN provider. 一个查询IP地理信息和CDN服务提供商的离线终端工具.
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution. You can run any Docker image on sealos, start high availability databases like mysql/pgsql/redis/mongo, develop applications using any Programming
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution. You can create any programming language and any framework development Env, create high availability databases like mysql/pgsql/redis/mongo, and ru
 - [go-pay/gopay](https://github.com/go-pay/gopay) - 微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】
 
 ## good-first-issue 
@@ -1111,7 +1111,6 @@
 - [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [sodiray/radash](https://github.com/sodiray/radash) - Functional utility library - modern, simple, typed, powerful
-- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [tinylibs/tinybench](https://github.com/tinylibs/tinybench) - 🔎 A simple, tiny and lightweight benchmarking library!
 - [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀💨 A fast Rspack-based static site generator.
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
@@ -1639,7 +1638,7 @@
 - [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution. You can run any Docker image on sealos, start high availability databases like mysql/pgsql/redis/mongo, develop applications using any Programming
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution. You can create any programming language and any framework development Env, create high availability databases like mysql/pgsql/redis/mongo, and ru
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 
@@ -2197,6 +2196,7 @@
 - [dream-num/univer](https://github.com/dream-num/univer) - Univer is an Isomorphic Full-Stack Framework for Creating and Editing Spreadsheets, Docs, and Slides Across Web and Server
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary microblogging platform 🚀
 - [domchristie/humps](https://github.com/domchristie/humps) - 🐫 Underscore-to-camelCase converter (and vice versa) for strings and object keys in JavaScript.
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [keep-starknet-strange/awesome-starknet](https://github.com/keep-starknet-strange/awesome-starknet) - A curated list of awesome StarkNet resources, libraries, tools and more
 - [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
