@@ -33,6 +33,7 @@
 - [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [clash](#clash)
 - [cli](#cli)
 - [code](#code)
 - [code-quality](#code-quality)
@@ -495,6 +496,12 @@
 - [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub
 - [unbug/codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
 
+## clash 
+
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
+- [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
+- [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
+
 ## cli 
 
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
@@ -758,7 +765,6 @@
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question) - 互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中
 - [phodal/ledge](https://github.com/phodal/ledge) - Ledge —— DevOps knowledge learning platform. DevOps、研发效能知识和工具平台，是我们基于在 ThoughtWorks 进行的一系列 DevOps 实践、敏捷实践、软件开发与测试、精益实践提炼出来的知识体系。它包含了各种最佳实践、操作手册、原则与模式、度量、工具，用于帮助您的企业在数字化时代更好地前进，还有 DevOps 转型。
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevSecOps. World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams.
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 
 ## discord 
@@ -782,7 +788,7 @@
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution. You can create any programming language and any framework development Env, create high availability databases like mysql/pgsql/redis/mongo, and ru
-- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 
 ## documentation 
 
@@ -1010,6 +1016,7 @@
 - [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git 
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+- [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
@@ -1520,7 +1527,7 @@
 - [lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview) - 🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [nestjs/typeorm](https://github.com/nestjs/typeorm) - TypeORM module for Nest framework (node.js)  🍇
-- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [jonschlinkert/kind-of](https://github.com/jonschlinkert/kind-of) - Get the native JavaScript type of a value, fast. Used by superstruct, micromatch and many others!
 - [didi/Hummer](https://github.com/didi/Hummer) - 一套移动端高性能高可用的动态化跨端开发框架
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
@@ -1639,7 +1646,7 @@
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution. You can create any programming language and any framework development Env, create high availability databases like mysql/pgsql/redis/mongo, and ru
-- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 
 ## language 
@@ -2064,7 +2071,7 @@
 - [chyingp/nodejs-learning-guide](https://github.com/chyingp/nodejs-learning-guide) - Nodejs学习笔记以及经验总结，公众号"程序猿小卡"
 - [nestjs/docs.nestjs.com](https://github.com/nestjs/docs.nestjs.com) - The official documentation https://docs.nestjs.com 📕
 - [nestjs/typeorm](https://github.com/nestjs/typeorm) - TypeORM module for Nest framework (node.js)  🍇
-- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [jonschlinkert/kind-of](https://github.com/jonschlinkert/kind-of) - Get the native JavaScript type of a value, fast. Used by superstruct, micromatch and many others!
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
 - [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
@@ -2117,7 +2124,7 @@
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [Pana/nrm](https://github.com/Pana/nrm) - NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao
-- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [YunYouJun/nnrm](https://github.com/YunYouJun/nnrm) - 🔧 New nrm (NPM registry manager). Use smaller dependencies.
 - [wclr/yalc](https://github.com/wclr/yalc) - Work with yarn/npm packages locally like a boss.
 - [shirotech/webpack-cdn-plugin](https://github.com/shirotech/webpack-cdn-plugin) - A webpack plugin that use externals of CDN urls for production and local node_modules for development
@@ -2193,7 +2200,7 @@
 - [ProNextJS/declarative-routing](https://github.com/ProNextJS/declarative-routing) - NextJS Typesafe Routing System
 - [robertkrimen/otto](https://github.com/robertkrimen/otto) - A JavaScript interpreter in Go (golang)
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
-- [dream-num/univer](https://github.com/dream-num/univer) - Univer is an Isomorphic Full-Stack Framework for Creating and Editing Spreadsheets, Docs, and Slides Across Web and Server
+- [dream-num/univer](https://github.com/dream-num/univer) - Univer is an isomorphic full-stack framework for creating and editing spreadsheets, docs, and slides across client and server.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary microblogging platform 🚀
 - [domchristie/humps](https://github.com/domchristie/humps) - 🐫 Underscore-to-camelCase converter (and vice versa) for strings and object keys in JavaScript.
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
@@ -2214,10 +2221,8 @@
 - [fomenyesu/wechatVideoExample](https://github.com/fomenyesu/wechatVideoExample) - 微信播放视频的测试源码： 由于微信使用X5浏览器，在使用video标签播放视频的时候出现各种奇葩问题。本源码是在解决这个问题的过程中所做的尝试性源码。 里面囊括了各种测试用例： 使用canvas播放视频， 使用图片播放视频， 使用x5标签等。 这个可用留存的源码库，有兴趣的同学可以自己下载。
 - [me-shaon/GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
-- [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 - [gloriasoft/vuereact-combined](https://github.com/gloriasoft/vuereact-combined) - Vue和React快捷集成的工具包，并且适合复杂的集成场景
-- [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT
 - [developit/mitt](https://github.com/developit/mitt) - 🥊 Tiny 200 byte functional event emitter / pubsub.
@@ -2285,7 +2290,6 @@
 - [KDE/kdeconnect-kde](https://github.com/KDE/kdeconnect-kde) - Multi-platform app that allows your devices to communicate
 - [asfktz/autodll-webpack-plugin](https://github.com/asfktz/autodll-webpack-plugin) - Webpack's DllPlugin without the boilerplate
 - [TachibanaYoshino/AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) - [Open Source].  The improved version of AnimeGAN. Landscape photos/videos to anime
-- [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic backup and other advanced features in Obsidian.md
 - [ant-design/ant-design-charts](https://github.com/ant-design/ant-design-charts) - A React Chart Library
 - [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - sync .env files—from the creator of `dotenv`.
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
@@ -2754,6 +2758,7 @@
 
 ## react 
 
+- [pmmmwh/react-refresh-webpack-plugin](https://github.com/pmmmwh/react-refresh-webpack-plugin) - A Webpack plugin to enable "Fast Refresh" (also previously known as Hot Reloading) for React components.
 - [romac/react-if](https://github.com/romac/react-if) - 🌗 Render React components conditionally
 - [gm0t/react-sticky-el](https://github.com/gm0t/react-sticky-el) - 
 - [ndresx/react-countdown](https://github.com/ndresx/react-countdown) - A customizable countdown component for React.
@@ -2784,7 +2789,6 @@
 - [vercel/styled-jsx](https://github.com/vercel/styled-jsx) - Full CSS support for JSX without compromises
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
-- [requestly/requestly](https://github.com/requestly/requestly) - Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly i
 - [vercel/next-react-server-components](https://github.com/vercel/next-react-server-components) - Demo repository for Next.js + React Server Components
 - [hepengwei/visualization-collection](https://github.com/hepengwei/visualization-collection) - 🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例（持续更新）
 - [qmhc/vite-plugin-dts](https://github.com/qmhc/vite-plugin-dts) - A Vite plugin for generating `.d.ts` files.
@@ -3141,7 +3145,6 @@
 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [uiwjs/province-city-china](https://github.com/uiwjs/province-city-china) - 🇨🇳最全最新中国【省、市、区县、乡镇街道】json,csv,sql数据
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevSecOps. World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams.
 - [nestjs/typeorm](https://github.com/nestjs/typeorm) - TypeORM module for Nest framework (node.js)  🍇
 
 ## sql-server 
@@ -3308,7 +3311,6 @@
 - [Hexagon/croner](https://github.com/Hexagon/croner) - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
 - [mrmckeb/typescript-plugin-css-modules](https://github.com/mrmckeb/typescript-plugin-css-modules) - A TypeScript language service plugin providing support for CSS Modules.
 - [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.
-- [requestly/requestly](https://github.com/requestly/requestly) - Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly i
 - [lvqq/aries](https://github.com/lvqq/aries) - 🚀 A openapi tool based on swagger document
 - [hepengwei/visualization-collection](https://github.com/hepengwei/visualization-collection) - 🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例（持续更新）
 - [qmhc/vite-plugin-dts](https://github.com/qmhc/vite-plugin-dts) - A Vite plugin for generating `.d.ts` files.
