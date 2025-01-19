@@ -975,7 +975,7 @@
 - [ndresx/react-countdown](https://github.com/ndresx/react-countdown) - A customizable countdown component for React.
 - [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code designer
 - [richardscarrott/react-snap-carousel](https://github.com/richardscarrott/react-snap-carousel) - DOM-first, headless carousel for React
-- [line/tsr](https://github.com/line/tsr) - TypeScript Remove (tsr) is a utility that removes unused code from TypeScript projects – It's like tree shaking, but for source files
+- [tsrorg/tsr](https://github.com/tsrorg/tsr) - TypeScript Remove (tsr) is a utility that removes unused code from TypeScript projects – It's like tree shaking, but for source files
 - [bloomberg/ts-blank-space](https://github.com/bloomberg/ts-blank-space) - A small, fast, pure JavaScript type-stripper that uses the official TypeScript parser.
 - [thoughtbot/belt](https://github.com/thoughtbot/belt) - Belt is a CLI for starting a new React Native Expo app and will even keep your pants secure as you continue development.
 - [dahlia/logtape](https://github.com/dahlia/logtape) - Simple logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions
@@ -988,7 +988,7 @@
 - [nlkitai/nlux](https://github.com/nlkitai/nlux) - The 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹 Conversational AI JavaScript Library 💬 — UI for any LLM, supporting LangChain / HuggingFace / Vercel AI, and more 🧡 React, Next.js, and plain JavaScript ⭐️
 - [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.
 - [vadimdemedes/pastel](https://github.com/vadimdemedes/pastel) - 🎨 Next.js-like framework for CLIs made with Ink
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [mofeiZ/bootleg-react-compiler](https://github.com/mofeiZ/bootleg-react-compiler) - Now that react compiler has been released, let's write an unofficial alternative version in 20 minutes.
 - [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and preserves the native functionality and feel.
@@ -1002,7 +1002,7 @@
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours in your apps
 - [sodiray/radash](https://github.com/sodiray/radash) - Functional utility library - modern, simple, typed, powerful
-- [dream-num/univer](https://github.com/dream-num/univer) - Univer is an isomorphic full-stack framework for creating and editing spreadsheets, docs, and slides across client and server.
+- [dream-num/univer](https://github.com/dream-num/univer) - Univer is a full-stack framework for creating and editing spreadsheets, documents, and slides on both web and server.
 - [larswaechter/voici.js](https://github.com/larswaechter/voici.js) - A Node.js library for pretty printing your data on the terminal🎨
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary microblogging platform 🚀
