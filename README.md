@@ -351,7 +351,6 @@
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
 - [module-federation/typescript](https://github.com/module-federation/typescript) - Typescript Types Support For Module Federation
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
-- [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 - [TrySound/rollup-plugin-size-snapshot](https://github.com/TrySound/rollup-plugin-size-snapshot) - Track your library bundles size and its treeshakability with less effort
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [nfl/react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React
@@ -975,7 +974,7 @@
 - [ndresx/react-countdown](https://github.com/ndresx/react-countdown) - A customizable countdown component for React.
 - [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code designer
 - [richardscarrott/react-snap-carousel](https://github.com/richardscarrott/react-snap-carousel) - DOM-first, headless carousel for React
-- [tsrorg/tsr](https://github.com/tsrorg/tsr) - TypeScript Remove (tsr) is a utility that removes unused code from TypeScript projects – It's like tree shaking, but for source files
+- [line/tsr](https://github.com/line/tsr) - TypeScript Remove (tsr) is a utility that removes unused code from TypeScript projects – It's like tree shaking, but for source files
 - [bloomberg/ts-blank-space](https://github.com/bloomberg/ts-blank-space) - A small, fast, pure JavaScript type-stripper that uses the official TypeScript parser.
 - [thoughtbot/belt](https://github.com/thoughtbot/belt) - Belt is a CLI for starting a new React Native Expo app and will even keep your pants secure as you continue development.
 - [dahlia/logtape](https://github.com/dahlia/logtape) - Simple logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions
@@ -1170,6 +1169,7 @@
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [LeetCode-OpenSource/rxjs-hooks](https://github.com/LeetCode-OpenSource/rxjs-hooks) - React hooks for RxJS
+- [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 - [gjbkz/rollup-plugin-embed-css](https://github.com/gjbkz/rollup-plugin-embed-css) - 
 - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
 - [babel/babel-polyfills](https://github.com/babel/babel-polyfills) - A set of Babel plugins that enable injecting different polyfills with different strategies in your compiled code.
