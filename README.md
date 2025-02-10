@@ -202,6 +202,8 @@
 
 ## JavaScript 
 
+- [jonschlinkert/get-value](https://github.com/jonschlinkert/get-value) - Use property paths (`a.b.c`) get a nested value from an object.
+- [sindresorhus/emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter
 - [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [pmmmwh/react-refresh-webpack-plugin](https://github.com/pmmmwh/react-refresh-webpack-plugin) - A Webpack plugin to enable "Fast Refresh" (also previously known as Hot Reloading) for React components.
 - [metalsmith/metalsmith](https://github.com/metalsmith/metalsmith) - An extremely simple, pluggable static site generator for Node.js
