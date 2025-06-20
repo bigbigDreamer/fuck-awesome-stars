@@ -189,7 +189,7 @@
 
 ## Handlebars 
 
-- [sunface/beat-ai](https://github.com/sunface/beat-ai) - 持续分享 AI 领域的高质量内容，帮你征服 AI，Just beat it! 欢迎 star 订阅.
+- [sunface/beat-ai](https://github.com/sunface/beat-ai) - 🚀 Beat AI 学习社区: 持续分享 AI 领域的高质量进阶知识，帮你征服 AI，Just beat it!  欢迎 star 订阅.
 - [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 
 ## Java 
