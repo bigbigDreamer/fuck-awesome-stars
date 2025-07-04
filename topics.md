@@ -238,7 +238,7 @@
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-- [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
+- [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Agentic is RapidAPI for LLM Tools. Your API ⇒ Paid MCP. Instantly.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [sunface/beat-ai](https://github.com/sunface/beat-ai) - 🚀 Beat AI 学习社区: 持续分享 AI 领域的高质量进阶知识，帮你征服 AI，Just beat it!  欢迎 star 订阅.
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
@@ -274,6 +274,7 @@
 
 ## android 
 
+- [AppAndFlow/react-native-safe-area-context](https://github.com/AppAndFlow/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
 - [x-falcon/Virtual-Hosts](https://github.com/x-falcon/Virtual-Hosts) - hosts for android,implement by vpn mode,supports wildcard DNS records
 - [tuax/tua-body-scroll-lock](https://github.com/tuax/tua-body-scroll-lock) - 🔐 Body scroll locking that just works with everything
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -313,13 +314,14 @@
 
 ## api 
 
+- [json-ld/json-ld.org](https://github.com/json-ld/json-ld.org) - JSON for Linked Data's documentation and playground site
 - [lgarron/clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill) - :clipboard: Simple copying on the web, with maximum browser compatibility. (You probably don't need this anymore!)
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [requestly/requestly](https://github.com/requestly/requestly) - Local-first Developer Tool to Build, Test, Intercept & Mock API Requests. Requestly is a combination of REST API Client and HTTP Interceptor. It is simple, beautiful and powerful alternative to Postma
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [ehmicky/cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide) - 📗 How to write cross-platform Node.js code
-- [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers (实用性开发人员安全须知)
+- [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers
 - [metowolf/Meting](https://github.com/metowolf/Meting) - :cake: Wow, such a powerful music API framework
 - [metowolf/MetingJS](https://github.com/metowolf/MetingJS) - :cake: A powerful plugin connect APlayer and Meting
 - [web3/web3.js](https://github.com/web3/web3.js) - Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions.
@@ -368,6 +370,7 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
 - [kujian/frontendDaily](https://github.com/kujian/frontendDaily) - 前端开发博客，分享互联网最精彩的前端技术，欢迎关注我微信公众号：前端开发博客，回复 1024，领取前端进阶资料包，回复 加群，与大神一起交流学习。
@@ -387,6 +390,7 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [kujian/frontendDaily](https://github.com/kujian/frontendDaily) - 前端开发博客，分享互联网最精彩的前端技术，欢迎关注我微信公众号：前端开发博客，回复 1024，领取前端进阶资料包，回复 加群，与大神一起交流学习。
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
@@ -422,7 +426,7 @@
 ## bash 
 
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -588,7 +592,7 @@
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
-- [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+- [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -638,6 +642,7 @@
 
 ## css 
 
+- [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
 - [danielroe/beasties](https://github.com/danielroe/beasties) - A library to inline your app's critical CSS and lazy-load the rest.
 - [addyosmani/critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
@@ -1099,6 +1104,7 @@
 
 ## go 
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 - [rogchap/v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go
@@ -1112,6 +1118,7 @@
 
 ## golang 
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
@@ -1149,6 +1156,7 @@
 
 ## hacktoberfest 
 
+- [DylanVann/react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) - 🚩 FastImage, performant React Native image component.
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
 - [ndresx/react-countdown](https://github.com/ndresx/react-countdown) - A customizable countdown component for React.
 - [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.1KB routing for React and Preact
@@ -1184,7 +1192,7 @@
 - [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
-- [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+- [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
@@ -1223,7 +1231,6 @@
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
-- [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -1321,6 +1328,7 @@
 
 ## ios 
 
+- [AppAndFlow/react-native-safe-area-context](https://github.com/AppAndFlow/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
 - [tuax/tua-body-scroll-lock](https://github.com/tuax/tua-body-scroll-lock) - 🔐 Body scroll locking that just works with everything
 - [ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll) - :scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -1590,7 +1598,7 @@
 - [cssmagic/blog](https://github.com/cssmagic/blog) - CSS魔法 - 博客
 - [Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
-- [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser with nesting support
+- [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser and serializer with nesting support
 - [yygmind/blog](https://github.com/yygmind/blog) - 我是木易杨，公众号「高级前端进阶」作者，跟着我每周重点攻克一个前端面试重难点。接下来让我带你走进高级前端的世界，在进阶的路上，共勉！
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 - [dcloudio/mui](https://github.com/dcloudio/mui) - 最接近原生APP体验的高性能框架
@@ -1654,6 +1662,7 @@
 
 ## json 
 
+- [json-ld/json-ld.org](https://github.com/json-ld/json-ld.org) - JSON for Linked Data's documentation and playground site
 - [CacheControl/json-rules-engine](https://github.com/CacheControl/json-rules-engine) - A rules engine expressed in JSON
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [benjamine/jsondiffpatch](https://github.com/benjamine/jsondiffpatch) - Diff & patch JavaScript objects
@@ -1717,7 +1726,7 @@
 - [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -1741,6 +1750,8 @@
 
 ## llm 
 
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择ChatGPT/Claude/DeepSeek/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
 - [nlkitai/nlux](https://github.com/nlkitai/nlux) - The 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹 Conversational AI JavaScript Library 💬 — UI for any LLM, supporting LangChain / HuggingFace / Vercel AI, and more 🧡 React, Next.js, and plain JavaScript ⭐️
 - [openchatai/copilot](https://github.com/openchatai/copilot) - 
@@ -1802,7 +1813,7 @@
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS & iOS file archiver
 - [kentcdodds/cross-env](https://github.com/kentcdodds/cross-env) - 🔀 Cross platform setting of environment scripts
@@ -1993,6 +2004,7 @@
 
 ## no-code 
 
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
@@ -2031,9 +2043,10 @@
 - [jonschlinkert/kind-of](https://github.com/jonschlinkert/kind-of) - Get the native JavaScript type of a value, fast. Used by superstruct, micromatch and many others!
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
+- [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
 - [shirotech/webpack-cdn-plugin](https://github.com/shirotech/webpack-cdn-plugin) - A webpack plugin that use externals of CDN urls for production and local node_modules for development
 - [haizlin/fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
-- [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser with nesting support
+- [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser and serializer with nesting support
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [nodejs/readable-stream](https://github.com/nodejs/readable-stream) - Node-core streams for userland
@@ -2137,7 +2150,7 @@
 - [shirotech/webpack-cdn-plugin](https://github.com/shirotech/webpack-cdn-plugin) - A webpack plugin that use externals of CDN urls for production and local node_modules for development
 - [haizlin/fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
-- [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser with nesting support
+- [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser and serializer with nesting support
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [mongodb/node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - The official MongoDB Node.js driver
@@ -2210,7 +2223,7 @@
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
-- [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
+- [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Agentic is RapidAPI for LLM Tools. Your API ⇒ Paid MCP. Instantly.
 - [wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖一个基于 WeChaty 结合 DeepSeek / ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...
 - [openai-translator/bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - 基于 OpenAI API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0
 - [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
@@ -2235,6 +2248,8 @@
 
 ## others 
 
+- [Sunhat/react-native-extra-dimensions-android](https://github.com/Sunhat/react-native-extra-dimensions-android) - Access additional display metrics on Android devices: status bar height, soft menu bar height, real screen size.
+- [jhurliman/node-rate-limiter](https://github.com/jhurliman/node-rate-limiter) - A generic rate limiter for node.js. Useful for API clients, web crawling, or other tasks that need to be throttled
 - [ConardLi/easy-learn-ai](https://github.com/ConardLi/easy-learn-ai) - Easy-to-understand AI learning resources for beginners.
 - [wechat-miniprogram/miniprogram-compat](https://github.com/wechat-miniprogram/miniprogram-compat) - 微信小程序 js 执行环境的兼容信息
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
@@ -2799,6 +2814,7 @@
 
 ## python 
 
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 - [fonttools/fonttools](https://github.com/fonttools/fonttools) - A library to manipulate font files from Python.
@@ -2839,6 +2855,7 @@
 
 ## react 
 
+- [AppAndFlow/react-native-safe-area-context](https://github.com/AppAndFlow/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [pmmmwh/react-refresh-webpack-plugin](https://github.com/pmmmwh/react-refresh-webpack-plugin) - A Webpack plugin to enable "Fast Refresh" (also previously known as Hot Reloading) for React components.
 - [romac/react-if](https://github.com/romac/react-if) - 🌗 Render React components conditionally
@@ -2912,7 +2929,7 @@
 - [nrwl/nx](https://github.com/nrwl/nx) - An AI-first build platform that connects everything from your editor to CI. Helping you deliver fast, without breaking things.
 - [neroneroffy/react-source-code-debug](https://github.com/neroneroffy/react-source-code-debug) - React 源码调试环境，源代码详细注释，跟随官方仓库进行更新
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2024)
-- [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+- [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 - [ant-design/sunflower](https://github.com/ant-design/sunflower) - 🦹 Process components for antd4 & antd3 by alipay industry technology
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
@@ -2966,7 +2983,7 @@
 - [atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 - [midwayjs/hooks](https://github.com/midwayjs/hooks) - "Zero" Api / Type Safe / Fullstack Kit / Powerful Backend
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
-- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
+- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - Modern Timeline Component for React
 - [mithi/react-philosophies](https://github.com/mithi/react-philosophies) - 🧘  Things I think about when I write React code 🧘
 - [KieSun/all-of-frontend](https://github.com/KieSun/all-of-frontend) - 你想知道的前端内容都在这
 - [BetaSu/big-react](https://github.com/BetaSu/big-react) - 跟着我，从0实现React18
@@ -3026,6 +3043,8 @@
 
 ## react-native 
 
+- [DylanVann/react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) - 🚩 FastImage, performant React Native image component.
+- [AppAndFlow/react-native-safe-area-context](https://github.com/AppAndFlow/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
@@ -3059,7 +3078,7 @@
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 - [umijs/hox](https://github.com/umijs/hox) - State sharing for React components.
-- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
+- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - Modern Timeline Component for React
 - [mithi/react-philosophies](https://github.com/mithi/react-philosophies) - 🧘  Things I think about when I write React code 🧘
 - [BetaSu/big-react](https://github.com/BetaSu/big-react) - 跟着我，从0实现React18
 - [remaxjs/remax](https://github.com/remaxjs/remax) - 使用真正的 React 构建跨平台小程序
@@ -3114,7 +3133,7 @@
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [fluencelabs/nox](https://github.com/fluencelabs/nox) - Rust implementation of the Fluence network peer
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [dimensionhq/volt](https://github.com/dimensionhq/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
@@ -3156,7 +3175,7 @@
 - [SocketDev/socket-cli](https://github.com/SocketDev/socket-cli) - The Socket CLI
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
 - [ehmicky/cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide) - 📗 How to write cross-platform Node.js code
-- [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers (实用性开发人员安全须知)
+- [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers
 - [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
@@ -3205,7 +3224,7 @@
 ## shell 
 
 - [larswaechter/voici.js](https://github.com/larswaechter/voici.js) - A Node.js library for pretty printing your data on the terminal🎨
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
@@ -3293,6 +3312,7 @@
 
 ## tailwind 
 
+- [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
 - [sonofmagic/weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) - weapp-tailwindcss - bring tailwindcss to weapp ! 把 tailwindcss 原子化思想带入小程序开发吧 !
 - [Tencent/omi](https://github.com/Tencent/omi) - Web Components Framework - Web组件框架
 
@@ -3323,7 +3343,7 @@
 
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [larswaechter/voici.js](https://github.com/larswaechter/voici.js) - A Node.js library for pretty printing your data on the terminal🎨
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
@@ -3510,7 +3530,7 @@
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [privatenumber/esbuild-loader](https://github.com/privatenumber/esbuild-loader) - 💠 Speed up your Webpack with esbuild ⚡️
-- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
+- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - Modern Timeline Component for React
 - [notadd/notadd](https://github.com/notadd/notadd) - A microservice development architecture based on nest.js. —— 基于 Nest.js 的微服务开发架构。
 - [egoist/rollup-plugin-esbuild](https://github.com/egoist/rollup-plugin-esbuild) - Use ESBuild with Rollup to transform ESNext and TypeScript code.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
@@ -3549,6 +3569,7 @@
 
 ## ui 
 
+- [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [OnedocLabs/react-print-pdf](https://github.com/OnedocLabs/react-print-pdf) - Build and generate PDF using React 📄 UI kit for PDFs and print documents. Simple, reusable components and templates to create great invoices, docs, brochures. Use your favorite front-end framework Rea
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
@@ -3671,6 +3692,8 @@
 
 ## web 
 
+- [AppAndFlow/react-native-safe-area-context](https://github.com/AppAndFlow/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
+- [json-ld/json-ld.org](https://github.com/json-ld/json-ld.org) - JSON for Linked Data's documentation and playground site
 - [lgarron/clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill) - :clipboard: Simple copying on the web, with maximum browser compatibility. (You probably don't need this anymore!)
 - [FrigadeHQ/remote-storage](https://github.com/FrigadeHQ/remote-storage) - remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across sessions, devices, and browsers. It works as a simple key value database store and back
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
