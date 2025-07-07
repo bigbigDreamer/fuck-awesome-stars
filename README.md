@@ -972,6 +972,9 @@
 
 ## TypeScript 
 
+- [ConardLi/mcp-client-nodejs](https://github.com/ConardLi/mcp-client-nodejs) - Node.js Client Implementation for Model Context Protocol (MCP)
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+- [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official Typescript SDK for Model Context Protocol servers and clients
 - [DylanVann/react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) - 🚩 FastImage, performant React Native image component.
 - [AppAndFlow/react-native-safe-area-context](https://github.com/AppAndFlow/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
 - [jhurliman/node-rate-limiter](https://github.com/jhurliman/node-rate-limiter) - A generic rate limiter for node.js. Useful for API clients, web crawling, or other tasks that need to be throttled
