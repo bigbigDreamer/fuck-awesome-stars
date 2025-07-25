@@ -976,6 +976,7 @@
 
 ## TypeScript 
 
+- [BetterTyped/hyper-fetch](https://github.com/BetterTyped/hyper-fetch) - ⚡ Fetching and realtime data exchange framework.
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
 - [ConardLi/easy-llm-client](https://github.com/ConardLi/easy-llm-client) - A unified client for various LLM providers.
 - [ConardLi/mcp-client-nodejs](https://github.com/ConardLi/mcp-client-nodejs) - Node.js Client Implementation for Model Context Protocol (MCP)
