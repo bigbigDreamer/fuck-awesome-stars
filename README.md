@@ -280,7 +280,6 @@
 - [lukeed/mri](https://github.com/lukeed/mri) - Quickly scan for CLI flags and arguments
 - [dutiyesh/chrome-extension-cli](https://github.com/dutiyesh/chrome-extension-cli) - 🚀 The CLI for your next Chrome Extension
 - [adamwdraper/Numeral-js](https://github.com/adamwdraper/Numeral-js) - A javascript library for formatting and manipulating numbers.
-- [kentcdodds/cross-env](https://github.com/kentcdodds/cross-env) - 🔀 Cross platform setting of environment scripts
 - [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
 - [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
 - [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.
@@ -304,7 +303,7 @@
 - [isaacs/minimatch](https://github.com/isaacs/minimatch) - a glob matcher in javascript
 - [terwanerik/ScrollTrigger](https://github.com/terwanerik/ScrollTrigger) - Let your page react to scroll changes.
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
-- [Rich-Harris/devalue](https://github.com/Rich-Harris/devalue) - Gets the job done when JSON.stringify can't
+- [sveltejs/devalue](https://github.com/sveltejs/devalue) - Gets the job done when JSON.stringify can't
 - [neutrinojs/webpack-chain](https://github.com/neutrinojs/webpack-chain) - A chaining API to generate and simplify the modification of Webpack configurations.
 - [mfranzke/loading-attribute-polyfill](https://github.com/mfranzke/loading-attribute-polyfill) - Fast and lightweight dependency-free vanilla JavaScript polyfill for native lazy loading / the awesome loading='lazy'-attribute.
 - [patorjk/figlet.js](https://github.com/patorjk/figlet.js) - A FIG Driver written in JavaScript which aims to fully implement the FIGfont spec.
@@ -787,7 +786,7 @@
 - [whatot/leeao](https://github.com/whatot/leeao) - 大李敖全集 wjm_tcy mdbook repo
 - [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
 - [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
-- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
+- [zee-shan-ahmad/learn-regex](https://github.com/zee-shan-ahmad/learn-regex) - Learn regex the easy way
 - [i5ting/learn-ts-with-10-opensource-project](https://github.com/i5ting/learn-ts-with-10-opensource-project) - 
 - [ConardLi/awesome-coding-js](https://github.com/ConardLi/awesome-coding-js) - Algorithms and data structures implemented in JavaScript, with detailed explanations and tutorials
 - [brickspert/blog](https://github.com/brickspert/blog) - 个人技术博客，博文写在 Issues 里。
@@ -1098,6 +1097,7 @@
 - [ds300/lazyrepo](https://github.com/ds300/lazyrepo) - Caching task runner for npm/pnpm/yarn monorepos.
 - [mrmckeb/typescript-plugin-css-modules](https://github.com/mrmckeb/typescript-plugin-css-modules) - A TypeScript language service plugin providing support for CSS Modules.
 - [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
+- [kentcdodds/cross-env](https://github.com/kentcdodds/cross-env) - 🔀 Cross platform setting of environment scripts
 - [code-hike/bright](https://github.com/code-hike/bright) - React Server Component for syntax highlighting
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [requestly/requestly](https://github.com/requestly/requestly) - Local-first Developer Tool to Build, Test, Intercept & Mock API Requests. Requestly is a combination of REST API Client and HTTP Interceptor. It is simple, beautiful and powerful alternative to Postma
