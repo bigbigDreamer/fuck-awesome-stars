@@ -2846,7 +2846,7 @@
 
 ## productivity 
 
-- [dream-num/univer](https://github.com/dream-num/univer) - Build truly AI-native spreadsheets. Univer is a full-stack framework for creating and editing spreadsheets, documents, and slides on both web and server. With Univer MCP, Univer Sheet is driven direct
+- [dream-num/univer](https://github.com/dream-num/univer) - Build AI-native spreadsheets. Univer is a full-stack framework for creating and editing spreadsheets on both web and server. With Univer MCP, Univer Spreadsheets is driven directly through natural lan
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
