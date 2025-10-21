@@ -2439,7 +2439,7 @@
 - [bigbigDreamer/xumi](https://github.com/bigbigDreamer/xumi) - Base on bun runtime‘s cli
 - [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [bytemate/chatapi-single](https://github.com/bytemate/chatapi-single) - Simple and powerful ChatGPT-API-Server
-- [img-mapper/react-img-mapper](https://github.com/img-mapper/react-img-mapper) - React Component to Highlight Interactive Zones in Images
+- [img-mapper/img-mapper](https://github.com/img-mapper/img-mapper) - A React/Vue Component for Creating Interactive and Highlighted Zones on Images
 - [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
 - [isaacs/minimatch](https://github.com/isaacs/minimatch) - a glob matcher in javascript
 - [sveltejs/devalue](https://github.com/sveltejs/devalue) - Gets the job done when JSON.stringify can't
