@@ -1071,7 +1071,7 @@
 - [salvoravida/recoil-toolkit](https://github.com/salvoravida/recoil-toolkit) - Helpers for Recoil, the next generation state management library.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [robbestad/react-iframe](https://github.com/robbestad/react-iframe) - Simple solution for using iframes in React
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. A better, open-source alternative to Google Analytics, Mixpanel and Amplitude.
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [unplugin/unplugin-swc](https://github.com/unplugin/unplugin-swc) - SWC plugin for Vite and Rollup
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
