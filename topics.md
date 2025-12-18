@@ -216,6 +216,7 @@
 - [terraform](#terraform)
 - [testing](#testing)
 - [text-to-speech](#text-to-speech)
+- [tui](#tui)
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ui](#ui)
@@ -1713,7 +1714,7 @@
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [kujian/frontendDaily](https://github.com/kujian/frontendDaily) - 前端开发博客，分享互联网最精彩的前端技术，欢迎关注我微信公众号：前端开发博客，回复 1024，领取前端进阶资料包，回复 加群，与大神一起交流学习。
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced open-source browser fingerprinting library
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library
 - [SilurianYang/uni-app-tools](https://github.com/SilurianYang/uni-app-tools) - this is some uni-app toolset, more routing extensions
 - [yisainan/web-interview](https://github.com/yisainan/web-interview) - 我是齐丶先丶森，收集整理全网面试题及面试技巧，旨在帮助前端工程师们找到一份好工作！更多详见公众号「前端面试秘籍」
 - [xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - TypeScript 入门教程
@@ -2717,7 +2718,7 @@
 - [jashkenas/underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt
 - [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器
 - [hongshancapital/interview-assignments](https://github.com/hongshancapital/interview-assignments) - The monorepo for interview take home assignments.
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程/英语学习
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程/英语学习/学英语
 - [francisrstokes/super-expressive](https://github.com/francisrstokes/super-expressive) - 🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language
 - [myNameIsDu/aktiv](https://github.com/myNameIsDu/aktiv) - A man in progress
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -3545,6 +3546,12 @@
 ## text-to-speech 
 
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+
+## tui 
+
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
+- [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 
 ## twitter 
 
