@@ -993,7 +993,7 @@
 - [sonofmagic/weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) - weapp-tailwindcss - bring tailwindcss to weapp ! 把 tailwindcss 原子化思想带入小程序开发吧 !
 - [danielroe/beasties](https://github.com/danielroe/beasties) - A library to inline your app's critical CSS and lazy-load the rest.
 - [sindresorhus/p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [lgarron/clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill) - :clipboard: Simple copying on the web, with maximum browser compatibility. (You probably don't need this anymore!)
 - [romac/react-if](https://github.com/romac/react-if) - 🌗 Render React components conditionally
 - [nonzzz/vite-bundle-analyzer](https://github.com/nonzzz/vite-bundle-analyzer) - bundle analyzer for vite
