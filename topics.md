@@ -1896,6 +1896,7 @@
 
 ## localization 
 
+- [888888888881/spec-kit-chinese](https://github.com/888888888881/spec-kit-chinese) - 🇨🇳 Spec-Kit 中文汉化版 | GitHub 规范驱动开发工具包完整汉化 | Chinese Localization of GitHub Spec-Kit
 - [formatjs/formatjs](https://github.com/formatjs/formatjs) - The monorepo home to all of the FormatJS related libraries, most notably react-intl.
 - [avajs/ava-docs](https://github.com/avajs/ava-docs) - Localized docs for AVA
 
