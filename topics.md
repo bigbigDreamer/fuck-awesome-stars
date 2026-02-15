@@ -3167,7 +3167,7 @@
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [dvtng/react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app!
 - [imcuttle/mometa](https://github.com/imcuttle/mometa) - 🛠 [Beta] 面向研发的低代码元编程，代码可视编辑，辅助编码工具 The coding tools which is visual code editing, auxiliary and Low-code metaprogramming for R&D
-- [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
+- [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern toolkit for building drag and drop interfaces
 - [iamyoki/transition-hook](https://github.com/iamyoki/transition-hook) - ☄️  An extremely light-weight react transition animation hook which is simpler and easier to use than react-transition-group
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [Bunlong/react-papaparse](https://github.com/Bunlong/react-papaparse) - react-papaparse is the fastest in-browser CSV (or delimited text) parser for React. It is full of useful features such as CSVReader, CSVDownloader, readString, jsonToCSV, readRemoteFile, ... etc.
