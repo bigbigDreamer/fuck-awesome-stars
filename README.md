@@ -1196,7 +1196,7 @@
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [reeli/ts-codegen](https://github.com/reeli/ts-codegen) - Typescript code generator from swagger. 一个生成前端接口层代码和对应 TypeScript 定义的工具。
-- [stenciljs/core](https://github.com/stenciljs/core) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and tradi
+- [stenciljs/core](https://github.com/stenciljs/core) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, (+ more) 
 - [Tencent/omi](https://github.com/Tencent/omi) - Web Components Framework - Web组件框架
 - [lit/lit-element](https://github.com/lit/lit-element) - LEGACY REPO. This repository is for maintenance of the legacy LitElement library. The LitElement base class is now part of the Lit library, which is developed in the lit monorepo.
 - [argos-ci/argos-javascript](https://github.com/argos-ci/argos-javascript) - Official Argos SDKs for JavaScript
