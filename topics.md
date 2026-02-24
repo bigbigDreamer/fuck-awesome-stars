@@ -2442,7 +2442,7 @@
 - [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
-- [cexll/myclaude](https://github.com/cexll/myclaude) - Multi-agent orchestration workflow (Claude Code  Codex Gemini OpenCode)
+- [stellarlinkco/myclaude](https://github.com/stellarlinkco/myclaude) - Multi-agent orchestration workflow (Claude Code  Codex Gemini OpenCode)
 - [Xuanwo/acp-claude-code](https://github.com/Xuanwo/acp-claude-code) - The ACP implementation for Claude Code
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
 - [ConardLi/easy-llm-client](https://github.com/ConardLi/easy-llm-client) - A unified client for various LLM providers.
