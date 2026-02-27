@@ -2434,6 +2434,7 @@
 
 ## others 
 
+- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
