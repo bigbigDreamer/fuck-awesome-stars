@@ -1421,7 +1421,6 @@
 - [Pinedo11/nestDemo-ChatServer](https://github.com/Pinedo11/nestDemo-ChatServer) - Server side of Chat App implemented using Nest
 - [nestjsx/crud](https://github.com/nestjsx/crud) - NestJs CRUD for RESTful APIs
 - [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, Rolldown, and more
-- [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [dai-shi/use-context-selector](https://github.com/dai-shi/use-context-selector) - React useContextSelector hook in userland
 - [umijs/fabric](https://github.com/umijs/fabric) - 💪严格但是不严苛的编码规范
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
@@ -1515,6 +1514,7 @@
 - [bigbigDreamer/Philippine-Virtual-Front-Page](https://github.com/bigbigDreamer/Philippine-Virtual-Front-Page) - These are some pages written By BootStrap@3.0&jQuery@3.2.1/论坛地址
 - [Tencent/tdesign](https://github.com/Tencent/tdesign) - Enterprise Design System
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+- [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [zhangyuang/fe-dev-playbook](https://github.com/zhangyuang/fe-dev-playbook) - 教你如何打造舒适、高效、时尚的前端开发环境
 - [MoePlayer/vue-dplayer](https://github.com/MoePlayer/vue-dplayer) - 📹 A Vue 2.x video player component based on DPlayer
 - [epicmaxco/epic-spinners](https://github.com/epicmaxco/epic-spinners) - Easy to use css spinners collection with Vue.js integration
