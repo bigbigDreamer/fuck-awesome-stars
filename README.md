@@ -644,7 +644,6 @@
 - [NextBoy/vue-quill-editor-upload](https://github.com/NextBoy/vue-quill-editor-upload) - 富文本编辑器vue-quill-editor的辅助插件，用于上传图片到服务器
 - [surmon-china/vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) - @quilljs editor component for @vuejs(2)
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
 - [imcvampire/vue-axios](https://github.com/imcvampire/vue-axios) - A small wrapper for integrating axios to Vuejs
 - [Sariay/hexo-theme-Annie](https://github.com/Sariay/hexo-theme-Annie) - Simple blog theme for Hexo.
 - [ElemeFE/v-charts](https://github.com/ElemeFE/v-charts) - 基于 Vue2.0 和 ECharts 封装的图表组件📈📊
@@ -655,7 +654,7 @@
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [developit/unfetch](https://github.com/developit/unfetch) - 🐕 Bare minimum 500b fetch polyfill.
 - [ppoffice/hexo-theme-icarus](https://github.com/ppoffice/hexo-theme-icarus) - A simple, delicate, and modern theme for the static site generator Hexo.
-- [runk/npm-proxy-cache](https://github.com/runk/npm-proxy-cache) - HTTP/HTTPS caching proxy for work with npm utility
+- [runk/npm-proxy-cache](https://github.com/runk/npm-proxy-cache) - HTTP/HTTPS caching proxy for npm
 - [YMFE/yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
 - [ilyashubin/FilterBlend](https://github.com/ilyashubin/FilterBlend) - CSS blend modes and filters playground
 - [runkids/Imagvue](https://github.com/runkids/Imagvue) - :rice_scene:  Imagvue is an image component for Vue.js
@@ -714,9 +713,11 @@
 - [didi/Hummer](https://github.com/didi/Hummer) - 一套移动端高性能高可用的动态化跨端开发框架
 - [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - A plugin for Mac WeChat
 - [TencentCloud/TIMSDK](https://github.com/TencentCloud/TIMSDK) - Chat SDK (IM SDK) — Build in-app messaging with chat API, UIKit & send message capabilities.  Supports Android, iOS, Flutter, Web, React Native, uni-app, HarmonyOS & more.  Features: one-to-one chat, 
+- [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
 
 ## Others 
 
+- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 - [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 - [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
 - [keep-starknet-strange/awesome-starknet](https://github.com/keep-starknet-strange/awesome-starknet) - A curated list of awesome StarkNet resources, libraries, tools and more
@@ -838,7 +839,9 @@
 
 ## Python 
 
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that coul
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - CLI-Anything: Making ALL Software Agent-Native
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 13 sub-skills, 7 subagents, extensions system with DataForSEO MCP integration. Technical SEO, E-E-A-T, schema, GEO/AEO, and strategic planning.
 - [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
@@ -890,6 +893,8 @@
 
 ## Rust 
 
+- [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
+- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Data infrastructure for AI
