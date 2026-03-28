@@ -1369,7 +1369,7 @@
 - [epicweb-dev/react-performance](https://github.com/epicweb-dev/react-performance) - Let's make our apps fast ⚡
 - [pladaria/reconnecting-websocket](https://github.com/pladaria/reconnecting-websocket) - Reconnecting WebSocket. For Web, React Native, cli (Node.js)
 - [ts-plugin/ts-import-plugin](https://github.com/ts-plugin/ts-import-plugin) - babel-import-plugin TypeScript Implement
-- [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
+- [statelyai/xstate](https://github.com/statelyai/xstate) - State machines, statecharts, and actors for complex logic
 - [wellyshen/use-web-animations](https://github.com/wellyshen/use-web-animations) - 😎 🍿 React hook for highly-performant and manipulable animations using Web Animations API.
 - [reactjs/zh-hans.react.dev](https://github.com/reactjs/zh-hans.react.dev) - React documentation website in Simplified Chinese
 - [any86/any-rule](https://github.com/any86/any-rule) - 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
