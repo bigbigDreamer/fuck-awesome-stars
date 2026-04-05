@@ -179,7 +179,6 @@
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 - [jser/jser.github.io](https://github.com/jser/jser.github.io) - JSer.infoのブログリポジトリ
 - [bigbigDreamer/weekly](https://github.com/bigbigDreamer/weekly) - weekly blog
-- [Qexo/Qexo](https://github.com/Qexo/Qexo) - A fast, powerful and beautiful online manager for all static blog frameworks.
 - [WICG/import-maps](https://github.com/WICG/import-maps) - Former home of import maps (now merged into HTML)
 - [tc39/ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
 - [hongshancapital/interview-assignments](https://github.com/hongshancapital/interview-assignments) - The monorepo for interview take home assignments.
@@ -848,7 +847,7 @@
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Qwen3.5, Gemma 4, DeepSeek, gpt-oss locally.
-- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - CLI-Anything: Making ALL Software Agent-Native -- CLI-Hub: https://clianything.cc/
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 19 sub-skills, 12 subagents, 3 extensions (DataForSEO, Firecrawl, Banana). Technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, Google
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
@@ -877,6 +876,7 @@
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [Guts/mkdocs-rss-plugin](https://github.com/Guts/mkdocs-rss-plugin) - MkDocs plugin to generate a RSS feeds for created and updated pages, using git log and YAML frontmatter (page.meta).
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
+- [Qexo/Qexo](https://github.com/Qexo/Qexo) - A fast, powerful and beautiful online manager for all static blog frameworks.
 - [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal) - a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image
 - [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
@@ -1025,7 +1025,7 @@
 - [athasdev/athas](https://github.com/athasdev/athas) - A lightweight, cross-platform code editor, built with Tauri (Rust and React) with Git support, AI agents, vim keybindings.
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
-- [op7418/CodePilot](https://github.com/op7418/CodePilot) - A desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.
+- [op7418/CodePilot](https://github.com/op7418/CodePilot) - A multi-model AI agent desktop client — connect any AI provider, extend with MCP & skills, control from your phone. Built with Electron + Next.js.
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [tiann/hapi](https://github.com/tiann/hapi) - App for Claude Code / Codex / Gemini / OpenCode, vibe coding anytime, anywhere
